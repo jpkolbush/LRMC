@@ -231,8 +231,6 @@ tMatrix <- function(year, a, b, h){
 	while (i<=NROW(A)) {
 		nameW = getWinner(A, i)
 		nameL = getLoser(A, i)
-		print(nameW)
-		print(nameL)
 		if (!is.element(nameW, teamN) && nameW != "Winner/Tie" && nameW != "") {
 			teamN[length(teamN) + 1] = nameW
 		}
@@ -393,7 +391,7 @@ getSpreads = function(year, a, b, h) {
 #	column 5: week of the season
 #	column 6: Common Game results for the home team. For every common team game, we specify whether the home team played
 #			the common game opponent home or away and the margin of victory
-#	column 7: Common Game results for the home team. For every common team game, we specify whether the away team played
+#	column 7: Common Game results for the away team. For every common team game, we specify whether the away team played
 #			the common game opponent home or away and the margin of victory
 #param year: the year of the seaons we are generating the CG file for
 #returns: CG table
