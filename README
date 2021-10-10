@@ -1,0 +1,45 @@
+Information about each of the files:
+
+LRMC3-1.Rd:
+	The main code for creating and testing the model
+	Run "main(year)" to create the model for the given season and count the
+	number of correctly predicted bowl games
+	Run "multiYearResults()" to create the model for every year from 2002 
+	to 2016.
+	To run the model for a given year, the game reults file for that year 
+	(cfb_years_YEAR-schedule_schedule.csv) and the Common Game information 
+	(CGYEAR.csv) for the previous 4 seasons must be present in the working
+	 directory.
+cfb_years_YEAR-schedule_schedule.csv:
+	contains the game results for the given season
+
+CGYEAR.csv:
+	the common game information for the given season
+
+LRMC3-1 Results Polls:
+	Contains comparisons between the bowl games the LRMC predicted 
+	correctly and the games the bowl games that each of the polls 
+	predicted correctly.
+Table 2:
+	Contains comparisons between the bowl games the LRMC predicted 
+	correctly and the games the bowl games that each of the other models 
+	predicted correctly.
+
+MultiYearBowl Results:
+	Contains comparisons between the bowl games the LRMC predicted 
+	correctly and the games the bowl games that each of the other models 
+	predicted correctly.
+
+PvalueCalculator.py:
+	Calculates the p-values for the hypothesis that the LRMC is better than 
+	a given model for Table 2 and Table 3
+
+BowlResults/
+	Contains comparisons between the bowl games the LRMC predicted 
+	correctly and the games the bowl games that each of the other models 
+	predicted correctly.
+
+Table3Files/
+	Contains comparisons between the bowl games the LRMC predicted 
+	correctly and the games the bowl games that each of the other models 
+	that missed between 1 and 2 seasons in publishing rangkings. 
