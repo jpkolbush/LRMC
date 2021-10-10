@@ -64,15 +64,15 @@ homeAd <-function(A, B, a, b){
 
 getWinner <- function(A, i) {
 	if (substr(A[i,5],1,1) == "(" && substr(A[i,5],3,3) == ")") {
-		k <- levels(A[i,5])[A[i,5]]
+		k <- A[i,5]
 		nameW <- substr(k, 5, nchar(k))
 	}
 	else if (substr(A[i,5],1,1) == "(" && substr(A[i,5],4,4) == ")") {
-		k <- levels(A[i,5])[A[i,5]]
+		k <- A[i,5]
 		nameW <- substr(k, 6, nchar(k))
 	}
 	else {
-		nameW <- levels(A[i,5])[A[i,5]]
+		nameW <- A[i,5]
 	
 	}
 	nameW
@@ -86,15 +86,15 @@ getWinner <- function(A, i) {
 
 getLoser <- function(A, i) {
 	if (substr(A[i,8],1,1) == "(" && substr(A[i,8],3,3) == ")") {
-		k <- levels(A[i,8])[A[i,8]]
+		k <- A[i,8]
 		nameL <- substr(k, 5, nchar(k))
 	}
 	else if (substr(A[i,8],1,1) == "(" && substr(A[i,8],4,4) == ")") {
-		k <- levels(A[i,8])[A[i,8]]
+		k <- A[i,8]
 		nameL <- substr(k, 6, nchar(k))
 	}
 	else {
-		nameL <- levels(A[i,8])[A[i,8]]
+		nameL <- A[i,8]
 	}
 	nameL
 
@@ -117,8 +117,8 @@ gen_rM<-function(year) {
 	rM = matrix(rep(0,603), nrow=201, ncol =3)
 	while (i< NROW(P)) {
 		if (P[i,2] != 0) {
-			homeS = strsplit(levels(P[i,6])[P[i,6]], " ")
-			awayS = strsplit(levels(P[i,7])[P[i,7]], " ")
+			homeS = strsplit(P[i,6], " ")
+			awayS = strsplit(P[i,7], " ")
 			j = 2
 			while (j < length(homeS[[1]])) { 
 				if (homeS[[1]][j] == "H" &&  as.numeric(homeS[[1]][j+1]) > 0 ||
@@ -231,6 +231,8 @@ tMatrix <- function(year, a, b, h){
 	while (i<=NROW(A)) {
 		nameW = getWinner(A, i)
 		nameL = getLoser(A, i)
+		print(nameW)
+		print(nameL)
 		if (!is.element(nameW, teamN) && nameW != "Winner/Tie" && nameW != "") {
 			teamN[length(teamN) + 1] = nameW
 		}
@@ -248,18 +250,18 @@ tMatrix <- function(year, a, b, h){
 	colnames(M) = teamN
 	
 	i = 1
-	while (as.numeric(levels(A[i,2])[A[i,2]])< 16  && i <= NROW(A)) {
+	while (as.numeric(A[i,2])< 16  && i <= NROW(A)) {
 		nameW = getWinner(A, i)
 		nameL = getLoser(A, i)
-		if (levels(A[i,7])[A[i,7]] == "@") {
+		if (A[i,7] == "@") {
 			HomeT <- nameL
 			AwayT <- nameW
-			marg <- as.numeric(levels(A[i,9])[A[i,9]]) - as.numeric(levels(A[i,6])[A[i,6]])
+			marg <- as.numeric(A[i,9]) - as.numeric(A[i,6])
 			}
 		else {
 			HomeT <- nameW
 			AwayT <- nameL
-			marg <- as.numeric(levels(A[i,6])[A[i,6]]) - as.numeric(levels(A[i,9])[A[i,9]])
+			marg <- as.numeric(A[i,6]) - as.numeric(A[i,9])
 		}
 		#print(HomeT)
 		#print(AwayT)
@@ -277,7 +279,7 @@ tMatrix <- function(year, a, b, h){
 		}
 				
 		i = i + 1
-		if (i < NROW(A) && levels(A[i,2])[A[i,2]] == "Wk") {
+		if (i < NROW(A) && A[i,2] == "Wk") {
 			i = i + 1
 		}
 	}
@@ -344,19 +346,19 @@ getSpreads = function(year, a, b, h) {
 	spreads = rep(0, 43)
 	j = 1
 	i = 1
-	while (i < NROW(A) && as.numeric(levels(A[i,2])[A[i,2]])< 16) {
+	while (i < NROW(A) && as.numeric(A[i,2])< 16) {
 		i = i + 1
-		if (levels(A[i,2])[A[i,2]] == "Wk") {
+		if (A[i,2] == "Wk") {
 			i = i + 1
 		}
 	}
 	while (i <=NROW(A)) {
-		if (levels(A[i,2])[A[i,2]] == "Wk") {
+		if (A[i,2] == "Wk") {
 			i = i + 1
 		}
 		nameW = getWinner(A, i)
 		nameL = getLoser(A, i)
-		marg <- as.numeric(levels(A[i,6])[A[i,6]]) - as.numeric(levels(A[i,9])[A[i,9]])
+		marg <- as.numeric(A[i,6]) - as.numeric(A[i,9])
 		
 		if (nameW != "" && nameL != "") {
 		spreads[j] = pointSpread(nameW, nameL, P, 4000)
@@ -400,13 +402,13 @@ genCG <- function(year) {
 	CG = matrix(rep(0, NROW(A)*6), nrow = NROW(A), ncol = 6)
 	i = 1
 	print(A[i,2])
-	print(levels(A[i,2])[A[i,2]])
-	while (as.numeric(levels(A[i,2])[A[i,2]])< 16) {
+	print(A[i,2])
+	while (as.numeric(A[i,2])< 16) {
 		print(i)
 		if (A[i,10] == "") {
 			nameW = getWinner(A, i)
 			nameL = getLoser(A, i)
-			if (levels(A[i,7])[A[i,7]] == "@") {
+			if (A[i,7] == "@") {
 				HomeT <- nameL
 				AwayT <- nameW
 				marg <- as.numeric(A[i,9]) - as.numeric(A[i,6])									
@@ -419,11 +421,11 @@ genCG <- function(year) {
 			CG[i, 1] = HomeT
 			CG[i, 2] = AwayT
 			CG[i,3] = marg
-			CG[i,4] = as.numeric(levels(A[i,2])[A[i,2]])
+			CG[i,4] = as.numeric(A[i,2])
 			CG = CGsearch2(A, HomeT, AwayT, CG, i)
 		}
 		i = i + 1
-		if (levels(A[i,2])[A[i,2]] == "Wk") {
+		if (A[i,2] == "Wk") {
 			i = i + 1
 		
 		}
@@ -448,11 +450,11 @@ CGsearch2 <- function(A, AnameH, AnameA, CG, I){
 	homeS = ""
 	awayS = ""
 	i = 1
-	while (as.numeric(levels(A[i,2])[A[i,2]])< 16) {
+	while (as.numeric(A[i,2])< 16) {
 		if (A[i,10] == "") {
 		nameW = getWinner(A, i)
 		nameL = getLoser(A, i)
-		if (levels(A[i,7])[A[i,7]] == "@") {
+		if (A[i,7] == "@") {
 				HomeT <- nameL
 				AwayT <- nameW
 				marg <- as.numeric(A[i,9]) - as.numeric(A[i,6])									
@@ -480,7 +482,7 @@ CGsearch2 <- function(A, AnameH, AnameA, CG, I){
 		}
 		}
 		i = i + 1
-		if (levels(A[i,2])[A[i,2]] == "Wk") {
+		if (A[i,2] == "Wk") {
 			i = i + 1
 		}		
 	}
