@@ -29,7 +29,7 @@ Playoffs = False
 i = 1
 while i < len(rows):
     row = rows[i].split(",")
-    if row[0] == "Pk":
+    if row[0] == "Pk" or (row[5] == "" and row[8] == ""):
         rows.pop(i)
         i-=1
     else:

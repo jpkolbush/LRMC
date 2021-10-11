@@ -25,8 +25,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 24,1,Aug 30 2013,Fri,Samford,31,@,Georgia State,21,
 25,1,Aug 30 2013,Fri,Texas Tech,41,@,Southern Methodist,23,
 26,1,Aug 31 2013,Sat,Air Force,38,,Colgate,13,
-27,1,Aug 31 2013,Sat,(1) Alabama,35,,Virginia Tech,10,Georgia Dome - Atlanta GA
-28,1,Aug 31 2013,Sat,Arkansas,34,,Louisiana-Lafayette,14,
+27,1,Aug 31 2013,Sat,(1) Alabama,35,N,Virginia Tech,10,Georgia Dome - Atlanta GA
+28,1,Aug 31 2013,Sat,Arkansas,34,,Louisiana,14,
 29,1,Aug 31 2013,Sat,Arkansas State,62,,Arkansas-Pine Bluff,11,
 30,1,Aug 31 2013,Sat,Auburn,31,,Washington State,24,
 31,1,Aug 31 2013,Sat,Baylor,69,,Wofford,3,
@@ -41,7 +41,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 40,1,Aug 31 2013,Sat,(10) Florida,24,,Toledo,6,
 41,1,Aug 31 2013,Sat,Georgia Tech,70,,Elon,0,
 42,1,Aug 31 2013,Sat,Illinois,42,,Southern Illinois,34,
-43,1,Aug 31 2013,Sat,(12) Louisiana State,37,,(20) Texas Christian,27,AT&amp;T Stadium - Arlington TX
+43,1,Aug 31 2013,Sat,(12) Louisiana State,37,N,(20) Texas Christian,27,AT&T Stadium - Arlington TX
 44,1,Aug 31 2013,Sat,Marshall,52,,Miami (OH),14,
 45,1,Aug 31 2013,Sat,Maryland,43,,Florida International,10,
 46,1,Aug 31 2013,Sat,McNeese State,53,@,South Florida,21,
@@ -56,25 +56,24 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 55,1,Aug 31 2013,Sat,(14) Notre Dame,28,,Temple,6,
 56,1,Aug 31 2013,Sat,(2) Ohio State,40,,Buffalo,20,
 57,1,Aug 31 2013,Sat,(16) Oklahoma,34,,Louisiana-Monroe,0,
-58,1,Aug 31 2013,Sat,(13) Oklahoma State,21,,Mississippi State,3,Reliant Stadium - Houston TX
+58,1,Aug 31 2013,Sat,(13) Oklahoma State,21,N,Mississippi State,3,Reliant Stadium - Houston TX
 59,1,Aug 31 2013,Sat,(3) Oregon,66,,Nicholls State,3,
-60,1,Aug 31 2013,Sat,Penn State,23,,Syracuse,17,MetLife Stadium - East Rutherford NJ
+60,1,Aug 31 2013,Sat,Penn State,23,N,Syracuse,17,MetLife Stadium - East Rutherford NJ
 61,1,Aug 31 2013,Sat,Tennessee,45,,Austin Peay,0,
 62,1,Aug 31 2013,Sat,(15) Texas,56,,New Mexico State,7,
-63,1,Aug 31 2013,Sat,(7) Texas A&amp;M,52,,Rice,31,
+63,1,Aug 31 2013,Sat,(7) Texas A&M,52,,Rice,31,
 64,1,Aug 31 2013,Sat,Texas State,22,@,Southern Mississippi,15,
 65,1,Aug 31 2013,Sat,Texas-San Antonio,21,@,New Mexico,13,
 66,1,Aug 31 2013,Sat,Troy,34,,Alabama-Birmingham,31,
 67,1,Aug 31 2013,Sat,(21) UCLA,58,,Nevada,20,
 68,1,Aug 31 2013,Sat,Virginia,19,,Brigham Young,16,
 69,1,Aug 31 2013,Sat,Washington,38,,(19) Boise State,6,
-70,1,Aug 31 2013,Sat,West Virginia,24,,William &amp; Mary,17,
-71,1,Aug 31 2013,Sat,Western Kentucky,35,,Kentucky,26,LP Field - Nashville TN
+70,1,Aug 31 2013,Sat,West Virginia,24,,William & Mary,17,
+71,1,Aug 31 2013,Sat,Western Kentucky,35,N,Kentucky,26,LP Field - Nashville TN
 72,1,Aug 31 2013,Sat,(23) Wisconsin,45,,Massachusetts,0,
-73,1,Sep 1 2013,Sun,Colorado,41,,Colorado State,27,Sports Authority Field at Mile High Stadium - Denver CO
-74,1,Sep 1 2013,Sun,(8) Louisville,49,,Ohio,7,
+73,1,Sep 1 2013,Sun,Colorado,41,N,Colorado State,27,Sports Authority Field at Mile High Stadium - Denver CO
+74,1,Sep 1 2013,Sun,(9) Louisville,49,,Ohio,7,
 75,1,Sep 2 2013,Mon,(10) Florida State,41,@,Pittsburgh,13,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 76,2,Sep 5 2013,Thu,Arizona State,55,,Sacramento State,0,
 77,2,Sep 5 2013,Thu,East Carolina,31,,Florida Atlantic,13,
 78,2,Sep 6 2013,Fri,Boston College,24,,Wake Forest,10,
@@ -100,7 +99,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 98,2,Sep 7 2013,Sat,Illinois,45,,Cincinnati,17,
 99,2,Sep 7 2013,Sat,Iowa,28,,Missouri State,14,
 100,2,Sep 7 2013,Sat,Kansas,31,,South Dakota,14,
-101,2,Sep 7 2013,Sat,Kansas State,48,,Louisiana-Lafayette,27,
+101,2,Sep 7 2013,Sat,Kansas State,48,,Louisiana,27,
 102,2,Sep 7 2013,Sat,Kentucky,41,,Miami (OH),7,
 103,2,Sep 7 2013,Sat,(9) Louisiana State,56,,Alabama-Birmingham,17,
 104,2,Sep 7 2013,Sat,Louisiana Tech,27,,Lamar,14,
@@ -137,9 +136,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 135,2,Sep 7 2013,Sat,Southern Methodist,31,,Montana State,30,
 136,2,Sep 7 2013,Sat,(5) Stanford,34,,San Jose State,13,
 137,2,Sep 7 2013,Sat,Tennessee,52,,Western Kentucky,20,
-138,2,Sep 7 2013,Sat,(7) Texas A&amp;M,65,,Sam Houston State,28,
+138,2,Sep 7 2013,Sat,(7) Texas A&M,65,,Sam Houston State,28,
 139,2,Sep 7 2013,Sat,(24) Texas Christian,38,,Southeastern Louisiana,17,
-140,2,Sep 7 2013,Sat,Texas State,28,,Prairie View A&amp;M,3,
+140,2,Sep 7 2013,Sat,Texas State,28,,Prairie View A&M,3,
 141,2,Sep 7 2013,Sat,Texas Tech,61,,Stephen F. Austin,13,
 142,2,Sep 7 2013,Sat,Troy,66,,Savannah State,3,
 143,2,Sep 7 2013,Sat,Tulsa,30,,Colorado State,27,
@@ -150,12 +149,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 148,2,Sep 7 2013,Sat,Washington State,10,@,(25) Southern California,7,
 149,2,Sep 7 2013,Sat,(21) Wisconsin,48,,Tennessee Tech,0,
 150,2,Sep 7 2013,Sat,Wyoming,42,,Idaho,10,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 151,3,Sep 12 2013,Thu,Arkansas State,41,,Troy,34,
 152,3,Sep 12 2013,Thu,Texas Tech,20,,(24) Texas Christian,10,
 153,3,Sep 12 2013,Thu,Tulane,24,@,Louisiana Tech,15,
 154,3,Sep 13 2013,Fri,Boise State,42,,Air Force,20,
-155,3,Sep 14 2013,Sat,(1) Alabama,49,@,(6) Texas A&amp;M,42,
+155,3,Sep 14 2013,Sat,(1) Alabama,49,@,(6) Texas A&M,42,
 156,3,Sep 14 2013,Sat,Arizona,38,,Texas-San Antonio,13,
 157,3,Sep 14 2013,Sat,Arizona State,32,,(20) Wisconsin,30,
 158,3,Sep 14 2013,Sat,Arkansas,24,,Southern Mississippi,3,
@@ -168,12 +166,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 165,3,Sep 14 2013,Sat,Florida Atlantic,28,@,South Florida,10,
 166,3,Sep 14 2013,Sat,(10) Florida State,62,,Nevada,7,
 167,3,Sep 14 2013,Sat,Fordham,30,@,Temple,29,
+168,3,Sep 14 2013,Sat,Fresno State,,@,Colorado,,Game Cancelled
 169,3,Sep 14 2013,Sat,Georgia Tech,38,@,Duke,14,
 170,3,Sep 14 2013,Sat,Indiana,42,,Bowling Green State,10,
 171,3,Sep 14 2013,Sat,Iowa,27,@,Iowa State,21,
 172,3,Sep 14 2013,Sat,Kansas State,37,,Massachusetts,7,
-173,3,Sep 14 2013,Sat,(8) Louisiana State,45,,Kent State,13,
-174,3,Sep 14 2013,Sat,Louisiana-Lafayette,70,,Nicholls State,7,
+173,3,Sep 14 2013,Sat,Louisiana,70,,Nicholls State,7,
+174,3,Sep 14 2013,Sat,(8) Louisiana State,45,,Kent State,13,
 175,3,Sep 14 2013,Sat,Louisiana-Monroe,21,@,Wake Forest,19,
 176,3,Sep 14 2013,Sat,(7) Louisville,27,@,Kentucky,13,
 177,3,Sep 14 2013,Sat,Maryland,32,@,Connecticut,21,
@@ -207,11 +206,10 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 205,3,Sep 14 2013,Sat,(16) UCLA,41,@,(23) Nebraska,21,
 206,3,Sep 14 2013,Sat,Utah State,70,,Weber State,6,
 207,3,Sep 14 2013,Sat,Virginia Tech,15,@,East Carolina,10,
-208,3,Sep 14 2013,Sat,(19) Washington,34,,Illinois,24,Soldier Field - Chicago IL
+208,3,Sep 14 2013,Sat,(19) Washington,34,N,Illinois,24,Soldier Field - Chicago IL
 209,3,Sep 14 2013,Sat,Washington State,48,,Southern Utah,10,
 210,3,Sep 14 2013,Sat,West Virginia,41,,Georgia State,7,
 211,3,Sep 14 2013,Sat,Wyoming,35,,Northern Colorado,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 212,4,Sep 19 2013,Thu,(3) Clemson,26,@,North Carolina State,14,
 213,4,Sep 20 2013,Fri,Fresno State,41,,Boise State,40,
 214,4,Sep 21 2013,Sat,(1) Alabama,31,,Colorado State,6,
@@ -224,14 +222,14 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 221,4,Sep 21 2013,Sat,(8) Florida State,54,,Bethune-Cookman,6,
 222,4,Sep 21 2013,Sat,(9) Georgia,45,,North Texas,21,
 223,4,Sep 21 2013,Sat,Georgia Tech,28,,North Carolina,20,
-224,4,Sep 21 2013,Sat,Houston,31,,Rice,26,Reliant Stadium - Houston TX
+224,4,Sep 21 2013,Sat,Houston,31,N,Rice,26,Reliant Stadium - Houston TX
 225,4,Sep 21 2013,Sat,Iowa,59,,Western Michigan,3,
 226,4,Sep 21 2013,Sat,Jacksonville State,32,@,Georgia State,26,
 227,4,Sep 21 2013,Sat,Kansas,13,,Louisiana Tech,10,
-228,4,Sep 21 2013,Sat,(6) Louisiana State,35,,Auburn,21,
-229,4,Sep 21 2013,Sat,Louisiana-Lafayette,35,@,Akron,30,
+228,4,Sep 21 2013,Sat,Louisiana,35,@,Akron,30,
+229,4,Sep 21 2013,Sat,(6) Louisiana State,35,,Auburn,21,
 230,4,Sep 21 2013,Sat,(7) Louisville,72,,Florida International,0,
-231,4,Sep 21 2013,Sat,Maryland,37,,West Virginia,0,M&amp;T Bank Stadium - Baltimore MD
+231,4,Sep 21 2013,Sat,Maryland,37,N,West Virginia,0,M&T Bank Stadium - Baltimore MD
 232,4,Sep 21 2013,Sat,Memphis,31,,Arkansas State,7,
 233,4,Sep 21 2013,Sat,(16) Miami (FL),77,,Savannah State,7,
 234,4,Sep 21 2013,Sat,(15) Michigan,24,@,Connecticut,21,
@@ -246,7 +244,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 243,4,Sep 21 2013,Sat,(18) Northwestern,35,,Maine,21,
 244,4,Sep 21 2013,Sat,(22) Notre Dame,17,,Michigan State,13,
 245,4,Sep 21 2013,Sat,Ohio,38,,Austin Peay,0,
-246,4,Sep 21 2013,Sat,(4) Ohio State,76,,Florida A&amp;M,0,
+246,4,Sep 21 2013,Sat,(4) Ohio State,76,,Florida A&M,0,
 247,4,Sep 21 2013,Sat,Oregon State,34,@,San Diego State,30,
 248,4,Sep 21 2013,Sat,Penn State,34,,Kent State,0,
 249,4,Sep 21 2013,Sat,Pittsburgh,58,@,Duke,55,
@@ -255,7 +253,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 252,4,Sep 21 2013,Sat,(5) Stanford,42,,(23) Arizona State,28,
 253,4,Sep 21 2013,Sat,Syracuse,52,,Tulane,17,
 254,4,Sep 21 2013,Sat,Texas,31,,Kansas State,21,
-255,4,Sep 21 2013,Sat,(10) Texas A&amp;M,42,,Southern Methodist,13,
+255,4,Sep 21 2013,Sat,(10) Texas A&M,42,,Southern Methodist,13,
 256,4,Sep 21 2013,Sat,(25) Texas Tech,33,,Texas State,7,
 257,4,Sep 21 2013,Sat,Texas-San Antonio,32,@,Texas-El Paso,13,
 258,4,Sep 21 2013,Sat,Toledo,38,@,Central Michigan,17,
@@ -270,14 +268,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 267,4,Sep 21 2013,Sat,Western Kentucky,58,,Morgan State,17,
 268,4,Sep 21 2013,Sat,(24) Wisconsin,41,,Purdue,10,
 269,4,Sep 21 2013,Sat,Wyoming,56,@,Air Force,23,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 270,5,Sep 26 2013,Thu,Iowa State,38,@,Tulsa,21,
 271,5,Sep 26 2013,Thu,Virginia Tech,17,@,Georgia Tech,10,
 272,5,Sep 27 2013,Fri,Brigham Young,37,,Middle Tennessee State,10,
 273,5,Sep 27 2013,Fri,Utah State,40,@,San Jose State,12,
 274,5,Sep 28 2013,Sat,(1) Alabama,25,,(21) Mississippi,0,
 275,5,Sep 28 2013,Sat,Arizona State,62,,Southern California,41,
-276,5,Sep 28 2013,Sat,Army,35,,Louisiana Tech,16,Cotton Bowl - Dallas TX
+276,5,Sep 28 2013,Sat,Army,35,N,Louisiana Tech,16,Cotton Bowl - Dallas TX
 277,5,Sep 28 2013,Sat,Ball State,31,,Toledo,24,
 278,5,Sep 28 2013,Sat,Boise State,60,,Southern Mississippi,7,
 279,5,Sep 28 2013,Sat,Bowling Green State,31,,Akron,14,
@@ -309,9 +306,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 305,5,Sep 28 2013,Sat,Rice,18,,Florida Atlantic,14,
 306,5,Sep 28 2013,Sat,San Diego State,26,@,New Mexico State,16,
 307,5,Sep 28 2013,Sat,(12) South Carolina,28,@,Central Florida,25,
-308,5,Sep 28 2013,Sat,(5) Stanford,55,,Washington State,17,CenturyLink Field - Seattle WA
+308,5,Sep 28 2013,Sat,(5) Stanford,55,N,Washington State,17,CenturyLink Field - Seattle WA
 309,5,Sep 28 2013,Sat,Tennessee,31,,South Alabama,24,
-310,5,Sep 28 2013,Sat,(10) Texas A&amp;M,45,@,Arkansas,33,
+310,5,Sep 28 2013,Sat,(10) Texas A&M,45,@,Arkansas,33,
 311,5,Sep 28 2013,Sat,Texas Christian,48,,Southern Methodist,17,
 312,5,Sep 28 2013,Sat,Texas State,42,,Wyoming,21,
 313,5,Sep 28 2013,Sat,Tulane,31,@,Louisiana-Monroe,14,
@@ -319,7 +316,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 315,5,Sep 28 2013,Sat,(16) Washington,31,,Arizona,13,
 316,5,Sep 28 2013,Sat,West Virginia,30,,(11) Oklahoma State,21,
 317,5,Sep 28 2013,Sat,Western Kentucky,19,,Navy,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 318,6,Oct 3 2013,Thu,Texas,31,@,Iowa State,30,
 319,6,Oct 3 2013,Thu,(12) UCLA,34,@,Utah,27,
 320,6,Oct 3 2013,Thu,Western Kentucky,31,@,Louisiana-Monroe,10,
@@ -343,9 +339,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 338,6,Oct 5 2013,Sat,(23) Fresno State,61,@,Idaho,14,
 339,6,Oct 5 2013,Sat,(6) Georgia,34,@,Tennessee,31,
 340,6,Oct 5 2013,Sat,Indiana,44,,Penn State,24,
-341,6,Oct 5 2013,Sat,(10) Louisiana State,59,@,Mississippi State,26,
-342,6,Oct 5 2013,Sat,Louisiana Tech,38,@,Texas-El Paso,35,
-343,6,Oct 5 2013,Sat,Louisiana-Lafayette,48,,Texas State,24,
+341,6,Oct 5 2013,Sat,Louisiana,48,,Texas State,24,
+342,6,Oct 5 2013,Sat,(10) Louisiana State,59,@,Mississippi State,26,
+343,6,Oct 5 2013,Sat,Louisiana Tech,38,@,Texas-El Paso,35,
 344,6,Oct 5 2013,Sat,(7) Louisville,30,@,Temple,7,
 345,6,Oct 5 2013,Sat,Marshall,34,,Texas-San Antonio,10,
 346,6,Oct 5 2013,Sat,(14) Miami (FL),45,,Georgia Tech,30,
@@ -356,7 +352,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 351,6,Oct 5 2013,Sat,Nebraska,39,,Illinois,19,
 352,6,Oct 5 2013,Sat,New Mexico,66,,New Mexico State,17,
 353,6,Oct 5 2013,Sat,Northern Illinois,38,@,Kent State,24,
-354,6,Oct 5 2013,Sat,Notre Dame,37,,(22) Arizona State,34,AT&amp;T Stadium - Arlington TX
+354,6,Oct 5 2013,Sat,Notre Dame,37,N,(22) Arizona State,34,AT&T Stadium - Arlington TX
 355,6,Oct 5 2013,Sat,Ohio,43,@,Akron,3,
 356,6,Oct 5 2013,Sat,(4) Ohio State,40,@,(16) Northwestern,30,
 357,6,Oct 5 2013,Sat,(11) Oklahoma,20,,Texas Christian,17,
@@ -375,7 +371,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 370,6,Oct 5 2013,Sat,Virginia Tech,27,,North Carolina,17,
 371,6,Oct 5 2013,Sat,Wake Forest,28,,North Carolina State,13,
 372,6,Oct 5 2013,Sat,Washington State,44,@,California,22,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 373,7,Oct 10 2013,Thu,(8) Louisville,24,,Rutgers,10,
 374,7,Oct 10 2013,Thu,San Diego State,27,@,Air Force,20,
 375,7,Oct 10 2013,Thu,Southern California,38,,Arizona,31,
@@ -394,7 +389,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 388,7,Oct 12 2013,Sat,Central Michigan,26,@,Ohio,23,
 389,7,Oct 12 2013,Sat,(3) Clemson,24,,Boston College,14,
 390,7,Oct 12 2013,Sat,Duke,35,,Navy,7,
-391,7,Oct 12 2013,Sat,Houston,25,,Memphis,15,BBVA Compass Stadium - Houston TX
+391,7,Oct 12 2013,Sat,Houston,25,N,Memphis,15,BBVA Compass Stadium - Houston TX
 392,7,Oct 12 2013,Sat,(10) Louisiana State,17,,(17) Florida,6,
 393,7,Oct 12 2013,Sat,Louisiana-Monroe,21,@,Texas State,14,
 394,7,Oct 12 2013,Sat,Marshall,24,@,Florida Atlantic,23,
@@ -415,8 +410,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 409,7,Oct 12 2013,Sat,(14) South Carolina,52,@,Arkansas,7,
 410,7,Oct 12 2013,Sat,South Florida,13,@,Connecticut,10,
 411,7,Oct 12 2013,Sat,Syracuse,24,@,North Carolina State,10,
-412,7,Oct 12 2013,Sat,Texas,36,,(12) Oklahoma,20,Cotton Bowl - Dallas TX
-413,7,Oct 12 2013,Sat,(9) Texas A&amp;M,41,@,Mississippi,38,
+412,7,Oct 12 2013,Sat,Texas,36,N,(12) Oklahoma,20,Cotton Bowl - Dallas TX
+413,7,Oct 12 2013,Sat,(9) Texas A&M,41,@,Mississippi,38,
 414,7,Oct 12 2013,Sat,Texas Christian,27,,Kansas,17,
 415,7,Oct 12 2013,Sat,(20) Texas Tech,42,,Iowa State,35,
 416,7,Oct 12 2013,Sat,Troy,35,@,Georgia State,28,
@@ -427,19 +422,18 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 421,7,Oct 12 2013,Sat,(24) Virginia Tech,19,,Pittsburgh,9,
 422,7,Oct 12 2013,Sat,Wisconsin,35,,(19) Northwestern,6,
 423,7,Oct 12 2013,Sat,Wyoming,38,,New Mexico,31,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-424,8,Oct 15 2013,Tue,Louisiana-Lafayette,37,@,Western Kentucky,20,
+424,8,Oct 15 2013,Tue,Louisiana,37,@,Western Kentucky,20,
 425,8,Oct 17 2013,Thu,(10) Miami (FL),27,@,North Carolina,23,
 426,8,Oct 18 2013,Fri,Central Florida,38,@,(8) Louisville,35,
 427,8,Oct 19 2013,Sat,Akron,24,@,Miami (OH),17,
 428,8,Oct 19 2013,Sat,(1) Alabama,52,,Arkansas,0,
 429,8,Oct 19 2013,Sat,Arizona,35,,Utah,24,
 430,8,Oct 19 2013,Sat,Arizona State,53,,(20) Washington,24,
-431,8,Oct 19 2013,Sat,(24) Auburn,45,@,(7) Texas A&amp;M,41,
+431,8,Oct 19 2013,Sat,(24) Auburn,45,@,(7) Texas A&M,41,
 432,8,Oct 19 2013,Sat,Ball State,38,@,Western Michigan,17,
 433,8,Oct 19 2013,Sat,(12) Baylor,71,,Iowa State,7,
 434,8,Oct 19 2013,Sat,Boise State,34,,Nevada,17,
-435,8,Oct 19 2013,Sat,Brigham Young,47,,Houston,46,Reliant Stadium - Houston TX
+435,8,Oct 19 2013,Sat,Brigham Young,47,N,Houston,46,Reliant Stadium - Houston TX
 436,8,Oct 19 2013,Sat,Buffalo,32,,Massachusetts,3,
 437,8,Oct 19 2013,Sat,Cincinnati,41,,Connecticut,16,
 438,8,Oct 19 2013,Sat,Colorado,43,,Charleston Southern,10,
@@ -477,8 +471,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 470,8,Oct 19 2013,Sat,Vanderbilt,31,,(15) Georgia,27,
 471,8,Oct 19 2013,Sat,Wake Forest,34,,Maryland,10,
 472,8,Oct 19 2013,Sat,(25) Wisconsin,56,@,Illinois,32,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-473,9,Oct 22 2013,Tue,Louisiana-Lafayette,23,@,Arkansas State,7,
+473,9,Oct 22 2013,Tue,Louisiana,23,@,Arkansas State,7,
 474,9,Oct 24 2013,Thu,Middle Tennessee State,51,,Marshall,49,
 475,9,Oct 24 2013,Thu,Mississippi State,28,,Kentucky,22,
 476,9,Oct 25 2013,Fri,Brigham Young,37,,Boise State,20,
@@ -525,7 +518,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 517,9,Oct 26 2013,Sat,Southern Methodist,59,,Temple,49,
 518,9,Oct 26 2013,Sat,(8) Stanford,20,@,Oregon State,12,
 519,9,Oct 26 2013,Sat,Texas,30,@,Texas Christian,7,
-520,9,Oct 26 2013,Sat,(14) Texas A&amp;M,56,,Vanderbilt,24,
+520,9,Oct 26 2013,Sat,(14) Texas A&M,56,,Vanderbilt,24,
 521,9,Oct 26 2013,Sat,Texas State,33,,South Alabama,31,
 522,9,Oct 26 2013,Sat,Texas-San Antonio,52,,Alabama-Birmingham,31,
 523,9,Oct 26 2013,Sat,Toledo,28,@,Bowling Green State,25,
@@ -533,7 +526,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 525,9,Oct 26 2013,Sat,Tulane,14,,Tulsa,7,
 526,9,Oct 26 2013,Sat,Washington,41,,California,17,
 527,9,Oct 26 2013,Sat,Western Michigan,31,@,Massachusetts,30,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 528,10,Oct 30 2013,Wed,Cincinnati,34,@,Memphis,21,
 529,10,Oct 31 2013,Thu,(25) Arizona State,55,@,Washington State,21,
 530,10,Oct 31 2013,Thu,Houston,35,,South Florida,23,
@@ -552,11 +544,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 543,10,Nov 2 2013,Sat,Florida Atlantic,34,,Tulane,17,
 544,10,Nov 2 2013,Sat,(3) Florida State,41,,(7) Miami (FL),14,
 545,10,Nov 2 2013,Sat,(16) Fresno State,41,,Nevada,23,
-546,10,Nov 2 2013,Sat,Georgia,23,,Florida,20,EverBank Field - Jacksonville FL
+546,10,Nov 2 2013,Sat,Georgia,23,N,Florida,20,EverBank Field - Jacksonville FL
 547,10,Nov 2 2013,Sat,Georgia Tech,21,,Pittsburgh,10,
 548,10,Nov 2 2013,Sat,Kansas State,41,,Iowa State,7,
 549,10,Nov 2 2013,Sat,Kentucky,48,,Alabama State,14,
-550,10,Nov 2 2013,Sat,Louisiana-Lafayette,49,,New Mexico State,35,
+550,10,Nov 2 2013,Sat,Louisiana,49,,New Mexico State,35,
 551,10,Nov 2 2013,Sat,Marshall,61,,Southern Mississippi,13,
 552,10,Nov 2 2013,Sat,(24) Michigan State,29,,(23) Michigan,6,
 553,10,Nov 2 2013,Sat,Middle Tennessee State,24,@,Alabama-Birmingham,21,
@@ -575,7 +567,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 566,10,Nov 2 2013,Sat,(14) South Carolina,34,,Mississippi State,16,
 567,10,Nov 2 2013,Sat,Syracuse,13,,Wake Forest,0,
 568,10,Nov 2 2013,Sat,Texas,35,,Kansas,13,
-569,10,Nov 2 2013,Sat,(12) Texas A&amp;M,57,,Texas-El Paso,7,
+569,10,Nov 2 2013,Sat,(12) Texas A&M,57,,Texas-El Paso,7,
 570,10,Nov 2 2013,Sat,Texas State,37,@,Idaho,21,
 571,10,Nov 2 2013,Sat,Texas-San Antonio,34,@,Tulsa,15,
 572,10,Nov 2 2013,Sat,Toledo,55,,Eastern Michigan,16,
@@ -584,12 +576,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 575,10,Nov 2 2013,Sat,West Virginia,30,@,Texas Christian,27,
 576,10,Nov 2 2013,Sat,Western Kentucky,44,@,Georgia State,28,
 577,10,Nov 2 2013,Sat,(22) Wisconsin,28,@,Iowa,9,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 578,11,Nov 5 2013,Tue,Bowling Green State,45,@,Miami (OH),3,
 579,11,Nov 5 2013,Tue,Buffalo,30,,Ohio,3,
 580,11,Nov 6 2013,Wed,Ball State,44,,Central Michigan,24,
 581,11,Nov 7 2013,Thu,(5) Baylor,41,,(12) Oklahoma,12,
-582,11,Nov 7 2013,Thu,Louisiana-Lafayette,41,,Troy,36,
+582,11,Nov 7 2013,Thu,Louisiana,41,,Troy,36,
 583,11,Nov 7 2013,Thu,(6) Stanford,26,,(2) Oregon,20,
 584,11,Nov 8 2013,Fri,(20) Louisville,31,@,Connecticut,10,
 585,11,Nov 8 2013,Fri,New Mexico,45,,Air Force,37,
@@ -628,7 +619,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 618,11,Nov 9 2013,Sat,Southern California,62,@,California,28,
 619,11,Nov 9 2013,Sat,Syracuse,20,@,Maryland,3,
 620,11,Nov 9 2013,Sat,Texas,47,@,West Virginia,40,
-621,11,Nov 9 2013,Sat,(11) Texas A&amp;M,51,,Mississippi State,41,
+621,11,Nov 9 2013,Sat,(11) Texas A&M,51,,Mississippi State,41,
 622,11,Nov 9 2013,Sat,Texas Christian,21,@,Iowa State,17,
 623,11,Nov 9 2013,Sat,Texas-San Antonio,10,,Tulane,7,
 624,11,Nov 9 2013,Sat,(16) UCLA,31,@,Arizona,26,
@@ -638,7 +629,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 628,11,Nov 9 2013,Sat,Washington,59,,Colorado,7,
 629,11,Nov 9 2013,Sat,Western Kentucky,21,@,Army,17,
 630,11,Nov 9 2013,Sat,(21) Wisconsin,27,,Brigham Young,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 631,12,Nov 12 2013,Tue,Bowling Green State,49,,Ohio,0,
 632,12,Nov 12 2013,Tue,Toledo,51,,Buffalo,41,
 633,12,Nov 13 2013,Wed,Kent State,24,,Miami (OH),6,
@@ -646,12 +636,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 635,12,Nov 14 2013,Thu,(8) Clemson,55,,Georgia Tech,31,
 636,12,Nov 14 2013,Thu,Marshall,45,@,Tulsa,34,
 637,12,Nov 15 2013,Fri,(13) UCLA,41,,Washington,31,
-638,12,Nov 16 2013,Sat,Akron,14,,Massachusetts,13,Gillette Stadium - Foxboro MA
+638,12,Nov 16 2013,Sat,Akron,14,N,Massachusetts,13,Gillette Stadium - Foxboro MA
 639,12,Nov 16 2013,Sat,(1) Alabama,20,@,Mississippi State,7,
 640,12,Nov 16 2013,Sat,(21) Arizona State,30,,Oregon State,17,
 641,12,Nov 16 2013,Sat,Arkansas State,38,,Texas State,21,
 642,12,Nov 16 2013,Sat,(7) Auburn,43,,(25) Georgia,38,
-643,12,Nov 16 2013,Sat,(4) Baylor,63,,Texas Tech,34,AT&amp;T Stadium - Arlington TX
+643,12,Nov 16 2013,Sat,(4) Baylor,63,N,Texas Tech,34,AT&T Stadium - Arlington TX
 644,12,Nov 16 2013,Sat,Boise State,48,,Wyoming,7,
 645,12,Nov 16 2013,Sat,Boston College,38,,North Carolina State,21,
 646,12,Nov 16 2013,Sat,Brigham Young,59,,Idaho State,13,
@@ -666,7 +656,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 655,12,Nov 16 2013,Sat,(2) Florida State,59,,Syracuse,3,
 656,12,Nov 16 2013,Sat,Kansas,31,,West Virginia,19,
 657,12,Nov 16 2013,Sat,Kansas State,33,,Texas Christian,31,
-658,12,Nov 16 2013,Sat,Louisiana-Lafayette,35,@,Georgia State,21,
+658,12,Nov 16 2013,Sat,Louisiana,35,@,Georgia State,21,
 659,12,Nov 16 2013,Sat,(19) Louisville,20,,Houston,13,
 660,12,Nov 16 2013,Sat,Maryland,27,@,Virginia Tech,24,
 661,12,Nov 16 2013,Sat,Memphis,23,@,South Florida,10,
@@ -690,7 +680,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 679,12,Nov 16 2013,Sat,Vanderbilt,22,,Kentucky,6,
 680,12,Nov 16 2013,Sat,Washington State,24,@,Arizona,17,
 681,12,Nov 16 2013,Sat,(17) Wisconsin,51,,Indiana,3,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 682,13,Nov 19 2013,Tue,Buffalo,44,@,Miami (OH),7,
 683,13,Nov 19 2013,Tue,Kent State,44,@,Ohio,13,
 684,13,Nov 20 2013,Wed,(20) Northern Illinois,35,@,Toledo,17,
@@ -705,7 +694,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 693,13,Nov 23 2013,Sat,Boston College,29,@,Maryland,26,
 694,13,Nov 23 2013,Sat,Bowling Green State,58,@,Eastern Michigan,7,
 695,13,Nov 23 2013,Sat,Central Michigan,37,,Massachusetts,0,
-696,13,Nov 23 2013,Sat,Cincinnati,24,,Houston,17,BBVA Compass Stadium - Houston TX
+696,13,Nov 23 2013,Sat,Cincinnati,24,N,Houston,17,BBVA Compass Stadium - Houston TX
 697,13,Nov 23 2013,Sat,(7) Clemson,52,,Citadel,6,
 698,13,Nov 23 2013,Sat,Connecticut,28,@,Temple,21,
 699,13,Nov 23 2013,Sat,(25) Duke,28,@,Wake Forest,21,
@@ -715,11 +704,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 703,13,Nov 23 2013,Sat,(15) Fresno State,69,,New Mexico,28,
 704,13,Nov 23 2013,Sat,Georgia,59,,Kentucky,17,
 705,13,Nov 23 2013,Sat,Georgia Southern,26,@,Florida,20,
-706,13,Nov 23 2013,Sat,Georgia Tech,66,,Alabama A&amp;M,7,
+706,13,Nov 23 2013,Sat,Georgia Tech,66,,Alabama A&M,7,
 707,13,Nov 23 2013,Sat,Illinois,20,@,Purdue,16,
 708,13,Nov 23 2013,Sat,Iowa,24,,Michigan,21,
 709,13,Nov 23 2013,Sat,Iowa State,34,,Kansas,0,
-710,13,Nov 23 2013,Sat,(18) Louisiana State,34,,(9) Texas A&amp;M,10,
+710,13,Nov 23 2013,Sat,(18) Louisiana State,34,,(9) Texas A&M,10,
 711,13,Nov 23 2013,Sat,(21) Louisville,24,,Memphis,17,
 712,13,Nov 23 2013,Sat,Marshall,48,@,Florida International,10,
 713,13,Nov 23 2013,Sat,Miami (FL),45,,Virginia,26,
@@ -750,17 +739,16 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 738,13,Nov 23 2013,Sat,Western Kentucky,38,@,Texas State,7,
 739,13,Nov 23 2013,Sat,(16) Wisconsin,20,@,Minnesota,7,
 740,13,Nov 23 2013,Sat,Wyoming,59,,Hawaii,56,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 741,14,Nov 26 2013,Tue,(18) Northern Illinois,33,,Western Michigan,14,
 742,14,Nov 28 2013,Thu,Mississippi State,17,,Mississippi,10,
 743,14,Nov 28 2013,Thu,Texas,41,,Texas Tech,16,
 744,14,Nov 29 2013,Fri,Akron,31,,Toledo,29,
 745,14,Nov 29 2013,Fri,Ball State,55,,Miami (OH),14,
-746,14,Nov 29 2013,Fri,Bowling Green State,24,,Buffalo,7,Ralph Wilson Stadium - Orchard Park NY
+746,14,Nov 29 2013,Fri,Bowling Green State,24,N,Buffalo,7,Ralph Wilson Stadium - Orchard Park NY
 747,14,Nov 29 2013,Fri,(17) Central Florida,23,,South Florida,20,
 748,14,Nov 29 2013,Fri,Central Michigan,42,,Eastern Michigan,10,
 749,14,Nov 29 2013,Fri,Florida Atlantic,21,,Florida International,6,
-750,14,Nov 29 2013,Fri,Houston,34,,Southern Methodist,0,Reliant Stadium - Houston TX
+750,14,Nov 29 2013,Fri,Houston,34,N,Southern Methodist,0,Reliant Stadium - Houston TX
 751,14,Nov 29 2013,Fri,Iowa,38,@,Nebraska,17,
 752,14,Nov 29 2013,Fri,(15) Louisiana State,31,,Arkansas,27,
 753,14,Nov 29 2013,Fri,Marshall,59,,East Carolina,28,
@@ -784,11 +772,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 771,14,Nov 30 2013,Sat,Indiana,56,,Purdue,36,
 772,14,Nov 30 2013,Sat,Iowa State,52,@,West Virginia,44,
 773,14,Nov 30 2013,Sat,Kansas State,31,@,Kansas,10,
-774,14,Nov 30 2013,Sat,Louisiana-Monroe,31,@,Louisiana-Lafayette,28,
+774,14,Nov 30 2013,Sat,Louisiana-Monroe,31,@,Louisiana,28,
 775,14,Nov 30 2013,Sat,Maryland,41,@,North Carolina State,21,
 776,14,Nov 30 2013,Sat,(11) Michigan State,14,,Minnesota,3,
 777,14,Nov 30 2013,Sat,Middle Tennessee State,48,,Texas-El Paso,17,
-778,14,Nov 30 2013,Sat,(5) Missouri,28,,(19) Texas A&amp;M,21,
+778,14,Nov 30 2013,Sat,(5) Missouri,28,,(19) Texas A&M,21,
 779,14,Nov 30 2013,Sat,Nevada-Las Vegas,45,,San Diego State,19,
 780,14,Nov 30 2013,Sat,New Mexico State,24,,Idaho,16,
 781,14,Nov 30 2013,Sat,North Texas,42,@,Tulsa,10,
@@ -810,59 +798,53 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 797,14,Nov 30 2013,Sat,Vanderbilt,23,,Wake Forest,21,
 798,14,Nov 30 2013,Sat,Virginia Tech,16,@,Virginia,6,
 799,14,Nov 30 2013,Sat,Western Kentucky,34,,Arkansas State,31,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 800,15,Dec 5 2013,Thu,(19) Louisville,31,@,Cincinnati,24,
-801,15,Dec 6 2013,Fri,Bowling Green State,47,,(16) Northern Illinois,27,Mid-American Championship - Ford Field Detroit MI
-802,15,Dec 7 2013,Sat,(3) Auburn,59,,(5) Missouri,42,SEC Championship - Georgia Dome Atlanta GA
+801,15,Dec 6 2013,Fri,Bowling Green State,47,N,(16) Northern Illinois,27,Mid-American Championship - Ford Field Detroit MI
+802,15,Dec 7 2013,Sat,(3) Auburn,59,N,(5) Missouri,42,SEC Championship - Georgia Dome Atlanta GA
 803,15,Dec 7 2013,Sat,(9) Baylor,30,,(23) Texas,10,
 804,15,Dec 7 2013,Sat,(15) Central Florida,17,@,Southern Methodist,13,
 805,15,Dec 7 2013,Sat,Connecticut,45,,Memphis,10,
-806,15,Dec 7 2013,Sat,(1) Florida State,45,,(20) Duke,7,ACC Championship - Bank of America Stadium Charlotte NC
-807,15,Dec 7 2013,Sat,(24) Fresno State,24,,Utah State,17,
-808,15,Dec 7 2013,Sat,(10) Michigan State,34,,(2) Ohio State,24,Big Ten Championship - Lucas Oil Stadium Indianapolis IN
+806,15,Dec 7 2013,Sat,(1) Florida State,45,N,(20) Duke,7,ACC Championship - Bank of America Stadium Charlotte NC
+807,15,Dec 7 2013,Sat,(24) Fresno State,24,,Utah State,17,Mountain West Conference Championship
+808,15,Dec 7 2013,Sat,(10) Michigan State,34,N,(2) Ohio State,24,Big Ten Championship - Lucas Oil Stadium Indianapolis IN
 809,15,Dec 7 2013,Sat,(18) Oklahoma,33,@,(6) Oklahoma State,24,
-810,15,Dec 7 2013,Sat,Rice,41,,Marshall,24,
+810,15,Dec 7 2013,Sat,Rice,41,,Marshall,24,Conference USA Championship
 811,15,Dec 7 2013,Sat,Rutgers,31,,South Florida,6,
-812,15,Dec 7 2013,Sat,South Alabama,30,,Louisiana-Lafayette,8,
-813,15,Dec 7 2013,Sat,(7) Stanford,38,@,(11) Arizona State,14,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-814,15,Dec 14 2013,Sat,Navy,34,,Army,7,Lincoln Financial Field - Philadelphia PA
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-815,17,Dec 21 2013,Sat,Colorado State,48,,Washington State,45,Gildan New Mexico Bowl - University Stadium Albuquerque NM
-816,17,Dec 21 2013,Sat,Louisiana-Lafayette,24,,Tulane,21,R+L Carriers New Orleans Bowl - Mercedes-Benz Superdome New Orleans LA
-817,17,Dec 21 2013,Sat,San Diego State,49,,Buffalo,24,Famous Idaho Potato Bowl - Bronco Stadium Boise ID
-818,17,Dec 21 2013,Sat,Southern California,45,,(21) Fresno State,20,Royal Purple Las Vegas Bowl - Sam Boyd Stadium Las Vegas NV
-819,17,Dec 23 2013,Mon,East Carolina,37,,Ohio,20,Beef O Brady`s Bowl - Tropicana Field St. Petersburg FL
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-820,18,Dec 24 2013,Tue,Oregon State,38,,Boise State,23,Sheraton Hawaii Bowl - Hawaiian Airlines Field at Aloha Stadium Honolulu HI
-821,18,Dec 26 2013,Thu,Pittsburgh,30,,Bowling Green State,27,Little Caesars Pizza Bowl - Ford Field Detroit MI
-822,18,Dec 26 2013,Thu,Utah State,21,,(24) Northern Illinois,14,San Diego County Credit Union Poinsettia Bowl - Qualcomm Stadium San Diego CA
-823,18,Dec 27 2013,Fri,Marshall,31,,Maryland,20,Military Bowl - Navy-Marine Corp Memorial Stadium Annapolis MD
-824,18,Dec 27 2013,Fri,Syracuse,21,,Minnesota,17,Texas Bowl - Reliant Stadium Houston TX
-825,18,Dec 27 2013,Fri,Washington,31,,Brigham Young,16,Kraft Fight Hunger Bowl - AT&amp;T Park San Francisco CA
-826,18,Dec 28 2013,Sat,Kansas State,31,,Michigan,14,Buffalo Wild Wings Bowl - Sun Devil Stadium Tempe AZ
-827,18,Dec 28 2013,Sat,(18) Louisville,36,,Miami (FL),9,Russell Athletic Bowl - Florida Citrus Bowl Stadium Orlando FL
-828,18,Dec 28 2013,Sat,North Carolina,39,,Cincinnati,17,Belk Bowl - Bank of America Stadium Charlotte NC
-829,18,Dec 28 2013,Sat,(25) Notre Dame,29,,Rutgers,16,New Era Pinstripe Bowl - Yankee Stadium Bronx NY
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-830,19,Dec 30 2013,Mon,Mississippi,25,,Georgia Tech,17,Franklin American Mortgage Music City Bowl - LP Field Nashville TN
-831,19,Dec 30 2013,Mon,Navy,24,,Middle Tennessee State,6,Bell Helicopter Armed Forces Bowl - Amon G. Carter Stadium Fort Worth TX
-832,19,Dec 30 2013,Mon,(10) Oregon,30,,Texas,7,Valero Alamo Bowl - Alamodome San Antonio TX
-833,19,Dec 30 2013,Mon,Texas Tech,37,,(16) Arizona State,23,National University Holiday Bowl - Qualcomm Stadium San Diego CA
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-834,20,Dec 31 2013,Tue,Arizona,42,,Boston College,19,Advocare V100 Bowl - Independence Stadium Shreveport LA
-835,20,Dec 31 2013,Tue,Mississippi State,44,,Rice,7,AutoZone Liberty Bowl - Liberty Bowl Memorial Stadium Memphis TN
-836,20,Dec 31 2013,Tue,(20) Texas A&amp;M,52,,(22) Duke,48,Chick-fil-A Bowl - Georgia Dome Atlanta GA
-837,20,Dec 31 2013,Tue,(17) UCLA,42,,Virginia Tech,12,Hyundai Sun Bowl - Sun Bowl El Paso TX
-838,20,Jan 1 2014,Wed,(15) Central Florida,52,,(6) Baylor,42,Tostitos Fiesta Bowl - University of Phoenix Stadium Glendale AZ
-839,20,Jan 1 2014,Wed,(14) Louisiana State,21,,Iowa,14,Outback Bowl - Raymond James Stadium Tampa FL
-840,20,Jan 1 2014,Wed,(4) Michigan State,24,,(5) Stanford,20,Rose Bowl - Rose Bowl Pasadena CA
-841,20,Jan 1 2014,Wed,Nebraska,24,,(23) Georgia,19,TaxSlayer.com Gator Bowl - EverBank Field Jacksonville FL
-842,20,Jan 1 2014,Wed,North Texas,36,,Nevada-Las Vegas,14,Heart of Dallas Bowl - Cotton Bowl - Dallas TX
-843,20,Jan 1 2014,Wed,(8) South Carolina,34,,(19) Wisconsin,24,Capital One Bowl - Florida Citrus Bowl Orlando FL
-844,20,Jan 2 2014,Thu,(11) Oklahoma,45,,(3) Alabama,31,Allstate Sugar Bowl - Mercedes-Benz Superdome New Orleans LA
-845,20,Jan 3 2014,Fri,(12) Clemson,40,,(7) Ohio State,35,Discover Orange Bowl - Sun Life Stadium Miami Gardens FL
-846,20,Jan 3 2014,Fri,(9) Missouri,41,,(13) Oklahoma State,31,AT&amp;T Cotton Bowl Classic - AT&amp;T Stadium Arlington TX
-847,20,Jan 4 2014,Sat,Vanderbilt,41,,Houston,24,BBVA Compass Bowl - Legion Field Birmingham AL
-848,20,Jan 5 2014,Sun,Arkansas State,23,,Ball State,20,GoDaddy Bowl - Ladd-Peebles Stadium Mobile AL
-849,20,Jan 6 2014,Mon,(1) Florida State,34,,(2) Auburn,31,BCS National Championship Game - Rose Bowl Pasadena CA
+812,15,Dec 7 2013,Sat,South Alabama,30,,Louisiana,8,
+813,15,Dec 7 2013,Sat,(7) Stanford,38,@,(11) Arizona State,14,Pacific-12 Conference Championship
+814,15,Dec 14 2013,Sat,Navy,34,N,Army,7,Lincoln Financial Field - Philadelphia PA
+815,17,Dec 21 2013,Sat,Colorado State,48,N,Washington State,45,New Mexico Bowl (Albuquerque NM)
+816,17,Dec 21 2013,Sat,Louisiana,24,N,Tulane,21,New Orleans Bowl (New Orleans LA)
+817,17,Dec 21 2013,Sat,San Diego State,49,N,Buffalo,24,Famous Idaho Potato Bowl (Boise ID)
+818,17,Dec 21 2013,Sat,Southern California,45,N,(21) Fresno State,20,Las Vegas Bowl (Las Vegas NV)
+819,17,Dec 23 2013,Mon,East Carolina,37,N,Ohio,20,Beef O'Brady's Bowl (St. Petersburg FL)
+820,18,Dec 24 2013,Tue,Oregon State,38,N,Boise State,23,Hawaii Bowl (Honolulu HI)
+821,18,Dec 26 2013,Thu,Pittsburgh,30,N,Bowling Green State,27,Little Caesars Bowl (Detroit MI)
+822,18,Dec 26 2013,Thu,Utah State,21,N,(24) Northern Illinois,14,Poinsettia Bowl (San Diego CA)
+823,18,Dec 27 2013,Fri,Marshall,31,N,Maryland,20,Military Bowl (Annapolis MD)
+824,18,Dec 27 2013,Fri,Syracuse,21,N,Minnesota,17,(Houston TX)
+825,18,Dec 27 2013,Fri,Washington,31,N,Brigham Young,16,Fight Hunger Bowl (San Francisco CA)
+826,18,Dec 28 2013,Sat,Kansas State,31,N,Michigan,14,Buffalo Wild Wings Bowl (Tempe AZ)
+827,18,Dec 28 2013,Sat,(18) Louisville,36,N,Miami (FL),9,Russell Athletic Bowl (Orlando FL)
+828,18,Dec 28 2013,Sat,North Carolina,39,N,Cincinnati,17,Belk Bowl (Charlotte NC)
+829,18,Dec 28 2013,Sat,(25) Notre Dame,29,N,Rutgers,16,Pinstripe Bowl (Bronx NY)
+830,19,Dec 30 2013,Mon,Mississippi,25,N,Georgia Tech,17,Music City Bowl (Nashville TN)
+831,19,Dec 30 2013,Mon,Navy,24,N,Middle Tennessee State,6,Armed Forces Bowl (Fort Worth TX)
+832,19,Dec 30 2013,Mon,(10) Oregon,30,N,Texas,7,Alamo Bowl (San Antonio TX)
+833,19,Dec 30 2013,Mon,Texas Tech,37,N,(16) Arizona State,23,Holiday Bowl (San Diego CA)
+834,20,Dec 31 2013,Tue,Arizona,42,N,Boston College,19,Independence Bowl (Shreveport LA)
+835,20,Dec 31 2013,Tue,Mississippi State,44,N,Rice,7,Liberty Bowl (Memphis TN)
+836,20,Dec 31 2013,Tue,(20) Texas A&M,52,N,(22) Duke,48,Chick-fil-A Bowl (Atlanta GA)
+837,20,Dec 31 2013,Tue,(17) UCLA,42,N,Virginia Tech,12,Sun Bowl (El Paso TX)
+838,20,Jan 1 2014,Wed,(15) Central Florida,52,N,(6) Baylor,42,Fiesta Bowl (Glendale AZ)
+839,20,Jan 1 2014,Wed,(14) Louisiana State,21,N,Iowa,14,Outback Bowl (Tampa FL)
+840,20,Jan 1 2014,Wed,(4) Michigan State,24,N,(5) Stanford,20,Rose Bowl (Pasadena CA)
+841,20,Jan 1 2014,Wed,Nebraska,24,N,(23) Georgia,19,Gator Bowl (Jacksonville FL)
+842,20,Jan 1 2014,Wed,North Texas,36,N,Nevada-Las Vegas,14,Heart of Dallas Bowl (Dallas TX)
+843,20,Jan 1 2014,Wed,(8) South Carolina,34,N,(19) Wisconsin,24,Capital One Bowl (Orlando FL)
+844,20,Jan 2 2014,Thu,(11) Oklahoma,45,N,(3) Alabama,31,Sugar Bowl (New Orleans LA)
+845,20,Jan 3 2014,Fri,(12) Clemson,40,N,(7) Ohio State,35,Orange Bowl (Miami Gardens FL)
+846,20,Jan 3 2014,Fri,(9) Missouri,41,N,(13) Oklahoma State,31,Cotton Bowl (Arlington TX)
+847,20,Jan 4 2014,Sat,Vanderbilt,41,N,Houston,24,BBVA Compass Bowl (Birmingham AL)
+848,20,Jan 5 2014,Sun,Arkansas State,23,N,Ball State,20,GoDaddy.com Bowl (Mobile AL)
+849,20,Jan 6 2014,Mon,(1) Florida State,34,N,(2) Auburn,31,BCS Championship (Pasadena CA)

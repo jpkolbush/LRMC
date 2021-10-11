@@ -13,7 +13,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 12,1,Aug 31 2007,Fri,Navy,30,@,Temple,19,
 13,1,Aug 31 2007,Fri,Washington,42,@,Syracuse,12,
 14,1,Sep 1 2007,Sat,Air Force,34,,South Carolina State,3,
-15,1,Sep 1 2007,Sat,Akron,22,,Army,14,Cleveland OH
+15,1,Sep 1 2007,Sat,Akron,22,,Army,14,
 16,1,Sep 1 2007,Sat,Alabama,52,,Western Carolina,6,
 17,1,Sep 1 2007,Sat,Appalachian State,34,@,(5) Michigan,32,
 18,1,Sep 1 2007,Sat,Arizona State,45,,San Jose State,3,
@@ -24,7 +24,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 23,1,Sep 1 2007,Sat,Brigham Young,20,,Arizona,7,
 24,1,Sep 1 2007,Sat,(12) California,45,,(15) Tennessee,31,
 25,1,Sep 1 2007,Sat,Central Florida,25,@,North Carolina State,23,
-26,1,Sep 1 2007,Sat,Colorado,31,,Colorado State,28,Denver CO
+26,1,Sep 1 2007,Sat,Colorado,31,N,Colorado State,28,
 27,1,Sep 1 2007,Sat,Connecticut,45,@,Duke,14,
 28,1,Sep 1 2007,Sat,(6) Florida,49,,Western Kentucky,3,
 29,1,Sep 1 2007,Sat,Florida Atlantic,27,,Middle Tennessee State,14,
@@ -33,7 +33,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 32,1,Sep 1 2007,Sat,Georgia Tech,33,@,Notre Dame,3,
 33,1,Sep 1 2007,Sat,(23) Hawaii,63,,Northern Colorado,6,
 34,1,Sep 1 2007,Sat,Indiana,55,,Indiana State,7,
-35,1,Sep 1 2007,Sat,Iowa,16,@,Northern Illinois,3,Chicago IL
+35,1,Sep 1 2007,Sat,Iowa,16,@,Northern Illinois,3,
 36,1,Sep 1 2007,Sat,Kansas,52,,Central Michigan,7,
 37,1,Sep 1 2007,Sat,Kentucky,50,,Eastern Kentucky,10,
 38,1,Sep 1 2007,Sat,Louisiana Tech,28,,Central Arkansas,7,
@@ -41,7 +41,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 40,1,Sep 1 2007,Sat,Miami (FL),31,,Marshall,3,
 41,1,Sep 1 2007,Sat,Michigan State,55,,Alabama-Birmingham,18,
 42,1,Sep 1 2007,Sat,Mississippi,23,@,Memphis,21,
-43,1,Sep 1 2007,Sat,Missouri,40,,Illinois,34,St. Louis MO
+43,1,Sep 1 2007,Sat,Missouri,40,N,Illinois,34,
 44,1,Sep 1 2007,Sat,(20) Nebraska,52,,Nevada,10,
 45,1,Sep 1 2007,Sat,Nicholls State,16,@,Rice,14,
 46,1,Sep 1 2007,Sat,North Carolina,37,,James Madison,14,
@@ -53,12 +53,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 52,1,Sep 1 2007,Sat,(17) Penn State,59,,Florida International,0,
 53,1,Sep 1 2007,Sat,Pittsburgh,27,,Eastern Michigan,3,
 54,1,Sep 1 2007,Sat,Purdue,52,@,Toledo,24,
-55,1,Sep 1 2007,Sat,South Carolina,28,,Louisiana-Lafayette,14,
+55,1,Sep 1 2007,Sat,South Carolina,28,,Louisiana,14,
 56,1,Sep 1 2007,Sat,South Florida,28,,Elon,13,
 57,1,Sep 1 2007,Sat,(1) Southern California,38,,Idaho,10,
 58,1,Sep 1 2007,Sat,Southern Mississippi,35,,Tennessee-Martin,13,
 59,1,Sep 1 2007,Sat,(4) Texas,21,,Arkansas State,13,
-60,1,Sep 1 2007,Sat,(25) Texas A&amp;M,38,,Montana State,7,
+60,1,Sep 1 2007,Sat,(25) Texas A&M,38,,Montana State,7,
 61,1,Sep 1 2007,Sat,(22) Texas Christian,27,,Baylor,0,
 62,1,Sep 1 2007,Sat,Texas-El Paso,10,,New Mexico,6,
 63,1,Sep 1 2007,Sat,(14) UCLA,45,@,Stanford,17,
@@ -69,7 +69,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 68,1,Sep 1 2007,Sat,Wyoming,23,,Virginia,3,
 69,1,Sep 3 2007,Mon,Clemson,24,,(19) Florida State,18,
 70,1,Sep 3 2007,Mon,Texas Tech,49,@,Southern Methodist,9,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 71,2,Sep 6 2007,Thu,Cincinnati,34,,Oregon State,3,
 72,2,Sep 6 2007,Thu,(8) Louisville,58,,Middle Tennessee State,42,
 73,2,Sep 7 2007,Fri,(15) Rutgers,41,,Navy,24,
@@ -108,7 +107,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 106,2,Sep 8 2007,Sat,New Mexico,44,,New Mexico State,34,
 107,2,Sep 8 2007,Sat,Northern Iowa,24,@,Iowa State,13,
 108,2,Sep 8 2007,Sat,Northwestern,36,,Nevada,31,
-109,2,Sep 8 2007,Sat,Ohio,31,@,Louisiana-Lafayette,23,
+109,2,Sep 8 2007,Sat,Ohio,31,@,Louisiana,23,
 110,2,Sep 8 2007,Sat,(12) Ohio State,20,,Akron,2,
 111,2,Sep 8 2007,Sat,(5) Oklahoma,51,,Miami (FL),13,
 112,2,Sep 8 2007,Sat,Oklahoma State,42,,Florida Atlantic,6,
@@ -122,17 +121,16 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 120,2,Sep 8 2007,Sat,Southern Methodist,45,,North Texas,31,
 121,2,Sep 8 2007,Sat,(24) Tennessee,39,,Southern Mississippi,19,
 122,2,Sep 8 2007,Sat,(7) Texas,34,,(19) Texas Christian,13,
-123,2,Sep 8 2007,Sat,(23) Texas A&amp;M,47,,Fresno State,45,
+123,2,Sep 8 2007,Sat,(23) Texas A&M,47,,Fresno State,45,
 124,2,Sep 8 2007,Sat,Texas Tech,45,,Texas-El Paso,31,
 125,2,Sep 8 2007,Sat,(13) UCLA,27,,Brigham Young,17,
 126,2,Sep 8 2007,Sat,Virginia,24,,Duke,13,
 127,2,Sep 8 2007,Sat,Washington,24,,(22) Boise State,10,
-128,2,Sep 8 2007,Sat,Washington State,45,,San Diego State,17,Seattle WA
+128,2,Sep 8 2007,Sat,Washington State,45,,San Diego State,17,
 129,2,Sep 8 2007,Sat,(3) West Virginia,48,@,Marshall,23,
 130,2,Sep 8 2007,Sat,Western Kentucky,87,,West Virginia Tech,0,
 131,2,Sep 8 2007,Sat,(5) Wisconsin,20,@,Nevada-Las Vegas,13,
 132,2,Sep 8 2007,Sat,Wyoming,32,,Utah State,18,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 133,3,Sep 13 2007,Thu,Air Force,20,,Texas Christian,17,
 134,3,Sep 13 2007,Thu,(4) West Virginia,31,@,Maryland,14,
 135,3,Sep 14 2007,Fri,Troy,41,,Oklahoma State,23,
@@ -164,7 +162,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 161,3,Sep 15 2007,Sat,Kent State,38,,Delaware State,7,
 162,3,Sep 15 2007,Sat,Kentucky,40,,(9) Louisville,34,
 163,3,Sep 15 2007,Sat,(2) Louisiana State,44,,Middle Tennessee State,0,
-164,3,Sep 15 2007,Sat,McNeese State,38,@,Louisiana-Lafayette,17,
+164,3,Sep 15 2007,Sat,McNeese State,38,@,Louisiana,17,
 165,3,Sep 15 2007,Sat,Memphis,35,,Jacksonville State,14,
 166,3,Sep 15 2007,Sat,Miami (FL),23,,Florida International,9,
 167,3,Sep 15 2007,Sat,Michigan,38,,Notre Dame,0,
@@ -188,7 +186,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 185,3,Sep 15 2007,Sat,Southern Mississippi,28,@,East Carolina,21,
 186,3,Sep 15 2007,Sat,Stanford,37,,San Jose State,0,
 187,3,Sep 15 2007,Sat,(6) Texas,35,@,Central Florida,32,
-188,3,Sep 15 2007,Sat,(25) Texas A&amp;M,54,,Louisiana-Monroe,14,
+188,3,Sep 15 2007,Sat,(25) Texas A&M,54,,Louisiana-Monroe,14,
 189,3,Sep 15 2007,Sat,Texas Tech,59,@,Rice,24,
 190,3,Sep 15 2007,Sat,Tulsa,55,,Brigham Young,47,
 191,3,Sep 15 2007,Sat,Utah,44,,(11) UCLA,6,
@@ -199,8 +197,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 196,3,Sep 15 2007,Sat,Washington State,45,,Idaho,28,
 197,3,Sep 15 2007,Sat,Western Kentucky,26,,Eastern Kentucky,6,
 198,3,Sep 15 2007,Sat,(7) Wisconsin,45,,Citadel,31,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-199,4,Sep 20 2007,Thu,Miami (FL),34,,(20) Texas A&amp;M,17,
+199,4,Sep 20 2007,Thu,Miami (FL),34,,(20) Texas A&M,17,
 200,4,Sep 20 2007,Thu,Western Kentucky,20,@,Middle Tennessee State,17,
 201,4,Sep 21 2007,Fri,(4) Oklahoma,62,@,Tulsa,21,
 202,4,Sep 22 2007,Sat,Akron,27,,Kent State,20,
@@ -250,17 +247,16 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 246,4,Sep 22 2007,Sat,Texas Christian,21,,Southern Methodist,7,
 247,4,Sep 22 2007,Sat,Texas-El Paso,52,,Texas Southern,12,
 248,4,Sep 22 2007,Sat,Toledo,36,,Iowa State,35,
-249,4,Sep 22 2007,Sat,Troy,48,@,Louisiana-Lafayette,31,
+249,4,Sep 22 2007,Sat,Troy,48,@,Louisiana,31,
 250,4,Sep 22 2007,Sat,Tulane,35,,Southeastern Louisiana,27,
 251,4,Sep 22 2007,Sat,UCLA,44,,Washington,31,
 252,4,Sep 22 2007,Sat,Virginia,28,,Georgia Tech,23,
-253,4,Sep 22 2007,Sat,(17) Virginia Tech,44,,William &amp; Mary,3,
+253,4,Sep 22 2007,Sat,(17) Virginia Tech,44,,William & Mary,3,
 254,4,Sep 22 2007,Sat,Wake Forest,31,,Maryland,24,
 255,4,Sep 22 2007,Sat,(5) West Virginia,48,,East Carolina,7,
 256,4,Sep 22 2007,Sat,Western Michigan,51,,Central Connecticut State,14,
 257,4,Sep 22 2007,Sat,(9) Wisconsin,17,,Iowa,13,
 258,4,Sep 22 2007,Sat,Wyoming,34,@,Ohio,33,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 259,5,Sep 27 2007,Thu,Arkansas State,35,,Memphis,31,
 260,5,Sep 27 2007,Thu,Boise State,38,,Southern Mississippi,16,
 261,5,Sep 28 2007,Fri,(18) South Florida,21,,(5) West Virginia,13,
@@ -274,13 +270,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 269,5,Sep 29 2007,Sat,Bowling Green State,41,,Western Kentucky,21,
 270,5,Sep 29 2007,Sat,Brigham Young,31,@,New Mexico,24,
 271,5,Sep 29 2007,Sat,(6) California,31,@,(11) Oregon,24,
-272,5,Sep 29 2007,Sat,Central Florida,37,,Louisiana-Lafayette,19,
+272,5,Sep 29 2007,Sat,Central Florida,37,,Louisiana,19,
 273,5,Sep 29 2007,Sat,Central Michigan,35,,Northern Illinois,10,
 274,5,Sep 29 2007,Sat,(24) Cincinnati,52,@,San Diego State,23,
 275,5,Sep 29 2007,Sat,Colorado,27,,(3) Oklahoma,24,
 276,5,Sep 29 2007,Sat,Connecticut,44,,Akron,10,
 277,5,Sep 29 2007,Sat,East Carolina,37,@,Houston,35,
-278,5,Sep 29 2007,Sat,Florida State,21,,(22) Alabama,14,Jacksonville FL
+278,5,Sep 29 2007,Sat,Florida State,21,N,(22) Alabama,14,
 279,5,Sep 29 2007,Sat,Fresno State,17,,Louisiana Tech,6,
 280,5,Sep 29 2007,Sat,(15) Georgia,45,,Mississippi,17,
 281,5,Sep 29 2007,Sat,Georgia Tech,13,,(13) Clemson,3,
@@ -307,7 +303,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 302,5,Sep 29 2007,Sat,San Jose State,34,,California-Davis,14,
 303,5,Sep 29 2007,Sat,(16) South Carolina,38,,Mississippi State,21,
 304,5,Sep 29 2007,Sat,(1) Southern California,27,@,Washington,24,
-305,5,Sep 29 2007,Sat,Texas A&amp;M,34,,Baylor,10,
+305,5,Sep 29 2007,Sat,Texas A&M,34,,Baylor,10,
 306,5,Sep 29 2007,Sat,Texas Christian,24,,Colorado State,12,
 307,5,Sep 29 2007,Sat,Texas Tech,75,,Northwestern State,7,
 308,5,Sep 29 2007,Sat,Texas-El Paso,48,@,Southern Methodist,45,
@@ -320,7 +316,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 315,5,Sep 29 2007,Sat,(17) Virginia Tech,17,,North Carolina,10,
 316,5,Sep 29 2007,Sat,Western Michigan,42,@,Toledo,28,
 317,5,Sep 29 2007,Sat,(9) Wisconsin,37,,Michigan State,34,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 318,6,Oct 2 2007,Tue,Memphis,24,,Marshall,21,
 319,6,Oct 3 2007,Wed,Rice,31,@,Southern Mississippi,29,
 320,6,Oct 4 2007,Thu,(11) South Carolina,38,,(8) Kentucky,23,
@@ -329,7 +324,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 323,6,Oct 6 2007,Sat,Akron,39,@,Western Michigan,38,
 324,6,Oct 6 2007,Sat,Alabama,30,,Houston,24,
 325,6,Oct 6 2007,Sat,(18) Arizona State,23,@,Washington State,20,
-326,6,Oct 6 2007,Sat,Arkansas,34,,Chattanooga,15,Little Rock AR
+326,6,Oct 6 2007,Sat,Arkansas,34,,Chattanooga,15,
 327,6,Oct 6 2007,Sat,Army,20,,Tulane,17,
 328,6,Oct 6 2007,Sat,Auburn,35,,Vanderbilt,7,
 329,6,Oct 6 2007,Sat,(7) Boston College,55,,Bowling Green State,24,
@@ -344,8 +339,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 338,6,Oct 6 2007,Sat,Illinois,31,,(5) Wisconsin,26,
 339,6,Oct 6 2007,Sat,Indiana,40,,Minnesota,20,
 340,6,Oct 6 2007,Sat,Kansas,30,@,(24) Kansas State,24,
-341,6,Oct 6 2007,Sat,(1) Louisiana State,28,,(9) Florida,24,
-342,6,Oct 6 2007,Sat,Louisiana-Lafayette,38,@,North Texas,29,
+341,6,Oct 6 2007,Sat,Louisiana,38,@,North Texas,29,
+342,6,Oct 6 2007,Sat,(1) Louisiana State,28,,(9) Florida,24,
 343,6,Oct 6 2007,Sat,Louisiana-Monroe,30,,Arkansas State,13,
 344,6,Oct 6 2007,Sat,Maryland,28,,Georgia Tech,26,
 345,6,Oct 6 2007,Sat,Miami (OH),20,@,Kent State,13,
@@ -357,7 +352,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 351,6,Oct 6 2007,Sat,Northwestern,48,@,Michigan State,41,
 352,6,Oct 6 2007,Sat,Notre Dame,20,@,UCLA,6,
 353,6,Oct 6 2007,Sat,(4) Ohio State,23,@,(23) Purdue,7,
-354,6,Oct 6 2007,Sat,(10) Oklahoma,28,,(19) Texas,21,Dallas TX
+354,6,Oct 6 2007,Sat,(10) Oklahoma,28,N,(19) Texas,21,
 355,6,Oct 6 2007,Sat,Oregon State,31,,Arizona,16,
 356,6,Oct 6 2007,Sat,Penn State,27,,Iowa,7,
 357,6,Oct 6 2007,Sat,San Diego State,24,@,Colorado State,20,
@@ -366,7 +361,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 360,6,Oct 6 2007,Sat,Stanford,24,@,(2) Southern California,23,
 361,6,Oct 6 2007,Sat,Temple,16,,Northern Illinois,15,
 362,6,Oct 6 2007,Sat,Tennessee,35,,(12) Georgia,14,
-363,6,Oct 6 2007,Sat,Texas A&amp;M,24,,Oklahoma State,23,
+363,6,Oct 6 2007,Sat,Texas A&M,24,,Oklahoma State,23,
 364,6,Oct 6 2007,Sat,Texas Tech,42,,Iowa State,17,
 365,6,Oct 6 2007,Sat,Texas-El Paso,48,,Tulsa,47,
 366,6,Oct 6 2007,Sat,Toledo,35,,Liberty,34,
@@ -377,7 +372,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 371,6,Oct 6 2007,Sat,(13) West Virginia,55,@,Syracuse,14,
 372,6,Oct 6 2007,Sat,Wyoming,24,,Texas Christian,21,
 373,6,Oct 7 2007,Sun,Boise State,58,,New Mexico State,0,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 374,7,Oct 10 2007,Wed,Navy,48,@,Pittsburgh,45,
 375,7,Oct 11 2007,Thu,Wake Forest,24,,(21) Florida State,21,
 376,7,Oct 12 2007,Fri,(16) Hawaii,42,@,San Jose State,35,
@@ -385,7 +379,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 378,7,Oct 13 2007,Sat,Alabama,27,@,Mississippi,24,
 379,7,Oct 13 2007,Sat,Alabama-Birmingham,26,,Tulane,21,
 380,7,Oct 13 2007,Sat,(14) Arizona State,44,,Washington,20,
-381,7,Oct 13 2007,Sat,Arkansas State,52,,Louisiana-Lafayette,21,
+381,7,Oct 13 2007,Sat,Arkansas State,52,,Louisiana,21,
 382,7,Oct 13 2007,Sat,(22) Auburn,9,@,Arkansas,7,
 383,7,Oct 13 2007,Sat,Ball State,35,,Western Kentucky,12,
 384,7,Oct 13 2007,Sat,(4) Boston College,27,@,Notre Dame,14,
@@ -426,18 +420,17 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 419,7,Oct 13 2007,Sat,(25) Tennessee,33,@,Mississippi State,21,
 420,7,Oct 13 2007,Sat,(23) Texas,56,@,Iowa State,3,
 421,7,Oct 13 2007,Sat,Texas Christian,38,@,Stanford,36,
-422,7,Oct 13 2007,Sat,Texas Tech,35,,Texas A&amp;M,7,
+422,7,Oct 13 2007,Sat,Texas Tech,35,,Texas A&M,7,
 423,7,Oct 13 2007,Sat,Tulsa,38,,Marshall,31,
 424,7,Oct 13 2007,Sat,Utah,23,,San Diego State,7,
 425,7,Oct 13 2007,Sat,Virginia,17,,Connecticut,16,
 426,7,Oct 13 2007,Sat,(12) Virginia Tech,43,@,Duke,14,
 427,7,Oct 13 2007,Sat,Western Michigan,17,@,Northern Illinois,13,
 428,7,Oct 14 2007,Sun,Boise State,69,,Nevada,67,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 429,8,Oct 18 2007,Thu,Rutgers,30,,(2) South Florida,27,
 430,8,Oct 18 2007,Thu,Utah,27,@,Texas Christian,20,
 431,8,Oct 19 2007,Fri,Connecticut,21,,Louisville,17,
-432,8,Oct 19 2007,Fri,Northwestern,26,@,Eastern Michigan,14,Detroit MI
+432,8,Oct 19 2007,Fri,Northwestern,26,@,Eastern Michigan,14,
 433,8,Oct 20 2007,Sat,Air Force,20,,Wyoming,12,
 434,8,Oct 20 2007,Sat,Alabama,41,,(20) Tennessee,17,
 435,8,Oct 20 2007,Sat,Arkansas,44,@,Mississippi,8,
@@ -449,7 +442,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 441,8,Oct 20 2007,Sat,Clemson,70,,Central Michigan,14,
 442,8,Oct 20 2007,Sat,Colorado State,48,@,Nevada-Las Vegas,23,
 443,8,Oct 20 2007,Sat,(14) Florida,45,@,(8) Kentucky,37,
-444,8,Oct 20 2007,Sat,Florida Atlantic,39,@,Louisiana-Lafayette,32,
+444,8,Oct 20 2007,Sat,Florida Atlantic,39,@,Louisiana,32,
 445,8,Oct 20 2007,Sat,Fresno State,30,,San Jose State,0,
 446,8,Oct 20 2007,Sat,Georgia Tech,34,,Army,10,
 447,8,Oct 20 2007,Sat,Houston,49,@,Alabama-Birmingham,10,
@@ -478,7 +471,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 470,8,Oct 20 2007,Sat,Syracuse,20,,Buffalo,12,
 471,8,Oct 20 2007,Sat,Temple,24,,Miami (OH),17,
 472,8,Oct 20 2007,Sat,(19) Texas,31,@,Baylor,10,
-473,8,Oct 20 2007,Sat,Texas A&amp;M,36,@,Nebraska,14,
+473,8,Oct 20 2007,Sat,Texas A&M,36,@,Nebraska,14,
 474,8,Oct 20 2007,Sat,Toledo,43,,Ohio,40,
 475,8,Oct 20 2007,Sat,Troy,45,,North Texas,7,
 476,8,Oct 20 2007,Sat,Tulane,41,@,Southern Methodist,34,
@@ -490,7 +483,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 482,8,Oct 20 2007,Sat,Western Kentucky,56,@,Indiana State,7,
 483,8,Oct 20 2007,Sat,Wisconsin,44,,Northern Illinois,3,
 484,8,Oct 21 2007,Sun,Southern Mississippi,33,@,Marshall,24,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 485,9,Oct 25 2007,Thu,(2) Boston College,14,@,(8) Virginia Tech,10,
 486,9,Oct 25 2007,Thu,New Mexico,34,,Air Force,31,
 487,9,Oct 26 2007,Fri,Boise State,34,@,Fresno State,21,
@@ -507,12 +499,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 498,9,Oct 27 2007,Sat,East Carolina,41,,Alabama-Birmingham,6,
 499,9,Oct 27 2007,Sat,Eastern Michigan,19,,Western Michigan,2,
 500,9,Oct 27 2007,Sat,Florida State,25,,Duke,6,
-501,9,Oct 27 2007,Sat,(20) Georgia,42,,(9) Florida,30,Jacksonville FL
+501,9,Oct 27 2007,Sat,(20) Georgia,42,N,(9) Florida,30,
 502,9,Oct 27 2007,Sat,(16) Hawaii,50,,New Mexico State,13,
 503,9,Oct 27 2007,Sat,Houston,34,@,Texas-El Paso,31,
 504,9,Oct 27 2007,Sat,Illinois,28,,Ball State,17,
 505,9,Oct 27 2007,Sat,Iowa,34,,Michigan State,27,
-506,9,Oct 27 2007,Sat,(12) Kansas,19,@,Texas A&amp;M,11,
+506,9,Oct 27 2007,Sat,(12) Kansas,19,@,Texas A&M,11,
 507,9,Oct 27 2007,Sat,Kansas State,51,,Baylor,13,
 508,9,Oct 27 2007,Sat,Louisiana Tech,31,@,Utah State,21,
 509,9,Oct 27 2007,Sat,Louisiana-Monroe,33,@,Florida Atlantic,30,
@@ -544,7 +536,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 535,9,Oct 27 2007,Sat,Wisconsin,33,,Indiana,3,
 536,9,Oct 27 2007,Sat,Wyoming,29,,Nevada-Las Vegas,24,
 537,9,Oct 28 2007,Sun,Central Florida,34,@,Southern Mississippi,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 538,10,Nov 1 2007,Thu,(11) Virginia Tech,27,@,Georgia Tech,3,
 539,10,Nov 2 2007,Fri,Bowling Green State,44,,Akron,20,
 540,10,Nov 2 2007,Fri,Nevada,40,@,New Mexico State,38,
@@ -582,7 +573,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 572,10,Nov 3 2007,Sat,North Carolina,16,,Maryland,13,
 573,10,Nov 3 2007,Sat,North Carolina State,19,@,Miami (FL),16,
 574,10,Nov 3 2007,Sat,(1) Ohio State,38,,Wisconsin,17,
-575,10,Nov 3 2007,Sat,(5) Oklahoma,42,,Texas A&amp;M,14,
+575,10,Nov 3 2007,Sat,(5) Oklahoma,42,,Texas A&M,14,
 576,10,Nov 3 2007,Sat,(4) Oregon,35,,(6) Arizona State,23,
 577,10,Nov 3 2007,Sat,Penn State,26,,Purdue,19,
 578,10,Nov 3 2007,Sat,Pittsburgh,20,,Syracuse,17,
@@ -590,7 +581,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 580,10,Nov 3 2007,Sat,San Diego State,27,,Wyoming,24,
 581,10,Nov 3 2007,Sat,(13) Southern California,24,,Oregon State,3,
 582,10,Nov 3 2007,Sat,Southern Mississippi,37,@,Alabama-Birmingham,7,
-583,10,Nov 3 2007,Sat,(24) Tennessee,59,,Louisiana-Lafayette,7,
+583,10,Nov 3 2007,Sat,(24) Tennessee,59,,Louisiana,7,
 584,10,Nov 3 2007,Sat,(14) Texas,38,@,Oklahoma State,35,
 585,10,Nov 3 2007,Sat,Texas Christian,37,,New Mexico,0,
 586,10,Nov 3 2007,Sat,Texas Tech,38,@,Baylor,7,
@@ -600,7 +591,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 590,10,Nov 3 2007,Sat,Washington,27,@,Stanford,9,
 591,10,Nov 3 2007,Sat,Western Kentucky,28,@,Chattanooga,21,
 592,10,Nov 4 2007,Sun,Houston,38,,Southern Methodist,28,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 593,11,Nov 6 2007,Tue,Central Michigan,34,@,Western Michigan,31,
 594,11,Nov 7 2007,Wed,Akron,48,,Ohio,37,
 595,11,Nov 8 2007,Thu,Brigham Young,27,,Texas Christian,22,
@@ -623,15 +613,15 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 612,11,Nov 10 2007,Sat,Iowa State,31,,Colorado,28,
 613,11,Nov 10 2007,Sat,(5) Kansas,43,@,Oklahoma State,28,
 614,11,Nov 10 2007,Sat,(24) Kentucky,27,@,Vanderbilt,20,
-615,11,Nov 10 2007,Sat,(2) Louisiana State,58,,Louisiana Tech,10,
-616,11,Nov 10 2007,Sat,Louisiana-Lafayette,34,@,Middle Tennessee State,24,
+615,11,Nov 10 2007,Sat,Louisiana,34,@,Middle Tennessee State,24,
+616,11,Nov 10 2007,Sat,(2) Louisiana State,58,,Louisiana Tech,10,
 617,11,Nov 10 2007,Sat,Louisiana-Monroe,28,,Grambling State,14,
 618,11,Nov 10 2007,Sat,Marshall,26,,East Carolina,7,
 619,11,Nov 10 2007,Sat,Maryland,42,,(8) Boston College,35,
 620,11,Nov 10 2007,Sat,Memphis,29,@,Southern Mississippi,26,
 621,11,Nov 10 2007,Sat,Michigan State,48,@,Purdue,31,
 622,11,Nov 10 2007,Sat,Mississippi State,17,,(21) Alabama,12,
-623,11,Nov 10 2007,Sat,(7) Missouri,40,,Texas A&amp;M,26,
+623,11,Nov 10 2007,Sat,(7) Missouri,40,,Texas A&M,26,
 624,11,Nov 10 2007,Sat,Navy,74,@,North Texas,62,
 625,11,Nov 10 2007,Sat,Nebraska,73,,Kansas State,31,
 626,11,Nov 10 2007,Sat,New Mexico,26,,Colorado State,23,
@@ -656,7 +646,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 645,11,Nov 10 2007,Sat,(11) Virginia Tech,40,,Florida State,21,
 646,11,Nov 10 2007,Sat,Washington State,33,,Stanford,17,
 647,11,Nov 10 2007,Sat,Wisconsin,37,,(13) Michigan,21,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 648,12,Nov 13 2007,Tue,Ball State,41,,Toledo,20,
 649,12,Nov 14 2007,Wed,Miami (OH),7,,Akron,0,
 650,12,Nov 15 2007,Thu,Arizona,34,,(2) Oregon,24,
@@ -664,7 +653,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 652,12,Nov 16 2007,Fri,Eastern Michigan,48,@,Central Michigan,45,
 653,12,Nov 16 2007,Fri,(13) Hawaii,28,@,Nevada,26,
 654,12,Nov 17 2007,Sat,Air Force,55,,San Diego State,23,
-655,12,Nov 17 2007,Sat,Arkansas,45,,Mississippi State,31,Little Rock AR
+655,12,Nov 17 2007,Sat,Arkansas,45,,Mississippi State,31,
 656,12,Nov 17 2007,Sat,(17) Boise State,58,,Idaho,14,
 657,12,Nov 17 2007,Sat,(18) Boston College,20,@,(15) Clemson,17,
 658,12,Nov 17 2007,Sat,Bowling Green State,31,@,Buffalo,17,
@@ -680,137 +669,134 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 668,12,Nov 17 2007,Sat,(20) Illinois,41,,Northwestern,22,
 669,12,Nov 17 2007,Sat,Indiana,27,,Purdue,24,
 670,12,Nov 17 2007,Sat,(4) Kansas,45,,Iowa State,7,
-671,12,Nov 17 2007,Sat,(1) Louisiana State,41,@,Mississippi,24,
-672,12,Nov 17 2007,Sat,Louisiana Tech,27,,San Jose State,23,
-673,12,Nov 17 2007,Sat,Louisiana-Lafayette,38,,Florida International,28,
-674,12,Nov 17 2007,Sat,Louisiana-Monroe,21,@,Alabama,14,
-675,12,Nov 17 2007,Sat,Memphis,25,,Alabama-Birmingham,9,
-676,12,Nov 17 2007,Sat,Michigan State,35,,Penn State,31,
-677,12,Nov 17 2007,Sat,(6) Missouri,49,@,Kansas State,32,
-678,12,Nov 17 2007,Sat,Navy,35,,Northern Illinois,24,
-679,12,Nov 17 2007,Sat,Notre Dame,28,,Duke,7,
-680,12,Nov 17 2007,Sat,(7) Ohio State,14,@,(23) Michigan,3,
-681,12,Nov 17 2007,Sat,Oklahoma State,45,@,Baylor,14,
-682,12,Nov 17 2007,Sat,Oregon State,52,@,Washington State,17,
-683,12,Nov 17 2007,Sat,Rutgers,20,,Pittsburgh,16,
-684,12,Nov 17 2007,Sat,South Florida,55,,Louisville,17,
-685,12,Nov 17 2007,Sat,Southern Mississippi,56,@,Texas-El Paso,30,
-686,12,Nov 17 2007,Sat,Temple,24,,Kent State,14,
-687,12,Nov 17 2007,Sat,(19) Tennessee,25,,Vanderbilt,24,
-688,12,Nov 17 2007,Sat,Texas Christian,34,,Nevada-Las Vegas,10,
-689,12,Nov 17 2007,Sat,Texas Tech,34,,(3) Oklahoma,27,
-690,12,Nov 17 2007,Sat,Tulane,45,@,Rice,31,
-691,12,Nov 17 2007,Sat,Tulsa,49,@,Army,39,
-692,12,Nov 17 2007,Sat,Utah,28,,New Mexico,10,
-693,12,Nov 17 2007,Sat,Utah State,35,@,New Mexico State,17,
-694,12,Nov 17 2007,Sat,(10) Virginia Tech,44,,Miami (FL),14,
-695,12,Nov 17 2007,Sat,Wake Forest,38,,North Carolina State,18,
-696,12,Nov 17 2007,Sat,Washington,37,,California,23,
-697,12,Nov 17 2007,Sat,(5) West Virginia,28,@,(21) Cincinnati,23,
-698,12,Nov 17 2007,Sat,Western Kentucky,52,,Morehead State,12,
-699,12,Nov 17 2007,Sat,Western Michigan,28,@,Iowa,19,
-700,12,Nov 17 2007,Sat,(24) Wisconsin,41,@,Minnesota,34,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-701,13,Nov 20 2007,Tue,Troy,45,,Middle Tennessee State,7,
-702,13,Nov 22 2007,Thu,(11) Southern California,44,@,(7) Arizona State,24,
-703,13,Nov 23 2007,Fri,Arkansas,50,@,(1) Louisiana State,48,
-704,13,Nov 23 2007,Fri,Bowling Green State,37,,Toledo,10,
-705,13,Nov 23 2007,Fri,Central Michigan,35,@,Akron,32,
-706,13,Nov 23 2007,Fri,Colorado,65,,Nebraska,51,
-707,13,Nov 23 2007,Fri,Colorado State,36,,Wyoming,28,
-708,13,Nov 23 2007,Fri,(14) Hawaii,39,,(17) Boise State,27,
-709,13,Nov 23 2007,Fri,Mississippi State,17,,Mississippi,14,
-710,13,Nov 23 2007,Fri,Texas A&amp;M,38,,(13) Texas,30,
-711,13,Nov 24 2007,Sat,(25) Auburn,17,,Alabama,10,
-712,13,Nov 24 2007,Sat,Ball State,27,@,Northern Illinois,21,
-713,13,Nov 24 2007,Sat,(15) Boston College,28,,Miami (FL),14,
-714,13,Nov 24 2007,Sat,(23) Brigham Young,17,,Utah,10,
-715,13,Nov 24 2007,Sat,Buffalo,30,@,Kent State,23,
-716,13,Nov 24 2007,Sat,Central Florida,36,,Texas-El Paso,20,
-717,13,Nov 24 2007,Sat,(24) Cincinnati,52,@,Syracuse,31,
-718,13,Nov 24 2007,Sat,(21) Clemson,23,@,South Carolina,21,
-719,13,Nov 24 2007,Sat,East Carolina,35,,Tulane,12,
-720,13,Nov 24 2007,Sat,(12) Florida,45,,Florida State,12,
-721,13,Nov 24 2007,Sat,Florida Atlantic,55,@,Florida International,23,
-722,13,Nov 24 2007,Sat,Fresno State,45,,Kansas State,29,
-723,13,Nov 24 2007,Sat,(6) Georgia,31,@,Georgia Tech,17,
-724,13,Nov 24 2007,Sat,Houston,59,,Texas Southern,6,
-725,13,Nov 24 2007,Sat,Louisiana-Monroe,17,@,Louisiana-Lafayette,11,
-726,13,Nov 24 2007,Sat,Marshall,46,,Alabama-Birmingham,39,
-727,13,Nov 24 2007,Sat,Maryland,37,@,North Carolina State,0,
-728,13,Nov 24 2007,Sat,Memphis,55,,Southern Methodist,52,
-729,13,Nov 24 2007,Sat,(3) Missouri,36,,(2) Kansas,28,Kansas City MO
-730,13,Nov 24 2007,Sat,New Mexico,27,,Nevada-Las Vegas,6,
-731,13,Nov 24 2007,Sat,North Carolina,20,,Duke,14,
-732,13,Nov 24 2007,Sat,North Texas,27,,Western Kentucky,26,
-733,13,Nov 24 2007,Sat,Notre Dame,21,@,Stanford,14,
-734,13,Nov 24 2007,Sat,Ohio,38,,Miami (OH),29,
-735,13,Nov 24 2007,Sat,(10) Oklahoma,49,,Oklahoma State,17,
-736,13,Nov 24 2007,Sat,San Jose State,27,,Nevada,24,
-737,13,Nov 24 2007,Sat,South Florida,48,@,Pittsburgh,37,
-738,13,Nov 24 2007,Sat,Southern Mississippi,16,,Arkansas State,10,
-739,13,Nov 24 2007,Sat,(19) Tennessee,52,@,Kentucky,50,
-740,13,Nov 24 2007,Sat,Texas Christian,45,@,San Diego State,33,
-741,13,Nov 24 2007,Sat,Tulsa,48,@,Rice,43,
-742,13,Nov 24 2007,Sat,UCLA,16,,(9) Oregon,0,
-743,13,Nov 24 2007,Sat,Utah State,24,@,Idaho,19,
-744,13,Nov 24 2007,Sat,(8) Virginia Tech,33,@,(16) Virginia,21,
-745,13,Nov 24 2007,Sat,Wake Forest,31,@,Vanderbilt,17,
-746,13,Nov 24 2007,Sat,Washington State,42,@,Washington,35,
-747,13,Nov 24 2007,Sat,(4) West Virginia,66,,(20) Connecticut,21,
-748,13,Nov 24 2007,Sat,Western Michigan,16,,Temple,3,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-749,14,Nov 29 2007,Thu,Louisville,41,,Rutgers,38,
-750,14,Nov 30 2007,Fri,Fresno State,30,@,New Mexico State,23,
-751,14,Dec 1 2007,Sat,(13) Arizona State,20,,Arizona,17,
-752,14,Dec 1 2007,Sat,(21) Brigham Young,48,@,San Diego State,27,
-753,14,Dec 1 2007,Sat,Central Florida,44,,Tulsa,25,CUSA Championship
-754,14,Dec 1 2007,Sat,Central Michigan,35,,Miami (OH),10,MAC Championship (Detroit MI)
-755,14,Dec 1 2007,Sat,Florida Atlantic,38,@,Troy,32,
-756,14,Dec 1 2007,Sat,Florida International,38,,North Texas,19,
-757,14,Dec 1 2007,Sat,(11) Hawaii,35,,Washington,28,
-758,14,Dec 1 2007,Sat,(5) Louisiana State,21,,(14) Tennessee,14,SEC Championship (Atlanta GA)
-759,14,Dec 1 2007,Sat,Navy,38,,Army,3,Baltimore MD
-760,14,Dec 1 2007,Sat,Nevada,49,,Louisiana Tech,10,
-761,14,Dec 1 2007,Sat,(9) Oklahoma,38,,(1) Missouri,17,Big 12 Championship (San Antonio TX)
-762,14,Dec 1 2007,Sat,Oregon State,38,@,(18) Oregon,31,
-763,14,Dec 1 2007,Sat,Pittsburgh,13,@,(2) West Virginia,9,
-764,14,Dec 1 2007,Sat,(8) Southern California,24,,UCLA,7,
-765,14,Dec 1 2007,Sat,Stanford,20,,California,13,
-766,14,Dec 1 2007,Sat,(6) Virginia Tech,30,,(12) Boston College,16,ACC Championship (Jacksonville FL)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-767,16,Dec 20 2007,Thu,Utah,35,,Navy,32,Poinsettia Bowl (San Diego CA)
-768,15,Dec 21 2007,Fri,Florida Atlantic,44,,Memphis,27,New Orleans Bowl (New Orleans LA)
-769,15,Dec 22 2007,Sat,(19) Brigham Young,17,,UCLA,16,Las Vegas Bowl (Las Vegas NV)
-770,15,Dec 22 2007,Sat,(20) Cincinnati,31,,Southern Mississippi,21,PapaJohns.com Bowl (Birmingham AL)
-771,15,Dec 22 2007,Sat,New Mexico,23,,Nevada,0,New Mexico Bowl (Albuquerque NM)
-772,15,Dec 23 2007,Sun,East Carolina,41,,(24) Boise State,38,Hawaii Bowl (Honolulu HI)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-773,16,Dec 26 2007,Wed,Purdue,51,,Central Michigan,48,Motor City Bowl (Detroit MI)
-774,16,Dec 27 2007,Thu,(17) Texas,52,,(12) Arizona State,34,Holiday Bowl (San Diego CA)
-775,16,Dec 28 2007,Fri,(14) Boston College,24,,Michigan State,21,Champs Sports Bowl (Orlando FL)
-776,16,Dec 28 2007,Fri,Oregon State,21,,Maryland,14,Emerald Bowl (San Francisco CA)
-777,16,Dec 28 2007,Fri,Texas Christian,20,@,Houston,13,Texas Bowl (Houston TX)
-778,16,Dec 29 2007,Sat,Mississippi State,10,,Central Florida,3,Liberty Bowl (Memphis TN)
-779,16,Dec 29 2007,Sat,Penn State,24,,Texas A&amp;M,17,Alamo Bowl (San Antonio TX)
-780,16,Dec 29 2007,Sat,Wake Forest,24,,Connecticut,10,Meineke Car Care Bowl (Charlotte NC)
-781,16,Dec 30 2007,Sun,Alabama,30,,Colorado,24,Independence Bowl (Shreveport LA)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-782,17,Dec 31 2007,Mon,(22) Auburn,23,,(15) Clemson,20,Chick-Fil-A Bowl (Atlanta GA)
-783,17,Dec 31 2007,Mon,California,42,,Air Force,36,Armed Forces Bowl (Fort Worth TX)
-784,17,Dec 31 2007,Mon,Fresno State,40,,Georgia Tech,28,Humanitarian Bowl (Boise ID)
-785,17,Dec 31 2007,Mon,Kentucky,35,,Florida State,28,Music City Bowl (Nashville TN)
-786,17,Dec 31 2007,Mon,Oklahoma State,49,,Indiana,33,Insight Bowl (Tempe AZ)
-787,17,Dec 31 2007,Mon,Oregon,56,,(23) South Florida,21,Sun Bowl (El Paso TX)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-788,18,Jan 1 2008,Tue,(4) Georgia,41,,(10) Hawaii,10,Sugar Bowl (New Orleans LA)
-789,18,Jan 1 2008,Tue,Michigan,41,,(9) Florida,35,Capital One Bowl (Orlando FL)
-790,18,Jan 1 2008,Tue,(7) Missouri,38,,(25) Arkansas,7,Cotton Bowl (Dallas TX)
-791,18,Jan 1 2008,Tue,(6) Southern California,49,,(13) Illinois,17,Rose Bowl (Pasadena CA)
-792,18,Jan 1 2008,Tue,(16) Tennessee,21,,(18) Wisconsin,17,Outback Bowl (Tampa FL)
-793,18,Jan 1 2008,Tue,Texas Tech,31,,(21) Virginia,28,Gator Bowl (Jacksonville FL)
-794,18,Jan 2 2008,Wed,(11) West Virginia,48,,(3) Oklahoma,28,Fiesta Bowl (Glendale AZ)
-795,18,Jan 3 2008,Thu,(8) Kansas,24,,(5) Virginia Tech,21,Orange Bowl (Miami FL)
-796,18,Jan 5 2008,Sat,Rutgers,52,,Ball State,30,International Bowl (Toronto Canada)
-797,18,Jan 6 2008,Sun,Tulsa,63,,Bowling Green State,7,GMAC Bowl (Mobile AL)
-798,18,Jan 7 2008,Mon,(2) Louisiana State,38,,(1) Ohio State,24,BCS Championship (New Orleans LA)
+671,12,Nov 17 2007,Sat,Louisiana,38,@,Florida International,28,Riccardo Silva Stadium - Miami Florida
+672,12,Nov 17 2007,Sat,Louisiana,38,,Florida International,28,
+673,12,Nov 17 2007,Sat,(1) Louisiana State,41,@,Mississippi,24,
+674,12,Nov 17 2007,Sat,Louisiana Tech,27,,San Jose State,23,
+675,12,Nov 17 2007,Sat,Louisiana-Monroe,21,@,Alabama,14,
+676,12,Nov 17 2007,Sat,Memphis,25,,Alabama-Birmingham,9,
+677,12,Nov 17 2007,Sat,Michigan State,35,,Penn State,31,
+678,12,Nov 17 2007,Sat,(6) Missouri,49,@,Kansas State,32,
+679,12,Nov 17 2007,Sat,Navy,35,,Northern Illinois,24,
+680,12,Nov 17 2007,Sat,Notre Dame,28,,Duke,7,
+681,12,Nov 17 2007,Sat,(7) Ohio State,14,@,(23) Michigan,3,
+682,12,Nov 17 2007,Sat,Oklahoma State,45,@,Baylor,14,
+683,12,Nov 17 2007,Sat,Oregon State,52,@,Washington State,17,
+684,12,Nov 17 2007,Sat,Rutgers,20,,Pittsburgh,16,
+685,12,Nov 17 2007,Sat,South Florida,55,,Louisville,17,
+686,12,Nov 17 2007,Sat,Southern Mississippi,56,@,Texas-El Paso,30,
+687,12,Nov 17 2007,Sat,Temple,24,,Kent State,14,
+688,12,Nov 17 2007,Sat,(19) Tennessee,25,,Vanderbilt,24,
+689,12,Nov 17 2007,Sat,Texas Christian,34,,Nevada-Las Vegas,10,
+690,12,Nov 17 2007,Sat,Texas Tech,34,,(3) Oklahoma,27,
+691,12,Nov 17 2007,Sat,Tulane,45,@,Rice,31,
+692,12,Nov 17 2007,Sat,Tulsa,49,@,Army,39,
+693,12,Nov 17 2007,Sat,Utah,28,,New Mexico,10,
+694,12,Nov 17 2007,Sat,Utah State,35,@,New Mexico State,17,
+695,12,Nov 17 2007,Sat,(10) Virginia Tech,44,,Miami (FL),14,
+696,12,Nov 17 2007,Sat,Wake Forest,38,,North Carolina State,18,
+697,12,Nov 17 2007,Sat,Washington,37,,California,23,
+698,12,Nov 17 2007,Sat,(5) West Virginia,28,@,(21) Cincinnati,23,
+699,12,Nov 17 2007,Sat,Western Kentucky,52,,Morehead State,12,
+700,12,Nov 17 2007,Sat,Western Michigan,28,@,Iowa,19,
+701,12,Nov 17 2007,Sat,(24) Wisconsin,41,@,Minnesota,34,
+702,13,Nov 20 2007,Tue,Troy,45,,Middle Tennessee State,7,
+703,13,Nov 22 2007,Thu,(11) Southern California,44,@,(7) Arizona State,24,
+704,13,Nov 23 2007,Fri,Arkansas,50,@,(1) Louisiana State,48,
+705,13,Nov 23 2007,Fri,Bowling Green State,37,,Toledo,10,
+706,13,Nov 23 2007,Fri,Central Michigan,35,@,Akron,32,
+707,13,Nov 23 2007,Fri,Colorado,65,,Nebraska,51,
+708,13,Nov 23 2007,Fri,Colorado State,36,,Wyoming,28,
+709,13,Nov 23 2007,Fri,(14) Hawaii,39,,(17) Boise State,27,
+710,13,Nov 23 2007,Fri,Mississippi State,17,,Mississippi,14,
+711,13,Nov 23 2007,Fri,Texas A&M,38,,(13) Texas,30,
+712,13,Nov 24 2007,Sat,(25) Auburn,17,,Alabama,10,
+713,13,Nov 24 2007,Sat,Ball State,27,@,Northern Illinois,21,
+714,13,Nov 24 2007,Sat,(15) Boston College,28,,Miami (FL),14,
+715,13,Nov 24 2007,Sat,(23) Brigham Young,17,,Utah,10,
+716,13,Nov 24 2007,Sat,Buffalo,30,@,Kent State,23,
+717,13,Nov 24 2007,Sat,Central Florida,36,,Texas-El Paso,20,
+718,13,Nov 24 2007,Sat,(24) Cincinnati,52,@,Syracuse,31,
+719,13,Nov 24 2007,Sat,(21) Clemson,23,@,South Carolina,21,
+720,13,Nov 24 2007,Sat,East Carolina,35,,Tulane,12,
+721,13,Nov 24 2007,Sat,(12) Florida,45,,Florida State,12,
+722,13,Nov 24 2007,Sat,Florida Atlantic,55,@,Florida International,23,
+723,13,Nov 24 2007,Sat,Fresno State,45,,Kansas State,29,
+724,13,Nov 24 2007,Sat,(6) Georgia,31,@,Georgia Tech,17,
+725,13,Nov 24 2007,Sat,Houston,59,,Texas Southern,6,
+726,13,Nov 24 2007,Sat,Louisiana-Monroe,17,@,Louisiana,11,
+727,13,Nov 24 2007,Sat,Marshall,46,,Alabama-Birmingham,39,
+728,13,Nov 24 2007,Sat,Maryland,37,@,North Carolina State,0,
+729,13,Nov 24 2007,Sat,Memphis,55,,Southern Methodist,52,
+730,13,Nov 24 2007,Sat,(3) Missouri,36,N,(2) Kansas,28,
+731,13,Nov 24 2007,Sat,New Mexico,27,,Nevada-Las Vegas,6,
+732,13,Nov 24 2007,Sat,North Carolina,20,,Duke,14,
+733,13,Nov 24 2007,Sat,North Texas,27,,Western Kentucky,26,
+734,13,Nov 24 2007,Sat,Notre Dame,21,@,Stanford,14,
+735,13,Nov 24 2007,Sat,Ohio,38,,Miami (OH),29,
+736,13,Nov 24 2007,Sat,(10) Oklahoma,49,,Oklahoma State,17,
+737,13,Nov 24 2007,Sat,San Jose State,27,,Nevada,24,
+738,13,Nov 24 2007,Sat,South Florida,48,@,Pittsburgh,37,
+739,13,Nov 24 2007,Sat,Southern Mississippi,16,,Arkansas State,10,
+740,13,Nov 24 2007,Sat,(19) Tennessee,52,@,Kentucky,50,
+741,13,Nov 24 2007,Sat,Texas Christian,45,@,San Diego State,33,
+742,13,Nov 24 2007,Sat,Tulsa,48,@,Rice,43,
+743,13,Nov 24 2007,Sat,UCLA,16,,(9) Oregon,0,
+744,13,Nov 24 2007,Sat,Utah State,24,@,Idaho,19,
+745,13,Nov 24 2007,Sat,(8) Virginia Tech,33,@,(16) Virginia,21,
+746,13,Nov 24 2007,Sat,Wake Forest,31,@,Vanderbilt,17,
+747,13,Nov 24 2007,Sat,Washington State,42,@,Washington,35,
+748,13,Nov 24 2007,Sat,(4) West Virginia,66,,(20) Connecticut,21,
+749,13,Nov 24 2007,Sat,Western Michigan,16,,Temple,3,
+750,14,Nov 29 2007,Thu,Louisville,41,,Rutgers,38,
+751,14,Nov 30 2007,Fri,Fresno State,30,@,New Mexico State,23,
+752,14,Dec 1 2007,Sat,(13) Arizona State,20,,Arizona,17,
+753,14,Dec 1 2007,Sat,(21) Brigham Young,48,@,San Diego State,27,
+754,14,Dec 1 2007,Sat,Central Florida,44,,Tulsa,25,CUSA Championship
+755,14,Dec 1 2007,Sat,Central Michigan,35,N,Miami (OH),10,MAC Championship (Detroit MI)
+756,14,Dec 1 2007,Sat,Florida Atlantic,38,@,Troy,32,
+757,14,Dec 1 2007,Sat,Florida International,38,,North Texas,19,
+758,14,Dec 1 2007,Sat,(11) Hawaii,35,,Washington,28,
+759,14,Dec 1 2007,Sat,(5) Louisiana State,21,N,(14) Tennessee,14,SEC Championship (Atlanta GA)
+760,14,Dec 1 2007,Sat,Navy,38,,Army,3,
+761,16,Dec 1 2007,Sat,Nevada,49,,Louisiana Tech,10,
+762,16,Dec 1 2007,Sat,(9) Oklahoma,38,N,(1) Missouri,17,Big 12 Championship (San Antonio TX)
+763,16,Dec 1 2007,Sat,Oregon State,38,@,(18) Oregon,31,
+764,16,Dec 1 2007,Sat,Pittsburgh,13,@,(2) West Virginia,9,
+765,16,Dec 1 2007,Sat,(8) Southern California,24,,UCLA,7,
+766,16,Dec 1 2007,Sat,Stanford,20,,California,13,
+767,16,Dec 1 2007,Sat,(6) Virginia Tech,30,N,(12) Boston College,16,ACC Championship (Jacksonville FL)
+768,16,Dec 20 2007,Thu,Utah,35,N,Navy,32,Poinsettia Bowl (San Diego CA)
+769,16,Dec 21 2007,Fri,Florida Atlantic,44,N,Memphis,27,Mercedes-Benz Superdome - New Orleans Louisiana
+770,16,Dec 21 2007,Fri,Florida Atlantic,44,N,Memphis,27,New Orleans Bowl (New Orleans LA)
+771,16,Dec 22 2007,Sat,(19) Brigham Young,17,N,UCLA,16,Las Vegas Bowl (Las Vegas NV)
+772,16,Dec 22 2007,Sat,(20) Cincinnati,31,N,Southern Mississippi,21,PapaJohns.com Bowl (Birmingham AL)
+773,16,Dec 22 2007,Sat,New Mexico,23,,Nevada,0,New Mexico Bowl (Albuquerque NM)
+774,16,Dec 23 2007,Sun,East Carolina,41,N,(24) Boise State,38,Hawaii Bowl (Honolulu HI)
+775,16,Dec 26 2007,Wed,Purdue,51,N,Central Michigan,48,Motor City Bowl (Detroit MI)
+776,16,Dec 27 2007,Thu,(17) Texas,52,N,(12) Arizona State,34,Holiday Bowl (San Diego CA)
+777,16,Dec 28 2007,Fri,(14) Boston College,24,N,Michigan State,21,Champs Sports Bowl (Orlando FL)
+778,16,Dec 28 2007,Fri,Oregon State,21,N,Maryland,14,Emerald Bowl (San Francisco CA)
+779,16,Dec 28 2007,Fri,Texas Christian,20,@,Houston,13,Texas Bowl (Houston TX)
+780,16,Dec 29 2007,Sat,Mississippi State,10,N,Central Florida,3,Liberty Bowl (Memphis TN)
+781,16,Dec 29 2007,Sat,Penn State,24,N,Texas A&M,17,Alamodome - San Antonio Texas
+782,16,Dec 29 2007,Sat,Penn State,24,N,Texas A&M,17,Alamo Bowl (San Antonio TX)
+783,16,Dec 29 2007,Sat,Wake Forest,24,N,Connecticut,10,Meineke Car Care Bowl (Charlotte NC)
+784,16,Dec 30 2007,Sun,Alabama,30,N,Colorado,24,Independence Bowl (Shreveport LA)
+785,17,Dec 31 2007,Mon,(22) Auburn,23,N,(15) Clemson,20,Chick-fil-A Bowl (Atlanta GA)
+786,17,Dec 31 2007,Mon,California,42,N,Air Force,36,Armed Forces Bowl (Fort Worth TX)
+787,17,Dec 31 2007,Mon,Fresno State,40,N,Georgia Tech,28,Humanitarian Bowl (Boise ID)
+788,17,Dec 31 2007,Mon,Kentucky,35,N,Florida State,28,Music City Bowl (Nashville TN)
+789,17,Dec 31 2007,Mon,Oklahoma State,49,N,Indiana,33,Insight Bowl (Tempe AZ)
+790,17,Dec 31 2007,Mon,Oregon,56,N,(23) South Florida,21,Sun Bowl (El Paso TX)
+791,18,Jan 1 2008,Tue,(4) Georgia,41,N,(10) Hawaii,10,Sugar Bowl (New Orleans LA)
+792,18,Jan 1 2008,Tue,Michigan,41,N,(9) Florida,35,Capital One Bowl (Orlando FL)
+793,18,Jan 1 2008,Tue,(7) Missouri,38,N,(25) Arkansas,7,Cotton Bowl (Dallas TX)
+794,18,Jan 1 2008,Tue,(6) Southern California,49,N,(13) Illinois,17,Rose Bowl (Pasadena CA)
+795,18,Jan 1 2008,Tue,(16) Tennessee,21,N,(18) Wisconsin,17,Outback Bowl (Tampa FL)
+796,18,Jan 1 2008,Tue,Texas Tech,31,N,(21) Virginia,28,Gator Bowl (Jacksonville FL)
+797,18,Jan 2 2008,Wed,(11) West Virginia,48,N,(3) Oklahoma,28,Fiesta Bowl (Glendale AZ)
+798,18,Jan 3 2008,Thu,(8) Kansas,24,N,(5) Virginia Tech,21,Orange Bowl (Miami FL)
+799,18,Jan 5 2008,Sat,Rutgers,52,N,Ball State,30,International Bowl (Toronto Canada)
+800,18,Jan 6 2008,Sun,Tulsa,63,N,Bowling Green State,7,GMAC Bowl (Mobile AL)
+801,18,Jan 7 2008,Mon,(2) Louisiana State,38,N,(1) Ohio State,24,BCS Championship (New Orleans LA)

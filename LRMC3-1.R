@@ -22,8 +22,16 @@ multiYearResults <- function(){
 
 main <- function(year, t) {
     rM = matrix(rep(0,603), nrow=201, ncol =3)
+    using2020 = FALSE
     for (y in 1:t) {
-        rM = rM + gen_rM(year - y)
+        cgYear = year - 1
+        if (cgYear == 2020){
+            using2020 = TRUE
+        }
+        if (using2020) {
+            cgYear = cgYear - 1
+        }
+        rM = rM + gen_rM(cgYear)
     }
     x = 4
     B = dataC(rM)

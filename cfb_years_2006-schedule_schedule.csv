@@ -32,8 +32,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 31,1,Sep 2 2006,Sat,(16) Iowa,41,,Montana,7,
 32,1,Sep 2 2006,Sat,Kansas,49,,Northwestern State,18,
 33,1,Sep 2 2006,Sat,Kansas State,24,,Illinois State,23,
-34,1,Sep 2 2006,Sat,(8) Louisiana State,45,,Louisiana-Lafayette,3,
-35,1,Sep 2 2006,Sat,Maryland,27,,William &amp; Mary,14,
+34,1,Sep 2 2006,Sat,(8) Louisiana State,45,,Louisiana,3,
+35,1,Sep 2 2006,Sat,Maryland,27,,William & Mary,14,
 36,1,Sep 2 2006,Sat,(14) Michigan,27,,Vanderbilt,7,
 37,1,Sep 2 2006,Sat,Michigan State,27,,Idaho,17,
 38,1,Sep 2 2006,Sat,Missouri,47,,Murray State,7,
@@ -58,7 +58,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 57,1,Sep 2 2006,Sat,(6) Southern California,50,@,Arkansas,14,
 58,1,Sep 2 2006,Sat,(23) Tennessee,35,,(9) California,18,
 59,1,Sep 2 2006,Sat,(3) Texas,56,,North Texas,7,
-60,1,Sep 2 2006,Sat,Texas A&amp;M,35,,Citadel,3,
+60,1,Sep 2 2006,Sat,Texas A&M,35,,Citadel,3,
 61,1,Sep 2 2006,Sat,(25) Texas Tech,35,,Southern Methodist,3,
 62,1,Sep 2 2006,Sat,Troy,38,,Alabama State,0,
 63,1,Sep 2 2006,Sat,UCLA,31,,Utah,10,
@@ -66,13 +66,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 65,1,Sep 2 2006,Sat,Wake Forest,20,,Syracuse,10,
 66,1,Sep 2 2006,Sat,Washington,35,,San Jose State,29,
 67,1,Sep 2 2006,Sat,(5) West Virginia,42,,Marshall,10,
-68,1,Sep 2 2006,Sat,Wisconsin,35,@,Bowling Green State,14,Cleveland OH
+68,1,Sep 2 2006,Sat,Wisconsin,35,@,Bowling Green State,14,
 69,1,Sep 2 2006,Sat,Wyoming,38,,Utah State,7,
 70,1,Sep 3 2006,Sun,(13) Louisville,59,,Kentucky,28,
 71,1,Sep 3 2006,Sun,Mississippi,28,,Memphis,25,
 72,1,Sep 3 2006,Sun,(22) Texas Christian,17,@,Baylor,7,
 73,1,Sep 4 2006,Mon,(11) Florida State,13,@,(12) Miami (FL),10,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 74,2,Sep 7 2006,Thu,Boise State,42,,Oregon State,14,
 75,2,Sep 8 2006,Fri,Pittsburgh,33,@,Cincinnati,15,
 76,2,Sep 9 2006,Sat,Akron,20,@,North Carolina State,17,
@@ -87,7 +86,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 85,2,Sep 9 2006,Sat,Bowling Green State,48,,Buffalo,40,
 86,2,Sep 9 2006,Sat,Brigham Young,49,,Tulsa,24,
 87,2,Sep 9 2006,Sat,(22) California,42,,Minnesota,17,
-88,2,Sep 9 2006,Sat,Colorado State,14,,Colorado,10,Denver CO
+88,2,Sep 9 2006,Sat,Colorado State,14,N,Colorado,10,
 89,2,Sep 9 2006,Sat,(7) Florida,42,,Central Florida,0,
 90,2,Sep 9 2006,Sat,(9) Florida State,24,,Troy,17,
 91,2,Sep 9 2006,Sat,(12) Georgia,18,@,South Carolina,0,
@@ -104,7 +103,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 102,2,Sep 9 2006,Sat,Marshall,54,,Hofstra,31,
 103,2,Sep 9 2006,Sat,Maryland,24,,Middle Tennessee State,10,
 104,2,Sep 9 2006,Sat,Memphis,33,,Chattanooga,14,
-105,2,Sep 9 2006,Sat,(17) Miami (FL),51,,Florida A&amp;M,10,
+105,2,Sep 9 2006,Sat,(17) Miami (FL),51,,Florida A&M,10,
 106,2,Sep 9 2006,Sat,(10) Michigan,41,,Central Michigan,17,
 107,2,Sep 9 2006,Sat,Michigan State,52,,Eastern Michigan,20,
 108,2,Sep 9 2006,Sat,Missouri,34,,Mississippi,7,
@@ -117,7 +116,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 115,2,Sep 9 2006,Sat,Ohio,35,@,Northern Illinois,23,
 116,2,Sep 9 2006,Sat,(1) Ohio State,24,@,(2) Texas,7,
 117,2,Sep 9 2006,Sat,(15) Oklahoma,37,,Washington,20,
-118,2,Sep 9 2006,Sat,Oklahoma State,35,@,Arkansas State,7,Little Rock AR
+118,2,Sep 9 2006,Sat,Oklahoma State,35,@,Arkansas State,7,
 119,2,Sep 9 2006,Sat,(20) Oregon,31,@,Fresno State,24,
 120,2,Sep 9 2006,Sat,Purdue,38,,Miami (OH),31,
 121,2,Sep 9 2006,Sat,Rutgers,33,,Illinois,0,
@@ -125,7 +124,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 123,2,Sep 9 2006,Sat,South Florida,21,,Florida International,20,
 124,2,Sep 9 2006,Sat,Southern Mississippi,45,,Southeastern Louisiana,0,
 125,2,Sep 9 2006,Sat,(11) Tennessee,31,,Air Force,30,
-126,2,Sep 9 2006,Sat,Texas A&amp;M,51,,Louisiana-Lafayette,7,
+126,2,Sep 9 2006,Sat,Texas A&M,51,,Louisiana,7,
 127,2,Sep 9 2006,Sat,(23) Texas Christian,46,,California-Davis,13,
 128,2,Sep 9 2006,Sat,(24) Texas Tech,38,@,Texas-El Paso,35,
 129,2,Sep 9 2006,Sat,UCLA,26,,Rice,16,
@@ -137,7 +136,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 135,2,Sep 9 2006,Sat,(6) West Virginia,52,,Eastern Washington,3,
 136,2,Sep 9 2006,Sat,Western Michigan,31,,Toledo,10,
 137,2,Sep 9 2006,Sat,Wisconsin,34,,Western Illinois,10,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 138,3,Sep 14 2006,Thu,Middle Tennessee State,44,,Tennessee Tech,0,
 139,3,Sep 14 2006,Thu,(5) West Virginia,45,,Maryland,24,
 140,3,Sep 15 2006,Fri,Toledo,37,,Kansas,31,
@@ -188,8 +186,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 185,3,Sep 16 2006,Sat,Southern Methodist,45,,Sam Houston State,14,
 186,3,Sep 16 2006,Sat,Southern Mississippi,37,,North Carolina State,17,
 187,3,Sep 16 2006,Sat,Syracuse,31,@,Illinois,21,
-188,3,Sep 16 2006,Sat,(8) Texas,52,@,Rice,7,Houston TX
-189,3,Sep 16 2006,Sat,Texas A&amp;M,28,,Army,24,San Antonio TX
+188,3,Sep 16 2006,Sat,(8) Texas,52,@,Rice,7,
+189,3,Sep 16 2006,Sat,Texas A&M,28,,Army,24,
 190,3,Sep 16 2006,Sat,(20) Texas Christian,12,,(24) Texas Tech,3,
 191,3,Sep 16 2006,Sat,Tulane,32,@,Mississippi State,29,
 192,3,Sep 16 2006,Sat,Tulsa,28,,North Texas,3,
@@ -197,10 +195,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 194,3,Sep 16 2006,Sat,(14) Virginia Tech,36,,Duke,0,
 195,3,Sep 16 2006,Sat,Wake Forest,24,@,Connecticut,13,
 196,3,Sep 16 2006,Sat,Washington,21,,Fresno State,20,
-197,3,Sep 16 2006,Sat,Washington State,17,,Baylor,15,Seattle WA
+197,3,Sep 16 2006,Sat,Washington State,17,,Baylor,15,
 198,3,Sep 16 2006,Sat,Western Michigan,17,@,Virginia,10,
 199,3,Sep 16 2006,Sat,Wisconsin,14,,San Diego State,0,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 200,4,Sep 21 2006,Thu,Georgia Tech,24,,Virginia,7,
 201,4,Sep 22 2006,Fri,Nevada,31,,Northwestern,21,
 202,4,Sep 23 2006,Sat,Air Force,31,@,Wyoming,24,
@@ -221,8 +218,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 217,4,Sep 23 2006,Sat,(14) Iowa,24,@,Illinois,7,
 218,4,Sep 23 2006,Sat,Kansas,13,,South Florida,7,
 219,4,Sep 23 2006,Sat,Kent State,38,@,Bowling Green State,3,
-220,4,Sep 23 2006,Sat,(10) Louisiana State,49,,Tulane,7,
-221,4,Sep 23 2006,Sat,Louisiana-Lafayette,48,,North Carolina A&amp;T,7,
+220,4,Sep 23 2006,Sat,Louisiana,48,,North Carolina A&T,7,
+221,4,Sep 23 2006,Sat,(10) Louisiana State,49,,Tulane,7,
 222,4,Sep 23 2006,Sat,(8) Louisville,24,@,Kansas State,6,
 223,4,Sep 23 2006,Sat,Maryland,14,,Florida International,10,
 224,4,Sep 23 2006,Sat,(6) Michigan,27,,Wisconsin,13,
@@ -247,7 +244,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 243,4,Sep 23 2006,Sat,Syracuse,34,,Miami (OH),14,
 244,4,Sep 23 2006,Sat,(15) Tennessee,33,,Marshall,7,
 245,4,Sep 23 2006,Sat,(7) Texas,37,,Iowa State,14,
-246,4,Sep 23 2006,Sat,Texas A&amp;M,45,,Louisiana Tech,14,
+246,4,Sep 23 2006,Sat,Texas A&M,45,,Louisiana Tech,14,
 247,4,Sep 23 2006,Sat,Texas Tech,62,,Southeastern Louisiana,0,
 248,4,Sep 23 2006,Sat,Toledo,41,,McNeese State,7,
 249,4,Sep 23 2006,Sat,Tulsa,24,@,Navy,23,
@@ -259,7 +256,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 255,4,Sep 23 2006,Sat,Washington State,36,@,Stanford,10,
 256,4,Sep 23 2006,Sat,(4) West Virginia,27,@,East Carolina,10,
 257,4,Sep 23 2006,Sat,Western Michigan,41,,Temple,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 258,5,Sep 26 2006,Tue,Southern Mississippi,19,@,Central Florida,14,
 259,5,Sep 28 2006,Thu,(2) Auburn,24,@,South Carolina,17,
 260,5,Sep 28 2006,Thu,Brigham Young,31,@,(17) Texas Christian,17,
@@ -285,8 +281,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 280,5,Sep 30 2006,Sat,Iowa State,28,,Northern Iowa,27,
 281,5,Sep 30 2006,Sat,Kent State,37,,Akron,15,
 282,5,Sep 30 2006,Sat,Kentucky,45,,Central Michigan,36,
-283,5,Sep 30 2006,Sat,(9) Louisiana State,48,,Mississippi State,17,
-284,5,Sep 30 2006,Sat,Louisiana-Lafayette,33,,Eastern Michigan,14,
+283,5,Sep 30 2006,Sat,Louisiana,33,,Eastern Michigan,14,
+284,5,Sep 30 2006,Sat,(9) Louisiana State,48,,Mississippi State,17,
 285,5,Sep 30 2006,Sat,Miami (FL),14,,Houston,13,
 286,5,Sep 30 2006,Sat,(6) Michigan,28,@,Minnesota,14,
 287,5,Sep 30 2006,Sat,Middle Tennessee State,35,@,North Texas,0,
@@ -307,7 +303,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 302,5,Sep 30 2006,Sat,Syracuse,40,,Wyoming,34,
 303,5,Sep 30 2006,Sat,(15) Tennessee,41,@,Memphis,7,
 304,5,Sep 30 2006,Sat,(7) Texas,56,,Sam Houston State,3,
-305,5,Sep 30 2006,Sat,Texas Tech,31,@,Texas A&amp;M,27,
+305,5,Sep 30 2006,Sat,Texas Tech,31,@,Texas A&M,27,
 306,5,Sep 30 2006,Sat,Texas-El Paso,44,,New Mexico State,38,
 307,5,Sep 30 2006,Sat,UCLA,31,,Stanford,0,
 308,5,Sep 30 2006,Sat,Vanderbilt,43,,Temple,14,
@@ -315,12 +311,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 310,5,Sep 30 2006,Sat,Wake Forest,34,,Liberty,14,
 311,5,Sep 30 2006,Sat,Washington,21,@,Arizona,10,
 312,5,Sep 30 2006,Sat,Wisconsin,52,@,Indiana,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 313,6,Oct 3 2006,Tue,Tulsa,20,,Southern Mississippi,6,
 314,6,Oct 4 2006,Wed,Central Florida,23,@,Marshall,22,
 315,6,Oct 5 2006,Thu,North Carolina State,24,,(17) Florida State,20,
 316,6,Oct 5 2006,Thu,Utah,20,,Texas Christian,7,
-317,6,Oct 6 2006,Fri,(8) Louisville,44,@,Middle Tennessee State,17,Nashville TN
+317,6,Oct 6 2006,Fri,(8) Louisville,44,@,Middle Tennessee State,17,
 318,6,Oct 7 2006,Sat,Alabama,30,,Duke,14,
 319,6,Oct 7 2006,Sat,Alabama-Birmingham,35,,Memphis,29,
 320,6,Oct 7 2006,Sat,Arkansas,27,@,(2) Auburn,10,
@@ -344,7 +339,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 338,6,Oct 7 2006,Sat,(19) Iowa,47,,Purdue,17,
 339,6,Oct 7 2006,Sat,Kansas State,31,,Oklahoma State,27,
 340,6,Oct 7 2006,Sat,Kent State,28,@,Temple,17,
-341,6,Oct 7 2006,Sat,Louisiana-Lafayette,31,@,Houston,28,
+341,6,Oct 7 2006,Sat,Louisiana,31,@,Houston,28,
 342,6,Oct 7 2006,Sat,Miami (FL),27,,North Carolina,7,
 343,6,Oct 7 2006,Sat,(6) Michigan,31,,Michigan State,13,
 344,6,Oct 7 2006,Sat,Mississippi,17,,Vanderbilt,10,
@@ -361,8 +356,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 355,6,Oct 7 2006,Sat,South Florida,38,,Connecticut,16,
 356,6,Oct 7 2006,Sat,(3) Southern California,26,,Washington,20,
 357,6,Oct 7 2006,Sat,(13) Tennessee,51,@,(10) Georgia,33,
-358,6,Oct 7 2006,Sat,(7) Texas,28,,(14) Oklahoma,10,Dallas TX
-359,6,Oct 7 2006,Sat,Texas A&amp;M,21,@,Kansas,18,
+358,6,Oct 7 2006,Sat,(7) Texas,28,N,(14) Oklahoma,10,
+359,6,Oct 7 2006,Sat,Texas A&M,21,@,Kansas,18,
 360,6,Oct 7 2006,Sat,Texas-El Paso,24,,Southern Methodist,21,
 361,6,Oct 7 2006,Sat,Tulane,38,,Rice,24,
 362,6,Oct 7 2006,Sat,UCLA,27,,Arizona,7,
@@ -372,10 +367,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 366,6,Oct 7 2006,Sat,Wisconsin,41,,Northwestern,9,
 367,6,Oct 7 2006,Sat,Wyoming,14,@,New Mexico,10,
 368,6,Oct 8 2006,Sun,Northern Illinois,28,@,Miami (OH),25,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 369,7,Oct 12 2006,Thu,Air Force,24,,Colorado State,21,
 370,7,Oct 12 2006,Thu,Boston College,22,,(22) Virginia Tech,3,
-371,7,Oct 12 2006,Thu,(12) Clemson,63,,Temple,9,Charlotte NC
+371,7,Oct 12 2006,Thu,(12) Clemson,63,,Temple,9,
 372,7,Oct 12 2006,Thu,Florida Atlantic,32,,Southern Utah,7,
 373,7,Oct 13 2006,Fri,Pittsburgh,52,@,Central Florida,7,
 374,7,Oct 14 2006,Sat,Alabama,26,,Mississippi,23,
@@ -416,7 +410,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 409,7,Oct 14 2006,Sat,Southern Methodist,31,,Marshall,21,
 410,7,Oct 14 2006,Sat,Southern Mississippi,31,,Houston,27,
 411,7,Oct 14 2006,Sat,(6) Texas,63,,Baylor,31,
-412,7,Oct 14 2006,Sat,Texas A&amp;M,25,,(19) Missouri,19,
+412,7,Oct 14 2006,Sat,Texas A&M,25,,(19) Missouri,19,
 413,7,Oct 14 2006,Sat,Texas-El Paso,34,,Tulane,20,
 414,7,Oct 14 2006,Sat,Troy,24,,Louisiana-Monroe,19,
 415,7,Oct 14 2006,Sat,Tulsa,31,@,East Carolina,10,
@@ -426,10 +420,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 419,7,Oct 14 2006,Sat,Western Michigan,16,,Northern Illinois,14,
 420,7,Oct 14 2006,Sat,(25) Wisconsin,48,,Minnesota,12,
 421,7,Oct 14 2006,Sat,Wyoming,31,,Utah,15,
-422,7,Oct 15 2006,Sun,(18) Boise State,40,@,New Mexico State,28,
+422,7,Oct 15 2006,Sun,(20) Boise State,40,@,New Mexico State,28,
 423,7,Oct 15 2006,Sun,Miami (OH),38,@,Buffalo,31,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-424,8,Oct 18 2006,Wed,Louisiana-Lafayette,6,@,Florida Atlantic,0,
+424,8,Oct 18 2006,Wed,Louisiana,6,@,Florida Atlantic,0,
 425,8,Oct 19 2006,Thu,Central Michigan,31,,Bowling Green State,14,
 426,8,Oct 19 2006,Thu,New Mexico,34,,Utah,31,
 427,8,Oct 19 2006,Thu,Virginia,23,,North Carolina,0,
@@ -475,7 +468,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 467,8,Oct 21 2006,Sat,South Carolina,31,@,Vanderbilt,13,
 468,8,Oct 21 2006,Sat,(7) Tennessee,16,,Alabama,13,
 469,8,Oct 21 2006,Sat,(5) Texas,22,@,(17) Nebraska,20,
-470,8,Oct 21 2006,Sat,(23) Texas A&amp;M,34,@,Oklahoma State,33,
+470,8,Oct 21 2006,Sat,(23) Texas A&M,34,@,Oklahoma State,33,
 471,8,Oct 21 2006,Sat,Texas Christian,31,@,Army,17,
 472,8,Oct 21 2006,Sat,Texas Tech,42,@,Iowa State,26,
 473,8,Oct 21 2006,Sat,Tulsa,35,@,Memphis,14,
@@ -485,12 +478,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 477,8,Oct 21 2006,Sat,(21) Wisconsin,24,@,Purdue,3,
 478,8,Oct 21 2006,Sat,Wyoming,24,,Colorado State,0,
 479,8,Oct 22 2006,Sun,Cincinnati,23,,South Florida,6,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 480,9,Oct 26 2006,Thu,Virginia Tech,24,,(10) Clemson,7,
 481,9,Oct 27 2006,Fri,Tulsa,30,,Texas-El Paso,20,
 482,9,Oct 28 2006,Sat,Alabama,38,,Florida International,3,
 483,9,Oct 28 2006,Sat,Arizona State,26,@,Washington,23,
-484,9,Oct 28 2006,Sat,(13) Arkansas,44,,Louisiana-Monroe,10,Little Rock AR
+484,9,Oct 28 2006,Sat,(13) Arkansas,44,,Louisiana-Monroe,10,
 485,9,Oct 28 2006,Sat,(7) Auburn,23,@,Mississippi,17,
 486,9,Oct 28 2006,Sat,Ball State,20,@,Miami (OH),17,
 487,9,Oct 28 2006,Sat,(18) Boston College,41,,Buffalo,0,
@@ -498,7 +490,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 489,9,Oct 28 2006,Sat,Cal Poly,16,@,San Diego State,14,
 490,9,Oct 28 2006,Sat,Cincinnati,17,,Syracuse,3,
 491,9,Oct 28 2006,Sat,East Carolina,20,@,Southern Mississippi,17,
-492,9,Oct 28 2006,Sat,(9) Florida,21,,Georgia,14,Jacksonville FL
+492,9,Oct 28 2006,Sat,(9) Florida,21,N,Georgia,14,
 493,9,Oct 28 2006,Sat,Florida Atlantic,29,,Arkansas State,0,
 494,9,Oct 28 2006,Sat,(21) Georgia Tech,30,,Miami (FL),23,
 495,9,Oct 28 2006,Sat,Hawaii,68,,Idaho,10,
@@ -511,10 +503,10 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 502,9,Oct 28 2006,Sat,Marshall,41,,Memphis,27,
 503,9,Oct 28 2006,Sat,Maryland,27,,Florida State,24,
 504,9,Oct 28 2006,Sat,(2) Michigan,17,,Northwestern,3,
-505,9,Oct 28 2006,Sat,Middle Tennessee State,34,@,Louisiana-Lafayette,20,
+505,9,Oct 28 2006,Sat,Middle Tennessee State,34,@,Louisiana,20,
 506,9,Oct 28 2006,Sat,Nevada,48,,New Mexico State,21,
 507,9,Oct 28 2006,Sat,New Mexico,20,@,Colorado State,19,
-508,9,Oct 28 2006,Sat,(11) Notre Dame,38,@,Navy,14,Baltimore MD
+508,9,Oct 28 2006,Sat,(11) Notre Dame,38,@,Navy,14,
 509,9,Oct 28 2006,Sat,Ohio,17,@,Kent State,7,
 510,9,Oct 28 2006,Sat,(1) Ohio State,44,,Minnesota,0,
 511,9,Oct 28 2006,Sat,(19) Oklahoma,26,@,(23) Missouri,10,
@@ -526,7 +518,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 517,9,Oct 28 2006,Sat,Temple,28,,Bowling Green State,14,
 518,9,Oct 28 2006,Sat,(8) Tennessee,31,@,South Carolina,24,
 519,9,Oct 28 2006,Sat,(5) Texas,35,@,Texas Tech,31,
-520,9,Oct 28 2006,Sat,(22) Texas A&amp;M,31,@,Baylor,21,
+520,9,Oct 28 2006,Sat,(22) Texas A&M,31,@,Baylor,21,
 521,9,Oct 28 2006,Sat,Texas Christian,26,,Wyoming,3,
 522,9,Oct 28 2006,Sat,Toledo,35,,Akron,20,
 523,9,Oct 28 2006,Sat,Troy,14,,North Texas,6,
@@ -538,8 +530,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 529,9,Oct 28 2006,Sat,Washington State,37,@,UCLA,15,
 530,9,Oct 28 2006,Sat,Western Michigan,18,,Eastern Michigan,15,
 531,9,Oct 28 2006,Sat,(17) Wisconsin,30,,Illinois,24,
-532,9,Oct 29 2006,Sun,(15) Rutgers,24,,Connecticut,13,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
+532,9,Oct 29 2006,Sun,(16) Rutgers,24,,Connecticut,13,
 533,10,Oct 31 2006,Tue,Southern Methodist,22,,Alabama-Birmingham,9,
 534,10,Nov 1 2006,Wed,(14) Boise State,45,,Fresno State,21,
 535,10,Nov 2 2006,Thu,(5) Louisville,44,,(3) West Virginia,34,
@@ -577,7 +568,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 567,10,Nov 4 2006,Sat,(11) Notre Dame,45,,North Carolina,26,
 568,10,Nov 4 2006,Sat,Ohio,16,@,Eastern Michigan,10,
 569,10,Nov 4 2006,Sat,(1) Ohio State,17,@,Illinois,10,
-570,10,Nov 4 2006,Sat,(18) Oklahoma,17,@,(21) Texas A&amp;M,16,
+570,10,Nov 4 2006,Sat,(18) Oklahoma,17,@,(21) Texas A&M,16,
 571,10,Nov 4 2006,Sat,(24) Oregon,34,,Washington,14,
 572,10,Nov 4 2006,Sat,Oregon State,44,,Arizona State,10,
 573,10,Nov 4 2006,Sat,Purdue,17,@,Michigan State,15,
@@ -588,14 +579,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 578,10,Nov 4 2006,Sat,(4) Texas,36,,Oklahoma State,10,
 579,10,Nov 4 2006,Sat,Texas Christian,25,@,Nevada-Las Vegas,10,
 580,10,Nov 4 2006,Sat,Texas Tech,55,,Baylor,21,
-581,10,Nov 4 2006,Sat,Troy,42,,Louisiana-Lafayette,28,
+581,10,Nov 4 2006,Sat,Troy,42,,Louisiana,28,
 582,10,Nov 4 2006,Sat,(23) Virginia Tech,17,@,Miami (FL),10,
 583,10,Nov 4 2006,Sat,(22) Wake Forest,21,,(16) Boston College,14,
 584,10,Nov 4 2006,Sat,Western Michigan,27,,Miami (OH),24,
 585,10,Nov 4 2006,Sat,(17) Wisconsin,13,,Penn State,3,
 586,10,Nov 4 2006,Sat,Wyoming,27,,San Diego State,24,
 587,10,Nov 5 2006,Sun,Southern Mississippi,42,@,Memphis,21,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 588,11,Nov 7 2006,Tue,Toledo,17,@,Northern Illinois,13,
 589,11,Nov 9 2006,Thu,Akron,31,,Buffalo,16,
 590,11,Nov 9 2006,Thu,(25) Brigham Young,55,,Wyoming,7,
@@ -627,9 +617,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 616,11,Nov 11 2006,Sat,Middle Tennessee State,38,@,Arkansas State,10,
 617,11,Nov 11 2006,Sat,Minnesota,31,@,Michigan State,18,
 618,11,Nov 11 2006,Sat,Navy,49,@,Eastern Michigan,21,
-619,11,Nov 11 2006,Sat,Nebraska,28,@,(24) Texas A&amp;M,27,
+619,11,Nov 11 2006,Sat,Nebraska,28,@,(24) Texas A&M,27,
 620,11,Nov 11 2006,Sat,Nevada,42,,Utah State,0,
-621,11,Nov 11 2006,Sat,North Texas,16,@,Louisiana-Lafayette,7,
+621,11,Nov 11 2006,Sat,North Texas,16,@,Louisiana,7,
 622,11,Nov 11 2006,Sat,(9) Notre Dame,39,@,Air Force,17,
 623,11,Nov 11 2006,Sat,(1) Ohio State,54,@,Northwestern,10,
 624,11,Nov 11 2006,Sat,(17) Oklahoma,34,,Texas Tech,24,
@@ -650,7 +640,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 639,11,Nov 11 2006,Sat,(18) Wake Forest,30,@,Florida State,0,
 640,11,Nov 11 2006,Sat,(10) West Virginia,42,,Cincinnati,24,
 641,11,Nov 11 2006,Sat,(16) Wisconsin,24,@,Iowa,21,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 642,12,Nov 14 2006,Tue,Ball State,20,@,Toledo,17,
 643,12,Nov 15 2006,Wed,Miami (OH),9,@,Bowling Green State,7,
 644,12,Nov 16 2006,Thu,Ohio,17,,Akron,7,
@@ -675,8 +664,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 663,12,Nov 18 2006,Sat,Iowa State,21,,Missouri,16,
 664,12,Nov 18 2006,Sat,Kansas,39,,Kansas State,20,
 665,12,Nov 18 2006,Sat,Kentucky,42,,Louisiana-Monroe,40,
-666,12,Nov 18 2006,Sat,(9) Louisiana State,23,,Mississippi,20,
-667,12,Nov 18 2006,Sat,Louisiana-Lafayette,17,@,Florida International,7,
+666,12,Nov 18 2006,Sat,Louisiana,17,@,Florida International,7,
+667,12,Nov 18 2006,Sat,(9) Louisiana State,23,,Mississippi,20,
 668,12,Nov 18 2006,Sat,(10) Louisville,31,,South Florida,8,
 669,12,Nov 18 2006,Sat,Marshall,49,,Texas-El Paso,21,
 670,12,Nov 18 2006,Sat,Minnesota,34,,Iowa,24,
@@ -707,19 +696,18 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 695,12,Nov 18 2006,Sat,Washington,35,@,Washington State,32,
 696,12,Nov 18 2006,Sat,(12) Wisconsin,35,,Buffalo,3,
 697,12,Nov 18 2006,Sat,Wyoming,34,@,Nevada-Las Vegas,26,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 698,13,Nov 21 2006,Tue,Toledo,31,,Bowling Green State,21,
 699,13,Nov 23 2006,Thu,Miami (FL),17,,(18) Boston College,14,
 700,13,Nov 24 2006,Fri,Ball State,30,,Kent State,6,
 701,13,Nov 24 2006,Fri,Central Michigan,55,@,Buffalo,28,
 702,13,Nov 24 2006,Fri,Fresno State,34,@,Louisiana Tech,27,
-703,13,Nov 24 2006,Fri,(9) Louisiana State,31,@,(5) Arkansas,26,Little Rock AR
+703,13,Nov 24 2006,Fri,(9) Louisiana State,31,@,(5) Arkansas,26,
 704,13,Nov 24 2006,Fri,(23) Nebraska,37,,Colorado,14,
 705,13,Nov 24 2006,Fri,Nevada-Las Vegas,42,,Air Force,39,
 706,13,Nov 24 2006,Fri,Northern Illinois,27,@,Eastern Michigan,0,
 707,13,Nov 24 2006,Fri,Ohio,34,@,Miami (OH),24,
 708,13,Nov 24 2006,Fri,Oregon State,30,,Oregon,28,
-709,13,Nov 24 2006,Fri,Texas A&amp;M,12,@,(11) Texas,7,
+709,13,Nov 24 2006,Fri,Texas A&M,12,@,(11) Texas,7,
 710,13,Nov 24 2006,Fri,Tulsa,38,,Tulane,3,
 711,13,Nov 24 2006,Fri,Western Michigan,17,@,Akron,0,
 712,13,Nov 25 2006,Sat,Arizona State,28,@,Arizona,14,
@@ -729,10 +717,10 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 716,13,Nov 25 2006,Sat,Cincinnati,26,@,Connecticut,23,
 717,13,Nov 25 2006,Sat,East Carolina,21,@,North Carolina State,16,
 718,13,Nov 25 2006,Sat,(4) Florida,21,@,Florida State,14,
-719,13,Nov 25 2006,Sat,Florida Atlantic,31,,Florida International,0,Miami FL
+719,13,Nov 25 2006,Sat,Florida Atlantic,31,N,Florida International,0,
 720,13,Nov 25 2006,Sat,Georgia,15,,(16) Georgia Tech,12,
 721,13,Nov 25 2006,Sat,(25) Hawaii,42,,Purdue,35,
-722,13,Nov 25 2006,Sat,Louisiana-Lafayette,28,,Arkansas State,13,
+722,13,Nov 25 2006,Sat,Louisiana,28,,Arkansas State,13,
 723,13,Nov 25 2006,Sat,Louisiana-Monroe,23,,North Texas,3,
 724,13,Nov 25 2006,Sat,(8) Louisville,48,@,Pittsburgh,24,
 725,13,Nov 25 2006,Sat,Memphis,38,@,Texas-El Paso,19,
@@ -754,57 +742,56 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 741,13,Nov 25 2006,Sat,Troy,21,@,Middle Tennessee State,20,
 742,13,Nov 25 2006,Sat,(17) Virginia Tech,17,,Virginia,0,
 743,13,Nov 25 2006,Sat,(20) Wake Forest,38,@,Maryland,24,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-744,14,Nov 30 2006,Thu,Central Michigan,31,,Ohio,10,MAC Championship (Detroit MI)
+744,14,Nov 30 2006,Thu,Central Michigan,31,N,Ohio,10,MAC Championship (Detroit MI)
 745,14,Dec 1 2006,Fri,Houston,34,,Southern Mississippi,20,CUSA Championship
 746,14,Dec 2 2006,Sat,(21) California,26,,Stanford,17,
-747,14,Dec 2 2006,Sat,(4) Florida,38,,(8) Arkansas,28,SEC Championship (Atlanta GA)
-748,14,Dec 2 2006,Sat,Louisiana-Monroe,39,@,Louisiana-Lafayette,20,
+747,14,Dec 2 2006,Sat,(4) Florida,38,N,(8) Arkansas,28,SEC Championship (Atlanta GA)
+748,14,Dec 2 2006,Sat,Louisiana-Monroe,39,@,Louisiana,20,
 749,14,Dec 2 2006,Sat,(6) Louisville,48,,Connecticut,17,
-750,14,Dec 2 2006,Sat,Navy,26,,Army,14,Philadelphia PA
-751,14,Dec 2 2006,Sat,New Mexico State,50,,Louisiana Tech,23,
-752,14,Dec 2 2006,Sat,(8) Oklahoma,21,,(19) Nebraska,7,Big 12 Championship (Kansas City MO)
-753,14,Dec 2 2006,Sat,Oregon State,35,@,(24) Hawaii,32,
-754,14,Dec 2 2006,Sat,San Diego State,17,,Colorado State,6,
-755,14,Dec 2 2006,Sat,San Jose State,24,,Fresno State,14,
-756,14,Dec 2 2006,Sat,Texas Christian,38,,Air Force,14,
-757,14,Dec 2 2006,Sat,Troy,26,@,Florida International,13,
-758,14,Dec 2 2006,Sat,UCLA,13,,(2) Southern California,9,
-759,14,Dec 2 2006,Sat,(16) Wake Forest,9,,(23) Georgia Tech,6,ACC Championship (Jacksonville FL)
-760,14,Dec 2 2006,Sat,(15) West Virginia,41,,(13) Rutgers,39,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-761,16,Dec 19 2006,Tue,(25) Texas Christian,37,,Northern Illinois,7,Poinsettia Bowl (San Diego CA)
-762,15,Dec 21 2006,Thu,(19) Brigham Young,38,,Oregon,8,Las Vegas Bowl (Las Vegas NV)
-763,15,Dec 22 2006,Fri,Troy,41,,Rice,17,New Orleans Bowl (New Orleans LA)
-764,15,Dec 23 2006,Sat,San Jose State,20,@,New Mexico,12,New Mexico Bowl (Albuquerque NM)
-765,15,Dec 23 2006,Sat,South Florida,24,,East Carolina,7,PapaJohns.com Bowl (Birmingham AL)
-766,15,Dec 23 2006,Sat,Utah,25,,Tulsa,13,Armed Forces Bowl (Fort Worth TX)
-767,15,Dec 24 2006,Sun,Hawaii,41,,Arizona State,24,Hawaii Bowl (Honolulu HI)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-768,16,Dec 26 2006,Tue,Central Michigan,31,,Middle Tennessee State,14,Motor City Bowl (Detroit MI)
-769,16,Dec 27 2006,Wed,Florida State,44,,UCLA,27,Emerald Bowl (San Francisco CA)
-770,16,Dec 28 2006,Thu,(20) California,45,,(21) Texas A&amp;M,10,Holiday Bowl (San Diego CA)
-771,16,Dec 28 2006,Thu,Oklahoma State,34,,Alabama,31,Independence Bowl (Shreveport LA)
-772,16,Dec 28 2006,Thu,(16) Rutgers,37,,Kansas State,10,Texas Bowl (Houston TX)
-773,16,Dec 29 2006,Fri,Kentucky,28,,Clemson,20,Music City Bowl (Nashville TN)
-774,16,Dec 29 2006,Fri,Maryland,24,,Purdue,7,Champs Sports Bowl (Orlando FL)
-775,16,Dec 29 2006,Fri,(24) Oregon State,39,,Missouri,38,Sun Bowl (El Paso TX)
-776,16,Dec 29 2006,Fri,South Carolina,44,,Houston,36,Liberty Bowl (Memphis TN)
-777,16,Dec 29 2006,Fri,Texas Tech,44,,Minnesota,41,Insight Bowl (Tempe AZ)
-778,16,Dec 30 2006,Sat,(23) Boston College,25,,Navy,24,Meineke Car Care Bowl (Charlotte NC)
-779,16,Dec 30 2006,Sat,Georgia,31,,(14) Virginia Tech,24,Chick-Fil-A Bowl (Atlanta GA)
-780,16,Dec 30 2006,Sat,(18) Texas,26,,Iowa,24,Alamo Bowl (San Antonio TX)
-781,16,Dec 31 2006,Sun,Miami (FL),21,,Nevada,20,MPC Computers Bowl (Boise ID)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-782,17,Jan 1 2007,Mon,(10) Auburn,17,,(22) Nebraska,14,Cotton Bowl (Dallas TX)
-783,17,Jan 1 2007,Mon,(9) Boise State,43,,(7) Oklahoma,42,Fiesta Bowl (Glendale AZ)
-784,17,Jan 1 2007,Mon,Penn State,20,,(17) Tennessee,10,Outback Bowl (Tampa FL)
-785,17,Jan 1 2007,Mon,(8) Southern California,32,,(3) Michigan,18,Rose Bowl (Pasadena CA)
-786,17,Jan 1 2007,Mon,(13) West Virginia,38,,Georgia Tech,35,Gator Bowl (Jacksonville FL)
-787,17,Jan 1 2007,Mon,(6) Wisconsin,17,,(12) Arkansas,14,Capital One Bowl (Orlando FL)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-788,18,Jan 2 2007,Tue,(5) Louisville,24,,(15) Wake Forest,13,Orange Bowl (Miami FL)
-789,18,Jan 3 2007,Wed,(4) Louisiana State,41,,(11) Notre Dame,14,Sugar Bowl (New Orleans LA)
-790,18,Jan 6 2007,Sat,Cincinnati,27,,Western Michigan,24,International Bowl (Toronto Canada)
-791,18,Jan 7 2007,Sun,Southern Mississippi,28,,Ohio,7,GMAC Bowl (Mobile AL)
-792,18,Jan 8 2007,Mon,(2) Florida,41,,(1) Ohio State,14,BCS Championship (Glendale AZ)
+750,14,Dec 2 2006,Sat,Navy,26,N,Army,14,
+751,16,Dec 2 2006,Sat,New Mexico State,50,,Louisiana Tech,23,
+752,16,Dec 2 2006,Sat,(8) Oklahoma,21,N,(19) Nebraska,7,Big 12 Championship (Kansas City MO)
+753,16,Dec 2 2006,Sat,Oregon State,35,@,(24) Hawaii,32,
+754,16,Dec 2 2006,Sat,San Diego State,17,,Colorado State,6,
+755,16,Dec 2 2006,Sat,San Jose State,24,,Fresno State,14,
+756,16,Dec 2 2006,Sat,Texas Christian,38,,Air Force,14,
+757,16,Dec 2 2006,Sat,Troy,26,@,Florida International,13,
+758,16,Dec 2 2006,Sat,UCLA,13,,(2) Southern California,9,
+759,16,Dec 2 2006,Sat,(16) Wake Forest,9,N,(23) Georgia Tech,6,ACC Championship (Jacksonville FL)
+760,16,Dec 2 2006,Sat,(15) West Virginia,41,,(13) Rutgers,39,
+761,16,Dec 19 2006,Tue,(25) Texas Christian,37,N,Northern Illinois,7,Poinsettia Bowl (San Diego CA)
+762,16,Dec 21 2006,Thu,(19) Brigham Young,38,N,Oregon,8,Las Vegas Bowl (Las Vegas NV)
+763,16,Dec 22 2006,Fri,Troy,41,N,Rice,17,New Orleans Bowl (New Orleans LA)
+764,16,Dec 23 2006,Sat,San Jose State,20,@,New Mexico,12,New Mexico Bowl (Albuquerque NM)
+765,16,Dec 23 2006,Sat,South Florida,24,N,East Carolina,7,PapaJohns.com Bowl (Birmingham AL)
+766,16,Dec 23 2006,Sat,Utah,25,N,Tulsa,13,Armed Forces Bowl (Fort Worth TX)
+767,16,Dec 24 2006,Sun,Hawaii,41,,Arizona State,24,Hawaii Bowl (Honolulu HI)
+768,16,Dec 26 2006,Tue,Central Michigan,31,N,Middle Tennessee State,14,Motor City Bowl (Detroit MI)
+769,16,Dec 27 2006,Wed,Florida State,44,N,UCLA,27,Emerald Bowl (San Francisco CA)
+770,16,Dec 27 2006,Wed,Florida State,44,N,UCLA,27,Rose Bowl - Pasadena California
+771,16,Dec 28 2006,Thu,(20) California,45,N,(21) Texas A&M,10,Holiday Bowl (San Diego CA)
+772,16,Dec 28 2006,Thu,Oklahoma State,34,N,Alabama,31,Independence Bowl (Shreveport LA)
+773,16,Dec 28 2006,Thu,(16) Rutgers,37,N,Kansas State,10,Texas Bowl (Houston TX)
+774,16,Dec 29 2006,Fri,Kentucky,28,N,Clemson,20,Music City Bowl (Nashville TN)
+775,16,Dec 29 2006,Fri,Maryland,24,N,Purdue,7,Champs Sports Bowl (Orlando FL)
+776,16,Dec 29 2006,Fri,(24) Oregon State,39,N,Missouri,38,Sun Bowl (El Paso TX)
+777,16,Dec 29 2006,Fri,South Carolina,44,N,Houston,36,Liberty Bowl (Memphis TN)
+778,16,Dec 29 2006,Fri,South Carolina,44,N,Houston,36,Liberty Bowl Memorial Stadium - Memphis Tennessee
+779,16,Dec 29 2006,Fri,Texas Tech,44,N,Minnesota,41,Insight Bowl (Tempe AZ)
+780,16,Dec 30 2006,Sat,(23) Boston College,25,N,Navy,24,Meineke Car Care Bowl (Charlotte NC)
+781,16,Dec 30 2006,Sat,Georgia,31,N,(14) Virginia Tech,24,Chick-fil-A Bowl (Atlanta GA)
+782,16,Dec 30 2006,Sat,(18) Texas,26,N,Iowa,24,Alamo Bowl (San Antonio TX)
+783,16,Dec 31 2006,Sun,Miami (FL),21,N,Nevada,20,MPC Computers Bowl (Boise ID)
+784,17,Jan 1 2007,Mon,(10) Auburn,17,N,(22) Nebraska,14,Cotton Bowl (Dallas TX)
+785,17,Jan 1 2007,Mon,(9) Boise State,43,N,(7) Oklahoma,42,Fiesta Bowl (Glendale AZ)
+786,17,Jan 1 2007,Mon,Penn State,20,N,(17) Tennessee,10,Outback Bowl (Tampa FL)
+787,17,Jan 1 2007,Mon,Penn State,20,N,(17) Tennessee,10,Raymond James Stadium - Tampa Florida
+788,17,Jan 1 2007,Mon,(8) Southern California,32,,(3) Michigan,18,Rose Bowl (Pasadena CA)
+789,17,Jan 1 2007,Mon,(13) West Virginia,38,N,Georgia Tech,35,Gator Bowl (Jacksonville FL)
+790,17,Jan 1 2007,Mon,(6) Wisconsin,17,N,(12) Arkansas,14,Capital One Bowl (Orlando FL)
+791,18,Jan 2 2007,Tue,(5) Louisville,24,N,(15) Wake Forest,13,Orange Bowl (Miami FL)
+792,18,Jan 3 2007,Wed,(4) Louisiana State,41,N,(11) Notre Dame,14,Sugar Bowl (New Orleans LA)
+793,18,Jan 6 2007,Sat,Cincinnati,27,N,Western Michigan,24,International Bowl (Toronto Canada)
+794,18,Jan 7 2007,Sun,Southern Mississippi,28,N,Ohio,7,GMAC Bowl (Mobile AL)
+795,18,Jan 7 2007,Sun,Southern Mississippi,28,N,Ohio,7,Ladd-Peebles Stadium - Mobile Alabama
+796,18,Jan 8 2007,Mon,(2) Florida,41,N,(1) Ohio State,14,BCS Championship (Glendale AZ)
