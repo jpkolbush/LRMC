@@ -1,13 +1,11 @@
-
 Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 1,1,Aug 28 1999,Sat,(1) Florida State,41,,Louisiana Tech,7,
 2,1,Aug 28 1999,Sat,North Carolina State,23,@,(17) Texas,20,
 3,1,Aug 28 1999,Sat,(18) Notre Dame,48,,Kansas,13,
 4,1,Aug 28 1999,Sat,(3) Penn State,41,,(4) Arizona,7,
-5,1,Aug 29 1999,Sun,(12) Miami (FL),23,,(9) Ohio State,12,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
+5,1,Aug 29 1999,Sun,(12) Miami (FL),23,N,(9) Ohio State,12,
 6,2,Sep 2 1999,Thu,Central Michigan,33,,Eastern Illinois,17,
-7,2,Sep 2 1999,Thu,Idaho,48,,Eastern Washington,21,
+7,2,Sep 2 1999,Thu,Idaho,48,N,Eastern Washington,21,
 8,2,Sep 2 1999,Thu,Iowa State,33,,Indiana State,7,
 9,2,Sep 2 1999,Thu,Maryland,6,@,Temple,0,
 10,2,Sep 2 1999,Thu,Michigan State,27,,Oregon,20,
@@ -22,8 +20,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 19,2,Sep 4 1999,Sat,Boston College,30,,Baylor,29,
 20,2,Sep 4 1999,Sat,California,21,,Rutgers,7,
 21,2,Sep 4 1999,Sat,Cincinnati,41,,Kent State,3,
-22,2,Sep 4 1999,Sat,Colorado State,41,,(14) Colorado,14,
-23,2,Sep 4 1999,Sat,East Carolina,30,,West Virginia,23,
+22,2,Sep 4 1999,Sat,Colorado State,41,N,(14) Colorado,14,
+23,2,Sep 4 1999,Sat,East Carolina,30,N,West Virginia,23,
 24,2,Sep 4 1999,Sat,(4) Florida,55,,Western Michigan,26,
 25,2,Sep 4 1999,Sat,Fresno State,34,,Portland State,6,
 26,2,Sep 4 1999,Sat,(12) Georgia,38,,Utah State,7,
@@ -35,7 +33,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 32,2,Sep 4 1999,Sat,Louisiana-Monroe,27,,Nicholls State,10,
 33,2,Sep 4 1999,Sat,Louisville,56,@,Kentucky,28,
 34,2,Sep 4 1999,Sat,Marshall,13,@,Clemson,10,
-35,2,Sep 4 1999,Sat,(8) Miami (FL),57,,Florida A&amp;M,3,
+35,2,Sep 4 1999,Sat,(8) Miami (FL),57,,Florida A&M,3,
 36,2,Sep 4 1999,Sat,Miami (OH),28,@,Northwestern,3,
 37,2,Sep 4 1999,Sat,(7) Michigan,26,,(16) Notre Dame,22,
 38,2,Sep 4 1999,Sat,Minnesota,33,,Ohio,7,
@@ -44,7 +42,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 41,2,Sep 4 1999,Sat,Missouri,31,,Alabama-Birmingham,28,
 42,2,Sep 4 1999,Sat,(5) Nebraska,42,@,Iowa,7,
 43,2,Sep 4 1999,Sat,(24) North Carolina State,10,,South Carolina,0,
-44,2,Sep 4 1999,Sat,Oklahoma State,24,,Louisiana-Lafayette,7,
+44,2,Sep 4 1999,Sat,Oklahoma State,24,,Louisiana,7,
 45,2,Sep 4 1999,Sat,Oregon State,28,@,Nevada,13,
 46,2,Sep 4 1999,Sat,(2) Penn State,70,,Akron,24,
 47,2,Sep 4 1999,Sat,Pittsburgh,30,,Bowling Green State,10,
@@ -53,7 +51,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 50,2,Sep 4 1999,Sat,(21) Southern California,62,@,Hawaii,7,
 51,2,Sep 4 1999,Sat,(3) Tennessee,42,,Wyoming,17,
 52,2,Sep 4 1999,Sat,Texas,69,,Stanford,17,
-53,2,Sep 4 1999,Sat,(6) Texas A&amp;M,37,@,Louisiana Tech,17,
+53,2,Sep 4 1999,Sat,(6) Texas A&M,37,@,Louisiana Tech,17,
 54,2,Sep 4 1999,Sat,Texas-El Paso,13,,New Mexico,10,
 55,2,Sep 4 1999,Sat,Tulsa,45,,Missouri State,21,
 56,2,Sep 4 1999,Sat,(17) UCLA,38,,Boise State,7,
@@ -64,7 +62,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 61,2,Sep 5 1999,Sun,(15) Arizona,35,@,Texas Christian,31,
 62,2,Sep 6 1999,Mon,(25) Arizona State,31,,Texas Tech,13,
 63,2,Sep 6 1999,Mon,Southern Mississippi,48,,Tulane,14,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 64,3,Sep 9 1999,Thu,Brigham Young,35,,Washington,28,
 65,3,Sep 11 1999,Sat,Akron,17,@,Buffalo,10,
 66,3,Sep 11 1999,Sat,(21) Alabama,37,,Houston,10,
@@ -100,7 +97,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 96,3,Sep 11 1999,Sat,Nevada-Las Vegas,27,@,Baylor,24,
 97,3,Sep 11 1999,Sat,New Mexico State,35,@,New Mexico,28,
 98,3,Sep 11 1999,Sat,North Carolina,42,@,Indiana,30,
-99,3,Sep 11 1999,Sat,(23) North Carolina State,38,,William &amp; Mary,9,
+99,3,Sep 11 1999,Sat,(23) North Carolina State,38,,William & Mary,9,
 100,3,Sep 11 1999,Sat,Northern Iowa,36,@,Ohio,21,
 101,3,Sep 11 1999,Sat,Northwestern,17,,Texas Christian,7,
 102,3,Sep 11 1999,Sat,(13) Ohio State,42,,(14) UCLA,20,
@@ -114,7 +111,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 110,3,Sep 11 1999,Sat,Stanford,54,,Washington State,17,
 111,3,Sep 11 1999,Sat,Syracuse,47,,Central Michigan,7,
 112,3,Sep 11 1999,Sat,Texas,38,@,Rutgers,21,
-113,3,Sep 11 1999,Sat,Texas Tech,38,@,Louisiana-Lafayette,17,
+113,3,Sep 11 1999,Sat,Texas Tech,38,@,Louisiana,17,
 114,3,Sep 11 1999,Sat,Troy,31,@,Cincinnati,24,
 115,3,Sep 11 1999,Sat,Tulane,53,,Southern Methodist,19,
 116,3,Sep 11 1999,Sat,Utah State,51,,Stephen F. Austin,17,
@@ -125,7 +122,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 121,3,Sep 11 1999,Sat,Western Michigan,46,,Youngstown State,28,
 122,3,Sep 11 1999,Sat,(9) Wisconsin,50,,Ball State,10,
 123,3,Sep 11 1999,Sat,Wyoming,41,,Weber State,16,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 124,4,Sep 16 1999,Thu,(25) Brigham Young,34,,(23) Colorado State,13,
 125,4,Sep 18 1999,Sat,Air Force,31,@,Washington,21,
 126,4,Sep 18 1999,Sat,Akron,25,,Temple,15,
@@ -140,8 +136,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 135,4,Sep 18 1999,Sat,(1) Florida State,42,,(20) North Carolina State,11,
 136,4,Sep 18 1999,Sat,(12) Georgia Tech,41,,Central Florida,10,
 137,4,Sep 18 1999,Sat,Hawaii,34,,Boise State,19,
-138,4,Sep 18 1999,Sat,Houston,45,,Louisiana-Lafayette,0,
-139,4,Sep 18 1999,Sat,Idaho,28,,Washington State,17,
+138,4,Sep 18 1999,Sat,Houston,45,,Louisiana,0,
+139,4,Sep 18 1999,Sat,Idaho,28,N,Washington State,17,
 140,4,Sep 18 1999,Sat,Illinois,41,@,Louisville,36,
 141,4,Sep 18 1999,Sat,Iowa,24,,Northern Illinois,0,
 142,4,Sep 18 1999,Sat,Iowa State,24,@,Nevada-Las Vegas,0,
@@ -174,14 +170,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 169,4,Sep 18 1999,Sat,(17) Southern California,24,,San Diego State,21,
 170,4,Sep 18 1999,Sat,Stanford,50,@,(19) Arizona,22,
 171,4,Sep 18 1999,Sat,Texas,18,,Rice,13,
-172,4,Sep 18 1999,Sat,(7) Texas A&amp;M,62,,Tulsa,13,
+172,4,Sep 18 1999,Sat,(7) Texas A&M,62,,Tulsa,13,
 173,4,Sep 18 1999,Sat,Toledo,23,@,Ball State,10,
 174,4,Sep 18 1999,Sat,Tulane,48,,Army,28,
 175,4,Sep 18 1999,Sat,(21) UCLA,35,,Fresno State,21,
 176,4,Sep 18 1999,Sat,Utah,38,,Utah State,18,
 177,4,Sep 18 1999,Sat,Vanderbilt,37,@,Mississippi,34,
 178,4,Sep 18 1999,Sat,Virginia,35,,Wake Forest,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 179,5,Sep 23 1999,Thu,(8) Virginia Tech,31,,Clemson,11,
 180,5,Sep 25 1999,Sat,Alabama,35,,(14) Arkansas,28,
 181,5,Sep 25 1999,Sat,Alabama-Birmingham,29,,Houston,10,
@@ -199,7 +194,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 193,5,Sep 25 1999,Sat,Hawaii,20,@,Southern Methodist,0,
 194,5,Sep 25 1999,Sat,(15) Kansas State,35,@,Iowa State,28,
 195,5,Sep 25 1999,Sat,Kent State,41,,Bowling Green State,27,
-196,5,Sep 25 1999,Sat,Louisiana-Lafayette,45,,Middle Tennessee State,31,
+196,5,Sep 25 1999,Sat,Louisiana,45,,Middle Tennessee State,31,
 197,5,Sep 25 1999,Sat,Louisiana-Monroe,38,,Northwestern State,7,
 198,5,Sep 25 1999,Sat,(21) Marshall,34,,Temple,0,
 199,5,Sep 25 1999,Sat,Miami (OH),24,@,Central Michigan,16,
@@ -221,7 +216,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 215,5,Sep 25 1999,Sat,Syracuse,30,,West Virginia,7,
 216,5,Sep 25 1999,Sat,(7) Tennessee,17,,Memphis,16,
 217,5,Sep 25 1999,Sat,(22) Texas,62,@,Baylor,0,
-218,5,Sep 25 1999,Sat,(5) Texas A&amp;M,23,,Southern Mississippi,6,
+218,5,Sep 25 1999,Sat,(5) Texas A&M,23,,Southern Mississippi,6,
 219,5,Sep 25 1999,Sat,Texas Christian,24,@,Arkansas State,21,
 220,5,Sep 25 1999,Sat,Texas-El Paso,54,,New Mexico State,23,
 221,5,Sep 25 1999,Sat,Toledo,24,,Massachusetts,3,
@@ -232,7 +227,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 226,5,Sep 25 1999,Sat,Washington,31,,Colorado,24,
 227,5,Sep 25 1999,Sat,Western Michigan,24,@,Northern Illinois,21,
 228,5,Sep 25 1999,Sat,Wyoming,10,@,(24) Air Force,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 229,6,Sep 30 1999,Thu,(9) Georgia Tech,49,,Maryland,31,
 230,6,Oct 1 1999,Fri,Brigham Young,34,@,Utah State,31,
 231,6,Oct 2 1999,Sat,Air Force,23,@,San Diego State,22,
@@ -257,7 +251,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 250,6,Oct 2 1999,Sat,Kansas,27,,Southern Methodist,9,
 251,6,Oct 2 1999,Sat,(13) Kansas State,35,@,(15) Texas,17,
 252,6,Oct 2 1999,Sat,Kentucky,31,,(20) Arkansas,20,
-253,6,Oct 2 1999,Sat,Louisiana Tech,41,@,Louisiana-Lafayette,31,
+253,6,Oct 2 1999,Sat,Louisiana Tech,41,@,Louisiana,31,
 254,6,Oct 2 1999,Sat,Louisville,45,,Eastern Michigan,10,
 255,6,Oct 2 1999,Sat,(17) Marshall,32,@,Miami (OH),14,
 256,6,Oct 2 1999,Sat,(4) Michigan,38,,(11) Purdue,12,
@@ -278,7 +272,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 271,6,Oct 2 1999,Sat,Southern California,37,,Oregon State,29,
 272,6,Oct 2 1999,Sat,(22) Syracuse,47,,Tulane,17,
 273,6,Oct 2 1999,Sat,(7) Tennessee,24,,Auburn,0,
-274,6,Oct 2 1999,Sat,Texas Tech,21,,(5) Texas A&amp;M,19,
+274,6,Oct 2 1999,Sat,Texas Tech,21,,(5) Texas A&M,19,
 275,6,Oct 2 1999,Sat,Troy,48,@,Middle Tennessee State,31,
 276,6,Oct 2 1999,Sat,(8) Virginia Tech,31,@,(24) Virginia,7,
 277,6,Oct 2 1999,Sat,Wake Forest,17,,Rutgers,10,
@@ -287,7 +281,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 280,6,Oct 2 1999,Sat,Western Michigan,38,,Central Michigan,16,
 281,6,Oct 2 1999,Sat,Wisconsin,42,@,(12) Ohio State,17,
 282,6,Oct 2 1999,Sat,Wyoming,28,,Idaho,13,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 283,7,Oct 7 1999,Thu,Army,59,,Louisville,52,
 284,7,Oct 7 1999,Thu,(18) Syracuse,24,@,Pittsburgh,17,
 285,7,Oct 9 1999,Sat,Air Force,19,@,Navy,14,
@@ -328,8 +321,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 320,7,Oct 9 1999,Sat,Southern Mississippi,39,@,(16) East Carolina,22,
 321,7,Oct 9 1999,Sat,Temple,24,,Boston College,14,
 322,7,Oct 9 1999,Sat,(6) Tennessee,37,,(10) Georgia,20,
-323,7,Oct 9 1999,Sat,(23) Texas,38,,Oklahoma,28,
-324,7,Oct 9 1999,Sat,(13) Texas A&amp;M,45,,Baylor,13,
+323,7,Oct 9 1999,Sat,(23) Texas,38,N,Oklahoma,28,
+324,7,Oct 9 1999,Sat,(13) Texas A&M,45,,Baylor,13,
 325,7,Oct 9 1999,Sat,Texas Christian,42,,San Jose State,0,
 326,7,Oct 9 1999,Sat,Texas-El Paso,42,,Southern Methodist,28,
 327,7,Oct 9 1999,Sat,Toledo,47,,Kent State,7,
@@ -339,10 +332,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 331,7,Oct 9 1999,Sat,Vanderbilt,58,,Citadel,0,
 332,7,Oct 9 1999,Sat,(5) Virginia Tech,58,@,Rutgers,20,
 333,7,Oct 9 1999,Sat,Washington,47,@,Oregon State,21,
-334,7,Oct 9 1999,Sat,Washington State,44,,Louisiana-Lafayette,0,
+334,7,Oct 9 1999,Sat,Washington State,44,,Louisiana,0,
 335,7,Oct 9 1999,Sat,Western Michigan,40,@,Eastern Michigan,37,
 336,7,Oct 9 1999,Sat,(20) Wisconsin,20,@,(25) Minnesota,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 337,8,Oct 14 1999,Thu,(15) Marshall,38,,Toledo,13,
 338,8,Oct 14 1999,Thu,Southern Methodist,24,,Fresno State,14,
 339,8,Oct 16 1999,Sat,Akron,55,,Bowling Green State,25,
@@ -380,10 +372,10 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 371,8,Oct 16 1999,Sat,San Diego State,17,@,Colorado State,10,
 372,8,Oct 16 1999,Sat,(25) Southern Mississippi,24,,Army,0,
 373,8,Oct 16 1999,Sat,Stanford,21,,Oregon State,17,
-374,8,Oct 16 1999,Sat,(13) Texas A&amp;M,34,,Kansas,17,
+374,8,Oct 16 1999,Sat,(13) Texas A&M,34,,Kansas,17,
 375,8,Oct 16 1999,Sat,Texas Christian,56,,Tulsa,17,
 376,8,Oct 16 1999,Sat,Texas Tech,31,,Colorado,10,
-377,8,Oct 16 1999,Sat,Tulane,48,,Louisiana-Lafayette,32,
+377,8,Oct 16 1999,Sat,Tulane,48,,Louisiana,32,
 378,8,Oct 16 1999,Sat,Utah,21,@,Air Force,15,
 379,8,Oct 16 1999,Sat,Virginia,47,@,North Carolina State,26,
 380,8,Oct 16 1999,Sat,(4) Virginia Tech,62,,(16) Syracuse,0,
@@ -391,7 +383,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 382,8,Oct 16 1999,Sat,Western Michigan,45,,Buffalo,17,
 383,8,Oct 16 1999,Sat,(17) Wisconsin,59,,Indiana,0,
 384,8,Oct 16 1999,Sat,Wyoming,38,@,Louisiana-Monroe,20,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 385,9,Oct 23 1999,Sat,Akron,35,@,Navy,29,
 386,9,Oct 23 1999,Sat,Arizona State,33,,Washington State,21,
 387,9,Oct 23 1999,Sat,Arkansas State,14,@,North Texas,10,
@@ -412,7 +403,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 402,9,Oct 23 1999,Sat,Kansas,21,,Missouri,0,
 403,9,Oct 23 1999,Sat,(7) Kansas State,44,@,Oklahoma State,21,
 404,9,Oct 23 1999,Sat,Louisiana Tech,46,@,Central Florida,35,
-405,9,Oct 23 1999,Sat,Louisiana-Monroe,31,@,Louisiana-Lafayette,7,
+405,9,Oct 23 1999,Sat,Louisiana-Monroe,31,@,Louisiana,7,
 406,9,Oct 23 1999,Sat,Louisville,39,,Houston,33,
 407,9,Oct 23 1999,Sat,(15) Marshall,59,@,Buffalo,3,
 408,9,Oct 23 1999,Sat,Maryland,45,,North Carolina,7,
@@ -422,7 +413,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 412,9,Oct 23 1999,Sat,Northern Illinois,50,,Kent State,7,
 413,9,Oct 23 1999,Sat,Ohio,17,,Bowling Green State,14,
 414,9,Oct 23 1999,Sat,(22) Ohio State,20,@,(24) Minnesota,17,
-415,9,Oct 23 1999,Sat,Oklahoma,51,,(13) Texas A&amp;M,6,
+415,9,Oct 23 1999,Sat,Oklahoma,51,,(13) Texas A&M,6,
 416,9,Oct 23 1999,Sat,Oregon,44,@,Arizona,41,
 417,9,Oct 23 1999,Sat,Oregon State,55,,UCLA,7,
 418,9,Oct 23 1999,Sat,(2) Penn State,31,@,(16) Purdue,25,
@@ -440,12 +431,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 430,9,Oct 23 1999,Sat,West Virginia,20,,Temple,17,
 431,9,Oct 23 1999,Sat,Western Michigan,28,,Ball State,0,
 432,9,Oct 23 1999,Sat,(17) Wisconsin,40,,(11) Michigan State,10,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 433,10,Oct 28 1999,Thu,Colorado State,31,,Utah,24,
 434,10,Oct 30 1999,Sat,(14) Alabama,35,,(20) Southern Mississippi,14,
 435,10,Oct 30 1999,Sat,Arizona,33,@,UCLA,7,
 436,10,Oct 30 1999,Sat,Arkansas,34,,Auburn,10,
-437,10,Oct 30 1999,Sat,Arkansas State,31,,Louisiana-Lafayette,27,
+437,10,Oct 30 1999,Sat,Arkansas State,31,,Louisiana,27,
 438,10,Oct 30 1999,Sat,Boise State,33,@,Utah State,27,
 439,10,Oct 30 1999,Sat,Boston College,24,@,Syracuse,23,
 440,10,Oct 30 1999,Sat,Bowling Green State,31,,Central Michigan,7,
@@ -457,7 +447,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 446,10,Oct 30 1999,Sat,Colorado,38,,(24) Oklahoma,24,
 447,10,Oct 30 1999,Sat,Duke,25,@,Maryland,22,
 448,10,Oct 30 1999,Sat,(17) East Carolina,19,@,Houston,3,
-449,10,Oct 30 1999,Sat,(5) Florida,30,,(10) Georgia,14,
+449,10,Oct 30 1999,Sat,(5) Florida,30,N,(10) Georgia,14,
 450,10,Oct 30 1999,Sat,(1) Florida State,35,@,Virginia,10,
 451,10,Oct 30 1999,Sat,Fresno State,28,@,Tulsa,14,
 452,10,Oct 30 1999,Sat,Furman,28,@,North Carolina,3,
@@ -488,14 +478,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 477,10,Oct 30 1999,Sat,Temple,56,,Rutgers,28,
 478,10,Oct 30 1999,Sat,(4) Tennessee,30,,South Carolina,7,
 479,10,Oct 30 1999,Sat,(12) Texas,44,@,Iowa State,41,
-480,10,Oct 30 1999,Sat,(22) Texas A&amp;M,21,,Oklahoma State,3,
+480,10,Oct 30 1999,Sat,(22) Texas A&M,21,,Oklahoma State,3,
 481,10,Oct 30 1999,Sat,Texas Christian,34,@,Hawaii,14,
 482,10,Oct 30 1999,Sat,Texas-El Paso,42,,San Jose State,26,
 483,10,Oct 30 1999,Sat,(3) Virginia Tech,30,@,Pittsburgh,17,
 484,10,Oct 30 1999,Sat,Washington,35,,Stanford,30,
 485,10,Oct 30 1999,Sat,Western Michigan,24,@,Akron,10,
 486,10,Oct 30 1999,Sat,(11) Wisconsin,35,@,Northwestern,19,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 487,11,Nov 4 1999,Thu,(8) Mississippi State,23,,Kentucky,22,
 488,11,Nov 6 1999,Sat,Air Force,28,,Army,0,
 489,11,Nov 6 1999,Sat,(12) Alabama,23,,Louisiana State,17,
@@ -527,7 +516,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 515,11,Nov 6 1999,Sat,Minnesota,24,@,(2) Penn State,23,
 516,11,Nov 6 1999,Sat,(23) Mississippi,38,,Arkansas,16,
 517,11,Nov 6 1999,Sat,Navy,34,@,Rutgers,7,
-518,11,Nov 6 1999,Sat,(9) Nebraska,37,,(21) Texas A&amp;M,0,
+518,11,Nov 6 1999,Sat,(9) Nebraska,37,,(21) Texas A&M,0,
 519,11,Nov 6 1999,Sat,New Mexico State,14,@,Utah State,6,
 520,11,Nov 6 1999,Sat,North Carolina State,30,,Maryland,17,
 521,11,Nov 6 1999,Sat,Oklahoma,37,,Missouri,0,
@@ -546,8 +535,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 534,11,Nov 6 1999,Sat,Washington,33,@,Arizona,25,
 535,11,Nov 6 1999,Sat,(10) Wisconsin,28,@,(17) Purdue,21,
 536,11,Nov 6 1999,Sat,Wyoming,43,@,Utah,29,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-537,12,Nov 11 1999,Thu,North Carolina,10,,North Carolina State,6,
+537,12,Nov 11 1999,Thu,North Carolina,10,N,North Carolina State,6,
 538,12,Nov 13 1999,Sat,Air Force,35,,Nevada-Las Vegas,16,
 539,12,Nov 13 1999,Sat,Akron,37,,Kent State,34,
 540,12,Nov 13 1999,Sat,(11) Alabama,19,,(8) Mississippi State,7,
@@ -588,10 +576,10 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 575,12,Nov 13 1999,Sat,Rutgers,24,,Syracuse,21,
 576,12,Nov 13 1999,Sat,Southern California,31,@,Washington State,28,
 577,12,Nov 13 1999,Sat,Southern Methodist,58,,Cal State Northridge,16,
-578,12,Nov 13 1999,Sat,(21) Southern Mississippi,48,,Louisiana-Lafayette,0,
+578,12,Nov 13 1999,Sat,(21) Southern Mississippi,48,,Louisiana,0,
 579,12,Nov 13 1999,Sat,Stanford,50,@,Arizona State,30,
 580,12,Nov 13 1999,Sat,(10) Texas,58,,Texas Tech,7,
-581,12,Nov 13 1999,Sat,Texas A&amp;M,51,@,Missouri,14,
+581,12,Nov 13 1999,Sat,Texas A&M,51,@,Missouri,14,
 582,12,Nov 13 1999,Sat,Texas Christian,27,,North Texas,3,
 583,12,Nov 13 1999,Sat,Texas-El Paso,30,@,Rice,29,
 584,12,Nov 13 1999,Sat,Toledo,44,,Northern Illinois,14,
@@ -601,7 +589,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 588,12,Nov 13 1999,Sat,(2) Virginia Tech,43,,(19) Miami (FL),10,
 589,12,Nov 13 1999,Sat,(9) Wisconsin,41,,Iowa,3,
 590,12,Nov 13 1999,Sat,Wyoming,31,,(15) Brigham Young,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 591,13,Nov 18 1999,Thu,Colorado State,41,,Air Force,21,
 592,13,Nov 20 1999,Sat,(8) Alabama,28,@,Auburn,17,
 593,13,Nov 20 1999,Sat,Alabama-Birmingham,23,@,Tulane,20,
@@ -620,7 +607,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 606,13,Nov 20 1999,Sat,Illinois,29,,Northwestern,7,
 607,13,Nov 20 1999,Sat,Kansas,31,,Iowa State,28,
 608,13,Nov 20 1999,Sat,(9) Kansas State,66,,Missouri,0,
-609,13,Nov 20 1999,Sat,Louisiana-Lafayette,37,,Wofford,34,
+609,13,Nov 20 1999,Sat,Louisiana,37,,Wofford,34,
 610,13,Nov 20 1999,Sat,Memphis,21,@,Cincinnati,13,
 611,13,Nov 20 1999,Sat,Miami (FL),55,,Rutgers,0,
 612,13,Nov 20 1999,Sat,Miami (OH),43,,Buffalo,0,
@@ -650,13 +637,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 636,13,Nov 20 1999,Sat,Wake Forest,26,,(14) Georgia Tech,23,
 637,13,Nov 20 1999,Sat,Washington,24,,Washington State,14,
 638,13,Nov 20 1999,Sat,Wyoming,42,,New Mexico,28,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 639,14,Nov 25 1999,Thu,(18) Mississippi State,23,,(23) Mississippi,20,
 640,14,Nov 26 1999,Fri,Louisiana State,35,,(17) Arkansas,10,
 641,14,Nov 26 1999,Fri,(12) Marshall,34,,Ohio,3,
 642,14,Nov 26 1999,Fri,(3) Nebraska,33,@,Colorado,30,
 643,14,Nov 26 1999,Fri,Southern California,45,,(25) Louisiana Tech,19,
-644,14,Nov 26 1999,Fri,(24) Texas A&amp;M,20,,(7) Texas,16,
+644,14,Nov 26 1999,Fri,(24) Texas A&M,20,,(7) Texas,16,
 645,14,Nov 26 1999,Fri,Texas Christian,21,,Southern Methodist,0,
 646,14,Nov 26 1999,Fri,(2) Virginia Tech,38,,(22) Boston College,14,
 647,14,Nov 27 1999,Sat,Arizona State,42,,Arizona,27,
@@ -671,36 +657,31 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 656,14,Nov 27 1999,Sat,Utah State,34,@,North Texas,7,
 657,14,Nov 27 1999,Sat,Washington State,22,@,Hawaii,14,
 658,14,Nov 27 1999,Sat,West Virginia,52,@,Pittsburgh,21,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-659,15,Dec 3 1999,Fri,(11) Marshall,34,,Western Michigan,30,
-660,15,Dec 4 1999,Sat,(7) Alabama,34,,(5) Florida,7,
+659,15,Dec 3 1999,Fri,(11) Marshall,34,,Western Michigan,30,MAC Championship (Huntington WV)
+660,15,Dec 4 1999,Sat,(7) Alabama,34,N,(5) Florida,7,SEC Championship (Atlanta GA)
 661,15,Dec 4 1999,Sat,(23) Miami (FL),55,,Temple,0,
-662,15,Dec 4 1999,Sat,Navy,19,,Army,9,
-663,15,Dec 4 1999,Sat,(3) Nebraska,22,,(12) Texas,6,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-664,16,Dec 18 1999,Sat,Utah,17,,Fresno State,16,Las Vegas NV
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-665,17,Dec 22 1999,Wed,Texas Christian,28,,(20) East Carolina,14,Mobile AL
-666,17,Dec 25 1999,Sat,Hawaii,23,,Oregon State,17,Honolulu HI
-667,17,Dec 25 1999,Sat,Wake Forest,23,,Arizona State,3,Honolulu HI
-668,17,Dec 27 1999,Mon,(11) Marshall,21,,Brigham Young,3,Pontiac MI
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-669,18,Dec 28 1999,Tue,(13) Penn State,24,,(18) Texas A&amp;M,0,San Antonio TX
-670,18,Dec 29 1999,Wed,(7) Kansas State,24,,Washington,20,San Diego CA
-671,18,Dec 29 1999,Wed,Syracuse,20,,Kentucky,13,Nashville TN
-672,18,Dec 30 1999,Thu,Boise State,34,,Louisville,31,Boise ID
-673,18,Dec 30 1999,Thu,Illinois,63,,Virginia,21,Miami FL
-674,18,Dec 30 1999,Thu,(15) Mississippi State,17,,Clemson,7,Atlanta GA
-675,18,Dec 31 1999,Fri,Colorado,62,,(25) Boston College,28,Tucson AZ
-676,18,Dec 31 1999,Fri,Mississippi,27,,Oklahoma,25,Shreveport LA
-677,18,Dec 31 1999,Fri,Oregon,24,,(12) Minnesota,20,El Paso TX
-678,18,Dec 31 1999,Fri,(16) Southern Mississippi,23,,Colorado State,17,Memphis TN
-679,18,Jan 1 2000,Sat,(24) Arkansas,27,,(14) Texas,6,Dallas TX
-680,18,Jan 1 2000,Sat,(21) Georgia,28,,(19) Purdue,25,Tampa FL
-681,18,Jan 1 2000,Sat,(23) Miami (FL),28,,(17) Georgia Tech,13,Jacksonville FL
-682,18,Jan 1 2000,Sat,(8) Michigan,35,,(5) Alabama,34,Miami FL
-683,18,Jan 1 2000,Sat,(9) Michigan State,37,,(10) Florida,34,Orlando FL
-684,18,Jan 1 2000,Sat,(4) Wisconsin,17,,(22) Stanford,9,Pasadena CA
-685,18,Jan 2 2000,Sun,(3) Nebraska,31,,(6) Tennessee,21,Tempe AZ
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-686,19,Jan 4 2000,Tue,(1) Florida State,46,,(2) Virginia Tech,29,New Orleans LA
+662,15,Dec 4 1999,Sat,Navy,19,N,Army,9,
+663,16,Dec 4 1999,Sat,(3) Nebraska,22,N,(12) Texas,6,Big 12 Championship (San Antonio TX)
+664,16,Dec 18 1999,Sat,Utah,17,N,Fresno State,16,Las Vegas Bowl (Las Vegas NV)
+665,17,Dec 22 1999,Wed,Texas Christian,28,N,(20) East Carolina,14,Mobile Alabama Bowl (Mobile AL)
+666,17,Dec 25 1999,Sat,Hawaii,23,,Oregon State,17,Oahu Classic (Honolulu HI)
+667,17,Dec 25 1999,Sat,Wake Forest,23,N,Arizona State,3,Aloha Classic (Honolulu HI)
+668,17,Dec 27 1999,Mon,(11) Marshall,21,N,Brigham Young,3,Motor City Bowl (Pontiac MI)
+669,18,Dec 28 1999,Tue,(13) Penn State,24,N,(18) Texas A&M,0,Alamo Bowl (San Antonio TX)
+670,18,Dec 29 1999,Wed,(7) Kansas State,24,N,Washington,20,Holiday Bowl (San Diego CA)
+671,18,Dec 29 1999,Wed,Syracuse,20,N,Kentucky,13,Music City Bowl (Nashville TN)
+672,18,Dec 30 1999,Thu,Boise State,34,,Louisville,31,Humanitarian Bowl (Boise ID)
+673,18,Dec 30 1999,Thu,Illinois,63,N,Virginia,21,Micron PC Bowl (Miami FL)
+674,18,Dec 30 1999,Thu,(15) Mississippi State,17,N,Clemson,7,Peach Bowl (Atlanta GA)
+675,18,Dec 31 1999,Fri,Colorado,62,N,(25) Boston College,28,Insight Bowl (Tucson AZ)
+676,18,Dec 31 1999,Fri,Mississippi,27,N,Oklahoma,25,Independence Bowl (Shreveport LA)
+677,18,Dec 31 1999,Fri,Oregon,24,N,(12) Minnesota,20,Sun Bowl (El Paso TX)
+678,18,Dec 31 1999,Fri,(16) Southern Mississippi,23,N,Colorado State,17,Liberty Bowl (Memphis TN)
+679,18,Jan 1 2000,Sat,(24) Arkansas,27,N,(14) Texas,6,Cotton Bowl (Dallas TX)
+680,18,Jan 1 2000,Sat,(21) Georgia,28,N,(19) Purdue,25,Outback Bowl (Tampa FL)
+681,18,Jan 1 2000,Sat,(23) Miami (FL),28,N,(17) Georgia Tech,13,Gator Bowl (Jacksonville FL)
+682,18,Jan 1 2000,Sat,(8) Michigan,35,N,(5) Alabama,34,Orange Bowl (Miami FL)
+683,18,Jan 1 2000,Sat,(9) Michigan State,37,N,(10) Florida,34,Citrus Bowl (Orlando FL)
+684,18,Jan 1 2000,Sat,(4) Wisconsin,17,N,(22) Stanford,9,Rose Bowl (Pasadena CA)
+685,18,Jan 2 2000,Sun,(3) Nebraska,31,N,(6) Tennessee,21,Fiesta Bowl (Tempe AZ)
+686,19,Jan 4 2000,Tue,(1) Florida State,46,N,(2) Virginia Tech,29,Sugar Bowl (New Orleans LA)

@@ -2,23 +2,23 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 1,1,Sep 1 2005,Thu,(20) Arizona State,63,,Temple,16,
 2,1,Sep 1 2005,Thu,Cincinnati,28,,Eastern Michigan,26,
 3,1,Sep 1 2005,Thu,Connecticut,38,,Buffalo,0,
-4,1,Sep 1 2005,Thu,Marshall,36,,William &amp; Mary,24,
+4,1,Sep 1 2005,Thu,Marshall,36,,William & Mary,24,
 5,1,Sep 1 2005,Thu,Minnesota,41,@,Tulsa,10,
 6,1,Sep 1 2005,Thu,Northwestern State,27,@,Louisiana-Monroe,23,
-7,1,Sep 1 2005,Thu,Oregon,38,@,Houston,24,Houston TX
+7,1,Sep 1 2005,Thu,Oregon,38,@,Houston,24,
 8,1,Sep 1 2005,Thu,South Carolina,24,,Central Florida,15,
 9,1,Sep 1 2005,Thu,Toledo,62,,Western Illinois,14,
 10,1,Sep 1 2005,Thu,Vanderbilt,24,@,Wake Forest,20,
 11,1,Sep 1 2005,Thu,Washington State,38,,Idaho,26,
 12,1,Sep 2 2005,Fri,Indiana,20,@,Central Michigan,13,
 13,1,Sep 2 2005,Fri,Utah,27,,Arizona,24,
-14,1,Sep 3 2005,Sat,Air Force,20,@,Washington,17,Seattle WA
+14,1,Sep 3 2005,Sat,Air Force,20,@,Washington,17,
 15,1,Sep 3 2005,Sat,Alabama,26,,Middle Tennessee State,7,
 16,1,Sep 3 2005,Sat,Arkansas,49,,Missouri State,17,
 17,1,Sep 3 2005,Sat,Baylor,28,@,Southern Methodist,23,
 18,1,Sep 3 2005,Sat,(22) Boston College,20,@,Brigham Young,3,
 19,1,Sep 3 2005,Sat,(19) California,41,,Sacramento State,3,
-20,1,Sep 3 2005,Sat,Clemson,25,,(17) Texas A&amp;M,24,
+20,1,Sep 3 2005,Sat,Clemson,25,,(17) Texas A&M,24,
 21,1,Sep 3 2005,Sat,Colorado,31,,Colorado State,28,
 22,1,Sep 3 2005,Sat,East Carolina,24,,Duke,21,
 23,1,Sep 3 2005,Sat,(10) Florida,32,,Wyoming,14,
@@ -29,11 +29,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 28,1,Sep 3 2005,Sat,Iowa State,32,,Illinois State,21,
 29,1,Sep 3 2005,Sat,Kansas,30,,Florida Atlantic,19,
 30,1,Sep 3 2005,Sat,Kansas State,35,,Florida International,21,
-31,1,Sep 3 2005,Sat,Maryland,23,,Navy,20,Baltimore MD
+31,1,Sep 3 2005,Sat,Maryland,23,N,Navy,20,
 32,1,Sep 3 2005,Sat,(4) Michigan,33,,Northern Illinois,17,
 33,1,Sep 3 2005,Sat,Michigan State,49,,Kent State,14,
 34,1,Sep 3 2005,Sat,Mississippi State,38,,Murray State,6,
-35,1,Sep 3 2005,Sat,Missouri,44,,Arkansas State,17,Kansas City MO
+35,1,Sep 3 2005,Sat,Missouri,44,,Arkansas State,17,
 36,1,Sep 3 2005,Sat,Nebraska,25,,Maine,7,
 37,1,Sep 3 2005,Sat,Northwestern,38,,Ohio,14,
 38,1,Sep 3 2005,Sat,Notre Dame,42,@,(23) Pittsburgh,21,
@@ -44,7 +44,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 43,1,Sep 3 2005,Sat,San Jose State,35,,Eastern Washington,24,
 44,1,Sep 3 2005,Sat,(1) Southern California,63,@,Hawaii,17,
 45,1,Sep 3 2005,Sat,(3) Tennessee,17,,Alabama-Birmingham,10,
-46,1,Sep 3 2005,Sat,(2) Texas,60,,Louisiana-Lafayette,3,
+46,1,Sep 3 2005,Sat,(2) Texas,60,,Louisiana,3,
 47,1,Sep 3 2005,Sat,Texas Christian,17,@,(7) Oklahoma,10,
 48,1,Sep 3 2005,Sat,Texas-El Paso,34,@,New Mexico State,17,
 49,1,Sep 3 2005,Sat,Troy,27,,Cal Poly,10,
@@ -57,8 +57,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 56,1,Sep 5 2005,Mon,(14) Florida State,10,,(9) Miami (FL),7,
 57,1,Sep 5 2005,Mon,Mississippi,10,@,Memphis,6,
 58,1,Sep 5 2005,Mon,New Mexico,24,,Nevada-Las Vegas,22,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-59,2,Sep 8 2005,Thu,Oklahoma State,23,@,Florida Atlantic,3,Miami FL
+59,2,Sep 8 2005,Thu,Oklahoma State,23,@,Florida Atlantic,3,
 60,2,Sep 9 2005,Fri,Ohio,16,,Pittsburgh,10,
 61,2,Sep 9 2005,Fri,Washington State,55,@,Nevada,21,
 62,2,Sep 10 2005,Sat,Air Force,41,,San Diego State,29,
@@ -76,7 +75,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 74,2,Sep 10 2005,Sat,(25) Clemson,28,@,Maryland,24,
 75,2,Sep 10 2005,Sat,Colorado,39,,New Mexico State,0,
 76,2,Sep 10 2005,Sat,Connecticut,59,,Liberty,0,
-77,2,Sep 10 2005,Sat,Eastern Michigan,31,,Louisiana-Lafayette,10,
+77,2,Sep 10 2005,Sat,Eastern Michigan,31,,Louisiana,10,
 78,2,Sep 10 2005,Sat,(10) Florida,41,,Louisiana Tech,3,
 79,2,Sep 10 2005,Sat,(11) Florida State,62,,Citadel,10,
 80,2,Sep 10 2005,Sat,(24) Fresno State,55,,Weber State,17,
@@ -105,7 +104,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 103,2,Sep 10 2005,Sat,Penn State,42,,Cincinnati,24,
 104,2,Sep 10 2005,Sat,(13) Purdue,49,,Akron,24,
 105,2,Sep 10 2005,Sat,Rutgers,38,,Villanova,6,
-106,2,Sep 10 2005,Sat,South Florida,37,,Florida A&amp;M,3,
+106,2,Sep 10 2005,Sat,South Florida,37,,Florida A&M,3,
 107,2,Sep 10 2005,Sat,Southern Methodist,21,,(22) Texas Christian,10,
 108,2,Sep 10 2005,Sat,Stanford,41,@,Navy,38,
 109,2,Sep 10 2005,Sat,Syracuse,31,,Buffalo,0,
@@ -119,7 +118,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 117,2,Sep 10 2005,Sat,West Virginia,35,,Wofford,7,
 118,2,Sep 10 2005,Sat,Wisconsin,65,,Temple,0,
 119,2,Sep 10 2005,Sat,Wyoming,38,,Louisiana-Monroe,0,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 120,3,Sep 15 2005,Thu,Texas Christian,23,,Utah,20,
 121,3,Sep 16 2005,Fri,Texas-El Paso,44,,Houston,41,
 122,3,Sep 17 2005,Sat,Akron,17,@,Middle Tennessee State,7,
@@ -139,7 +137,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 136,3,Sep 17 2005,Sat,Indiana,38,,Kentucky,14,
 137,3,Sep 17 2005,Sat,(22) Iowa,45,,Northern Iowa,21,
 138,3,Sep 17 2005,Sat,Kansas,34,,Louisiana Tech,14,
-139,3,Sep 17 2005,Sat,Louisiana-Lafayette,49,,Northwestern State,28,
+139,3,Sep 17 2005,Sat,Louisiana,49,,Northwestern State,28,
 140,3,Sep 17 2005,Sat,(11) Louisville,63,,Oregon State,27,
 141,3,Sep 17 2005,Sat,Memphis,59,,Chattanooga,14,
 142,3,Sep 17 2005,Sat,(13) Miami (FL),36,@,(20) Clemson,30,
@@ -147,7 +145,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 144,3,Sep 17 2005,Sat,(14) Michigan,55,,Eastern Michigan,0,
 145,3,Sep 17 2005,Sat,Michigan State,44,@,(10) Notre Dame,41,
 146,3,Sep 17 2005,Sat,Minnesota,46,,Florida Atlantic,7,
-147,3,Sep 17 2005,Sat,Mississippi State,21,,Tulane,14,Shreveport LA
+147,3,Sep 17 2005,Sat,Mississippi State,21,N,Tulane,14,
 148,3,Sep 17 2005,Sat,Missouri,52,,Troy,21,
 149,3,Sep 17 2005,Sat,Nebraska,7,,Pittsburgh,6,
 150,3,Sep 17 2005,Sat,Nevada,22,,Nevada-Las Vegas,14,
@@ -164,7 +162,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 161,3,Sep 17 2005,Sat,(1) Southern California,70,,Arkansas,17,
 162,3,Sep 17 2005,Sat,Southern Mississippi,48,,McNeese State,20,
 163,3,Sep 17 2005,Sat,(2) Texas,51,,Rice,10,
-164,3,Sep 17 2005,Sat,Texas A&amp;M,66,,Southern Methodist,8,
+164,3,Sep 17 2005,Sat,Texas A&M,66,,Southern Methodist,8,
 165,3,Sep 17 2005,Sat,(19) Texas Tech,80,,Sam Houston State,21,
 166,3,Sep 17 2005,Sat,Toledo,42,@,Temple,17,
 167,3,Sep 17 2005,Sat,Tulsa,54,@,North Texas,2,
@@ -174,15 +172,14 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 171,3,Sep 17 2005,Sat,(4) Virginia Tech,45,,Ohio,0,
 172,3,Sep 17 2005,Sat,Wake Forest,44,,East Carolina,34,
 173,3,Sep 17 2005,Sat,Washington,34,,Idaho,6,
-174,3,Sep 17 2005,Sat,Washington State,48,,Grambling State,7,Seattle WA
+174,3,Sep 17 2005,Sat,Washington State,48,,Grambling State,7,
 175,3,Sep 17 2005,Sat,West Virginia,31,@,Maryland,19,
 176,3,Sep 17 2005,Sat,Western Michigan,34,,Southern Illinois,28,
 177,3,Sep 17 2005,Sat,Wisconsin,14,@,North Carolina,5,
 178,3,Sep 17 2005,Sat,Wyoming,29,@,Air Force,28,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 179,4,Sep 21 2005,Wed,Boise State,48,,Bowling Green State,20,
 180,4,Sep 22 2005,Thu,Louisiana-Monroe,28,@,Florida Atlantic,21,
-181,4,Sep 22 2005,Thu,Texas A&amp;M,44,,Texas State,31,
+181,4,Sep 22 2005,Thu,Texas A&M,44,,Texas State,31,
 182,4,Sep 22 2005,Thu,Utah,38,,Air Force,35,
 183,4,Sep 23 2005,Fri,(13) California,41,@,New Mexico State,13,
 184,4,Sep 23 2005,Fri,(22) Iowa State,28,@,Army,21,
@@ -227,7 +224,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 223,4,Sep 24 2005,Sat,Wisconsin,23,,(14) Michigan,20,
 224,4,Sep 24 2005,Sat,Wyoming,24,@,Mississippi,14,
 225,4,Sep 26 2005,Mon,(10) Tennessee,30,@,(4) Louisiana State,27,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 226,5,Sep 27 2005,Tue,Fresno State,44,,Toledo,14,
 227,5,Sep 28 2005,Wed,Miami (OH),44,,Cincinnati,16,
 228,5,Sep 29 2005,Thu,Colorado State,41,,Air Force,23,
@@ -239,12 +235,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 234,5,Oct 1 2005,Sat,(21) Boston College,38,,Ball State,0,
 235,5,Oct 1 2005,Sat,Bowling Green State,70,,Temple,7,
 236,5,Oct 1 2005,Sat,(12) California,28,,Arizona,0,
-237,5,Oct 1 2005,Sat,Central Florida,24,@,Louisiana-Lafayette,21,
+237,5,Oct 1 2005,Sat,Central Florida,24,@,Louisiana,21,
 238,5,Oct 1 2005,Sat,Central Michigan,31,@,Akron,17,
 239,5,Oct 1 2005,Sat,Colorado,34,@,Oklahoma State,0,
 240,5,Oct 1 2005,Sat,Connecticut,47,@,Army,13,
 241,5,Oct 1 2005,Sat,Eastern Michigan,27,,Kent State,20,
-242,5,Oct 1 2005,Sat,Florida International,23,,Florida A&amp;M,6,
+242,5,Oct 1 2005,Sat,Florida International,23,,Florida A&M,6,
 243,5,Oct 1 2005,Sat,(6) Florida State,38,,Syracuse,14,
 244,5,Oct 1 2005,Sat,Houston,30,@,Tulsa,23,
 245,5,Oct 1 2005,Sat,Idaho,27,,Utah State,13,
@@ -273,24 +269,23 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 268,5,Oct 1 2005,Sat,Southern Mississippi,33,@,East Carolina,7,
 269,5,Oct 1 2005,Sat,(10) Tennessee,27,,Mississippi,10,
 270,5,Oct 1 2005,Sat,(2) Texas,51,@,Missouri,20,
-271,5,Oct 1 2005,Sat,Texas A&amp;M,16,,Baylor,13,
+271,5,Oct 1 2005,Sat,Texas A&M,16,,Baylor,13,
 272,5,Oct 1 2005,Sat,Texas Christian,49,,New Mexico,28,
 273,5,Oct 1 2005,Sat,(16) Texas Tech,30,,Kansas,17,
-274,5,Oct 1 2005,Sat,Tulane,28,,Southeastern Louisiana,21,Baton Rouge LA
+274,5,Oct 1 2005,Sat,Tulane,28,N,Southeastern Louisiana,21,
 275,5,Oct 1 2005,Sat,(20) UCLA,21,,Washington,17,
 276,5,Oct 1 2005,Sat,(3) Virginia Tech,34,@,West Virginia,17,
 277,5,Oct 1 2005,Sat,Wake Forest,31,,Clemson,27,
 278,5,Oct 1 2005,Sat,Western Michigan,31,,Buffalo,21,
 279,5,Oct 1 2005,Sat,(17) Wisconsin,41,,Indiana,24,
 280,5,Oct 1 2005,Sat,Wyoming,42,,Nevada-Las Vegas,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 281,6,Oct 4 2005,Tue,Troy,13,@,North Texas,10,
 282,6,Oct 5 2005,Wed,Northern Illinois,38,,Miami (OH),27,
-283,6,Oct 6 2005,Thu,Florida Atlantic,28,@,Louisiana-Lafayette,10,
+283,6,Oct 6 2005,Thu,Florida Atlantic,28,@,Louisiana,10,
 284,6,Oct 6 2005,Thu,North Carolina State,17,@,(24) Georgia Tech,14,
 285,6,Oct 7 2005,Fri,Connecticut,26,,Syracuse,7,
 286,6,Oct 8 2005,Sat,Akron,13,@,Buffalo,7,
-287,6,Oct 8 2005,Sat,Arkansas,44,,Louisiana-Monroe,15,Little Rock AR
+287,6,Oct 8 2005,Sat,Arkansas,44,,Louisiana-Monroe,15,
 288,6,Oct 8 2005,Sat,Ball State,60,@,Western Michigan,57,
 289,6,Oct 8 2005,Sat,Baylor,23,@,Iowa State,13,
 290,6,Oct 8 2005,Sat,Boise State,21,,Portland State,14,
@@ -299,14 +294,14 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 293,6,Oct 8 2005,Sat,Brigham Young,27,@,New Mexico,24,
 294,6,Oct 8 2005,Sat,Central Florida,38,,Memphis,17,
 295,6,Oct 8 2005,Sat,Central Michigan,14,@,Army,10,
-296,6,Oct 8 2005,Sat,Colorado,41,,Texas A&amp;M,20,
+296,6,Oct 8 2005,Sat,Colorado,41,,Texas A&M,20,
 297,6,Oct 8 2005,Sat,Colorado State,21,,Utah,17,
 298,6,Oct 8 2005,Sat,East Carolina,41,,Rice,28,
 299,6,Oct 8 2005,Sat,(13) Florida,35,,Mississippi State,9,
 300,6,Oct 8 2005,Sat,(4) Florida State,41,,Wake Forest,24,
 301,6,Oct 8 2005,Sat,Fresno State,37,@,New Mexico State,7,
 302,6,Oct 8 2005,Sat,(5) Georgia,27,@,(8) Tennessee,14,
-303,6,Oct 8 2005,Sat,Houston,35,,Tulane,14,Lafayette LA
+303,6,Oct 8 2005,Sat,Houston,35,N,Tulane,14,
 304,6,Oct 8 2005,Sat,Indiana,36,,Illinois,13,
 305,6,Oct 8 2005,Sat,Iowa,34,@,Purdue,17,
 306,6,Oct 8 2005,Sat,Kansas State,12,,Kansas,3,
@@ -329,7 +324,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 323,6,Oct 8 2005,Sat,(1) Southern California,42,,Arizona,21,
 324,6,Oct 8 2005,Sat,Southern Methodist,28,@,Alabama-Birmingham,27,
 325,6,Oct 8 2005,Sat,Stanford,24,@,Washington State,21,
-326,6,Oct 8 2005,Sat,(2) Texas,45,,Oklahoma,12,Dallas TX
+326,6,Oct 8 2005,Sat,(2) Texas,45,N,Oklahoma,12,
 327,6,Oct 8 2005,Sat,Texas Christian,28,@,Wyoming,14,
 328,6,Oct 8 2005,Sat,(15) Texas Tech,34,@,Nebraska,31,
 329,6,Oct 8 2005,Sat,Toledo,30,,Eastern Michigan,3,
@@ -338,10 +333,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 332,6,Oct 8 2005,Sat,Utah State,24,,San Jose State,17,
 333,6,Oct 8 2005,Sat,(3) Virginia Tech,41,,Marshall,14,
 334,6,Oct 8 2005,Sat,West Virginia,27,@,Rutgers,14,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-335,7,Oct 13 2005,Thu,Arkansas State,39,,Louisiana-Lafayette,36,
+335,7,Oct 13 2005,Thu,Arkansas State,39,,Louisiana,36,
 336,7,Oct 13 2005,Thu,Clemson,31,@,North Carolina State,10,
-337,7,Oct 14 2005,Fri,Texas-El Paso,45,@,Tulane,21,Ruston LA
+337,7,Oct 14 2005,Fri,Texas-El Paso,45,@,Tulane,21,
 338,7,Oct 15 2005,Sat,Air Force,42,,Nevada-Las Vegas,7,
 339,7,Oct 15 2005,Sat,(6) Alabama,13,@,Mississippi,10,
 340,7,Oct 15 2005,Sat,(21) Auburn,34,@,Arkansas,17,
@@ -374,7 +368,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 367,7,Oct 15 2005,Sat,Northern Illinois,24,,Eastern Michigan,8,
 368,7,Oct 15 2005,Sat,Northwestern,34,@,Purdue,29,
 369,7,Oct 15 2005,Sat,(15) Ohio State,35,,(16) Michigan State,24,
-370,7,Oct 15 2005,Sat,Oklahoma,19,@,Kansas,3,Kansas City MO
+370,7,Oct 15 2005,Sat,Oklahoma,19,@,Kansas,3,
 371,7,Oct 15 2005,Sat,(20) Oregon,45,,Washington,21,
 372,7,Oct 15 2005,Sat,Oregon State,23,@,(18) California,20,
 373,7,Oct 15 2005,Sat,Pittsburgh,31,,South Florida,17,
@@ -384,7 +378,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 377,7,Oct 15 2005,Sat,Southern Mississippi,52,,Central Florida,31,
 378,7,Oct 15 2005,Sat,Stanford,20,@,Arizona,16,
 379,7,Oct 15 2005,Sat,(2) Texas,42,,(24) Colorado,17,
-380,7,Oct 15 2005,Sat,Texas A&amp;M,62,,Oklahoma State,23,
+380,7,Oct 15 2005,Sat,Texas A&M,62,,Oklahoma State,23,
 381,7,Oct 15 2005,Sat,(25) Texas Christian,38,,Army,17,
 382,7,Oct 15 2005,Sat,(13) Texas Tech,59,,Kansas State,20,
 383,7,Oct 15 2005,Sat,Toledo,34,@,Ball State,14,
@@ -393,7 +387,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 386,7,Oct 15 2005,Sat,Virginia,26,,(4) Florida State,21,
 387,7,Oct 15 2005,Sat,West Virginia,46,,(19) Louisville,44,
 388,7,Oct 15 2005,Sat,(23) Wisconsin,38,@,(22) Minnesota,34,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 389,8,Oct 20 2005,Thu,Troy,18,,Florida International,13,
 390,8,Oct 20 2005,Thu,(3) Virginia Tech,28,@,Maryland,9,
 391,8,Oct 21 2005,Fri,Central Florida,34,,Tulane,24,
@@ -412,9 +405,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 404,8,Oct 22 2005,Sat,Hawaii,45,@,San Jose State,38,
 405,8,Oct 22 2005,Sat,Houston,28,@,Mississippi State,16,
 406,8,Oct 22 2005,Sat,Iowa State,37,,Oklahoma State,10,
-407,8,Oct 22 2005,Sat,(7) Louisiana State,20,,(16) Auburn,17,
-408,8,Oct 22 2005,Sat,Louisiana Tech,40,,North Texas,14,
-409,8,Oct 22 2005,Sat,Louisiana-Lafayette,13,@,Middle Tennessee State,10,
+407,8,Oct 22 2005,Sat,Louisiana,13,@,Middle Tennessee State,10,
+408,8,Oct 22 2005,Sat,(7) Louisiana State,20,,(16) Auburn,17,
+409,8,Oct 22 2005,Sat,Louisiana Tech,40,,North Texas,14,
 410,8,Oct 22 2005,Sat,Louisville,46,@,Cincinnati,22,
 411,8,Oct 22 2005,Sat,Memphis,27,,East Carolina,24,
 412,8,Oct 22 2005,Sat,Miami (OH),24,@,Eastern Michigan,23,
@@ -438,7 +431,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 430,8,Oct 22 2005,Sat,(1) Southern California,51,@,Washington,24,
 431,8,Oct 22 2005,Sat,Stanford,45,,Arizona State,35,
 432,8,Oct 22 2005,Sat,(2) Texas,52,,(10) Texas Tech,17,
-433,8,Oct 22 2005,Sat,Texas A&amp;M,30,@,Kansas State,28,
+433,8,Oct 22 2005,Sat,Texas A&M,30,@,Kansas State,28,
 434,8,Oct 22 2005,Sat,(21) Texas Christian,48,@,Air Force,10,
 435,8,Oct 22 2005,Sat,Texas-El Paso,31,,Marshall,3,
 436,8,Oct 22 2005,Sat,Toledo,38,,Buffalo,15,
@@ -448,7 +441,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 440,8,Oct 22 2005,Sat,Wake Forest,27,,North Carolina State,19,
 441,8,Oct 22 2005,Sat,Western Michigan,45,@,Bowling Green State,14,
 442,8,Oct 22 2005,Sat,(19) Wisconsin,31,,Purdue,20,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 443,9,Oct 27 2005,Thu,(3) Virginia Tech,30,,(13) Boston College,10,
 444,9,Oct 28 2005,Fri,Colorado State,35,@,New Mexico,25,
 445,9,Oct 29 2005,Sat,Akron,24,@,Bowling Green State,14,
@@ -463,18 +455,18 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 454,9,Oct 29 2005,Sat,Central Michigan,21,,Toledo,17,
 455,9,Oct 29 2005,Sat,Cincinnati,22,@,Syracuse,16,
 456,9,Oct 29 2005,Sat,Colorado,23,@,Kansas State,20,
-457,9,Oct 29 2005,Sat,(16) Florida,14,,(4) Georgia,10,Jacksonville FL
+457,9,Oct 29 2005,Sat,(16) Florida,14,N,(4) Georgia,10,
 458,9,Oct 29 2005,Sat,(10) Florida State,35,,Maryland,27,
 459,9,Oct 29 2005,Sat,(22) Fresno State,27,@,Hawaii,13,
 460,9,Oct 29 2005,Sat,Georgia Tech,10,,Clemson,9,
 461,9,Oct 29 2005,Sat,Idaho,38,@,New Mexico State,37,
-462,9,Oct 29 2005,Sat,Iowa State,42,@,Texas A&amp;M,14,
+462,9,Oct 29 2005,Sat,Iowa State,42,@,Texas A&M,14,
 463,9,Oct 29 2005,Sat,Kansas,13,,Missouri,3,
 464,9,Oct 29 2005,Sat,Kentucky,13,,Mississippi State,7,
-465,9,Oct 29 2005,Sat,(7) Louisiana State,56,,North Texas,3,
-466,9,Oct 29 2005,Sat,Louisiana Tech,31,,San Jose State,14,
-467,9,Oct 29 2005,Sat,Louisiana-Lafayette,31,,Troy,28,
-468,9,Oct 29 2005,Sat,Marshall,27,@,Tulane,26,Mobile AL
+465,9,Oct 29 2005,Sat,Louisiana,31,,Troy,28,
+466,9,Oct 29 2005,Sat,(7) Louisiana State,56,,North Texas,3,
+467,9,Oct 29 2005,Sat,Louisiana Tech,31,,San Jose State,14,
+468,9,Oct 29 2005,Sat,Marshall,27,@,Tulane,26,
 469,9,Oct 29 2005,Sat,(6) Miami (FL),34,,North Carolina,16,
 470,9,Oct 29 2005,Sat,Miami (OH),41,@,Temple,14,
 471,9,Oct 29 2005,Sat,(25) Michigan,33,@,(21) Northwestern,17,
@@ -495,7 +487,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 486,9,Oct 29 2005,Sat,Wake Forest,44,@,Duke,6,
 487,9,Oct 29 2005,Sat,Western Michigan,44,,Kent State,14,
 488,9,Oct 29 2005,Sat,(15) Wisconsin,41,@,Illinois,24,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 489,10,Nov 1 2005,Tue,Alabama-Birmingham,37,@,Memphis,20,
 490,10,Nov 2 2005,Wed,(18) West Virginia,45,,Connecticut,13,
 491,10,Nov 3 2005,Thu,(24) Louisville,42,,Pittsburgh,20,
@@ -518,9 +509,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 508,10,Nov 5 2005,Sat,Georgia Tech,30,,Wake Forest,17,
 509,10,Nov 5 2005,Sat,Iowa State,45,,Kansas State,17,
 510,10,Nov 5 2005,Sat,Kansas,40,,Nebraska,15,
-511,10,Nov 5 2005,Sat,(6) Louisiana State,24,,Appalachian State,0,
-512,10,Nov 5 2005,Sat,Louisiana Tech,27,@,Utah State,17,
-513,10,Nov 5 2005,Sat,Louisiana-Lafayette,31,@,North Texas,28,
+511,10,Nov 5 2005,Sat,Louisiana,31,@,North Texas,28,
+512,10,Nov 5 2005,Sat,(6) Louisiana State,24,,Appalachian State,0,
+513,10,Nov 5 2005,Sat,Louisiana Tech,27,@,Utah State,17,
 514,10,Nov 5 2005,Sat,(5) Miami (FL),27,@,(3) Virginia Tech,7,
 515,10,Nov 5 2005,Sat,Miami (OH),54,,Buffalo,13,
 516,10,Nov 5 2005,Sat,Middle Tennessee State,45,,Arkansas State,7,
@@ -543,13 +534,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 533,10,Nov 5 2005,Sat,Southern Methodist,27,,Rice,7,
 534,10,Nov 5 2005,Sat,(2) Texas,62,@,Baylor,0,
 535,10,Nov 5 2005,Sat,(20) Texas Christian,33,,Colorado State,6,
-536,10,Nov 5 2005,Sat,(16) Texas Tech,56,,Texas A&amp;M,17,
+536,10,Nov 5 2005,Sat,(16) Texas Tech,56,,Texas A&M,17,
 537,10,Nov 5 2005,Sat,Texas-El Paso,41,,Tulsa,38,
 538,10,Nov 5 2005,Sat,Troy,28,,Florida Atlantic,14,
 539,10,Nov 5 2005,Sat,Utah,43,,Wyoming,13,
 540,10,Nov 5 2005,Sat,Virginia,51,,Temple,3,
-541,10,Nov 5 2005,Sat,Western Michigan,44,@,Eastern Michigan,36,Detroit MI
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
+541,10,Nov 5 2005,Sat,Western Michigan,44,@,Eastern Michigan,36,
 542,11,Nov 8 2005,Tue,Southern Mississippi,27,@,Marshall,24,
 543,11,Nov 9 2005,Wed,(16) West Virginia,38,@,Cincinnati,0,
 544,11,Nov 10 2005,Thu,(20) Fresno State,27,,Boise State,7,
@@ -569,9 +559,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 558,11,Nov 12 2005,Sat,Iowa,20,@,(19) Wisconsin,10,
 559,11,Nov 12 2005,Sat,Iowa State,30,,(22) Colorado,16,
 560,11,Nov 12 2005,Sat,Kentucky,48,@,Vanderbilt,43,
-561,11,Nov 12 2005,Sat,(5) Louisiana State,16,@,(4) Alabama,13,
-562,11,Nov 12 2005,Sat,Louisiana Tech,41,@,Idaho,38,
-563,11,Nov 12 2005,Sat,Louisiana-Lafayette,28,,Florida International,7,
+561,11,Nov 12 2005,Sat,Louisiana,28,,Florida International,7,
+562,11,Nov 12 2005,Sat,(5) Louisiana State,16,@,(4) Alabama,13,
+563,11,Nov 12 2005,Sat,Louisiana Tech,41,@,Idaho,38,
 564,11,Nov 12 2005,Sat,Louisiana-Monroe,34,@,Middle Tennessee State,31,
 565,11,Nov 12 2005,Sat,Maryland,33,@,North Carolina,30,
 566,11,Nov 12 2005,Sat,(3) Miami (FL),47,@,Wake Forest,17,
@@ -583,7 +573,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 572,11,Nov 12 2005,Sat,New Mexico,31,@,Utah,27,
 573,11,Nov 12 2005,Sat,(7) Notre Dame,42,,Navy,21,
 574,11,Nov 12 2005,Sat,(10) Ohio State,48,,(25) Northwestern,7,
-575,11,Nov 12 2005,Sat,Oklahoma,36,,Texas A&amp;M,30,
+575,11,Nov 12 2005,Sat,Oklahoma,36,,Texas A&M,30,
 576,11,Nov 12 2005,Sat,Oklahoma State,24,,(13) Texas Tech,17,
 577,11,Nov 12 2005,Sat,(11) Oregon,34,@,Washington State,31,
 578,11,Nov 12 2005,Sat,Pittsburgh,24,,Connecticut,0,
@@ -604,13 +594,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 593,11,Nov 12 2005,Sat,Washington,38,@,Arizona,14,
 594,11,Nov 12 2005,Sat,Western Michigan,31,,Central Michigan,24,
 595,11,Nov 13 2005,Sun,Houston,27,,Southern Mississippi,24,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 596,12,Nov 15 2005,Tue,Akron,27,,Ohio,3,
 597,12,Nov 15 2005,Tue,Bowling Green State,42,@,Miami (OH),14,
 598,12,Nov 16 2005,Wed,Northern Illinois,35,@,Toledo,17,
 599,12,Nov 19 2005,Sat,Air Force,42,@,New Mexico,24,
 600,12,Nov 19 2005,Sat,Alabama-Birmingham,35,@,(24) Texas-El Paso,23,
-601,12,Nov 19 2005,Sat,Arkansas,44,,Mississippi State,10,Little Rock AR
+601,12,Nov 19 2005,Sat,Arkansas,44,,Mississippi State,10,
 602,12,Nov 19 2005,Sat,Army,38,,Arkansas State,10,
 603,12,Nov 19 2005,Sat,(11) Auburn,28,,(8) Alabama,18,
 604,12,Nov 19 2005,Sat,Baylor,44,,Oklahoma State,34,
@@ -647,13 +636,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 635,12,Nov 19 2005,Sat,(1) Southern California,50,,(16) Fresno State,42,
 636,12,Nov 19 2005,Sat,Southern Methodist,29,@,Houston,24,
 637,12,Nov 19 2005,Sat,(21) Texas Tech,23,,Oklahoma,21,
-638,12,Nov 19 2005,Sat,Tulsa,38,@,Tulane,14,Monroe LA
+638,12,Nov 19 2005,Sat,Tulsa,38,@,Tulane,14,
 639,12,Nov 19 2005,Sat,Utah,41,@,Brigham Young,34,
 640,12,Nov 19 2005,Sat,Vanderbilt,28,@,Tennessee,24,
 641,12,Nov 19 2005,Sat,(7) Virginia Tech,52,@,Virginia,14,
 642,12,Nov 19 2005,Sat,Washington State,26,@,Washington,22,
 643,12,Nov 21 2005,Mon,Miami (OH),38,@,Ohio,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 644,13,Nov 22 2005,Tue,Toledo,44,@,Bowling Green State,41,
 645,13,Nov 23 2005,Wed,Northern Illinois,42,,Western Michigan,7,
 646,13,Nov 24 2005,Thu,Akron,35,,Kent State,3,
@@ -661,7 +649,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 648,13,Nov 25 2005,Fri,Arizona State,23,,Arizona,20,
 649,13,Nov 25 2005,Fri,(3) Louisiana State,19,,Arkansas,17,
 650,13,Nov 25 2005,Fri,Nebraska,30,@,Colorado,3,
-651,13,Nov 25 2005,Fri,(2) Texas,40,@,Texas A&amp;M,29,
+651,13,Nov 25 2005,Fri,(2) Texas,40,@,Texas A&M,29,
 652,13,Nov 25 2005,Fri,(24) Wisconsin,41,@,Hawaii,24,
 653,13,Nov 26 2005,Sat,Arkansas State,31,@,North Texas,24,
 654,13,Nov 26 2005,Sat,Boise State,30,@,Louisiana Tech,13,
@@ -672,7 +660,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 659,13,Nov 26 2005,Sat,(13) Georgia,14,@,(20) Georgia Tech,7,
 660,13,Nov 26 2005,Sat,Houston,35,,Rice,18,
 661,13,Nov 26 2005,Sat,Kansas,24,,Iowa State,21,
-662,13,Nov 26 2005,Sat,Louisiana-Lafayette,54,@,Louisiana-Monroe,21,
+662,13,Nov 26 2005,Sat,Louisiana,54,@,Louisiana-Monroe,21,
 663,13,Nov 26 2005,Sat,(17) Louisville,41,,Syracuse,17,
 664,13,Nov 26 2005,Sat,Memphis,26,,Marshall,3,
 665,13,Nov 26 2005,Sat,(10) Miami (FL),25,,Virginia,17,
@@ -689,48 +677,43 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 676,13,Nov 26 2005,Sat,Tennessee,27,@,Kentucky,8,
 677,13,Nov 26 2005,Sat,Utah State,24,@,New Mexico State,21,
 678,13,Nov 26 2005,Sat,(5) Virginia Tech,30,,North Carolina,3,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-679,14,Dec 1 2005,Thu,Akron,31,,Northern Illinois,30,MAC Championship (Detroit MI)
+679,14,Dec 1 2005,Thu,Akron,31,N,Northern Illinois,30,MAC Championship (Detroit MI)
 680,14,Dec 2 2005,Fri,Louisiana Tech,40,@,(23) Fresno State,28,
 681,14,Dec 3 2005,Sat,Florida International,35,,Middle Tennessee State,31,
-682,14,Dec 3 2005,Sat,Florida State,27,,(5) Virginia Tech,22,ACC Championship (Jacksonville FL)
-683,14,Dec 3 2005,Sat,(13) Georgia,34,,(3) Louisiana State,14,SEC Championship (Atlanta GA)
+682,14,Dec 3 2005,Sat,Florida State,27,N,(5) Virginia Tech,22,ACC Championship (Jacksonville FL)
+683,14,Dec 3 2005,Sat,(13) Georgia,34,N,(3) Louisiana State,14,SEC Championship (Atlanta GA)
 684,14,Dec 3 2005,Sat,Hawaii,49,,San Diego State,38,
 685,14,Dec 3 2005,Sat,(16) Louisville,30,@,Connecticut,20,
-686,14,Dec 3 2005,Sat,Navy,42,,Army,23,Philadelphia PA
-687,14,Dec 3 2005,Sat,(1) Southern California,66,,(11) UCLA,19,
-688,14,Dec 3 2005,Sat,(2) Texas,70,,Colorado,3,Big 12 Championship (Houston TX)
-689,14,Dec 3 2005,Sat,Tulsa,44,@,Central Florida,27,CUSA Championship
-690,14,Dec 3 2005,Sat,(12) West Virginia,28,@,South Florida,13,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-691,16,Dec 20 2005,Tue,Southern Mississippi,31,,Arkansas State,19,New Orleans Bowl (Lafayette LA)
-692,15,Dec 21 2005,Wed,Toledo,45,,Texas-El Paso,13,GMAC Bowl (Mobile AL)
-693,15,Dec 22 2005,Thu,California,35,,Brigham Young,28,Las Vegas Bowl (Las Vegas NV)
-694,15,Dec 22 2005,Thu,Navy,51,,Colorado State,30,Poinsettia Bowl (San Diego CA)
-695,15,Dec 23 2005,Fri,Kansas,42,,Houston,13,Fort Worth Bowl (Fort Worth TX)
-696,15,Dec 24 2005,Sat,Nevada,49,,Central Florida,48,Hawaii Bowl (Honolulu HI)
-697,15,Dec 26 2005,Mon,Memphis,38,,Akron,31,Motor City Bowl (Detroit MI)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
+686,14,Dec 3 2005,Sat,Navy,42,N,Army,23,
+687,16,Dec 3 2005,Sat,(1) Southern California,66,,(11) UCLA,19,
+688,16,Dec 3 2005,Sat,(2) Texas,70,N,Colorado,3,Big 12 Championship (Houston TX)
+689,16,Dec 3 2005,Sat,Tulsa,44,@,Central Florida,27,CUSA Championship
+690,16,Dec 3 2005,Sat,(12) West Virginia,28,@,South Florida,13,
+691,16,Dec 20 2005,Tue,Southern Mississippi,31,N,Arkansas State,19,New Orleans Bowl (Lafayette LA)
+692,16,Dec 21 2005,Wed,Toledo,45,N,Texas-El Paso,13,GMAC Bowl (Mobile AL)
+693,16,Dec 22 2005,Thu,California,35,N,Brigham Young,28,Las Vegas Bowl (Las Vegas NV)
+694,16,Dec 22 2005,Thu,Navy,51,N,Colorado State,30,Poinsettia Bowl (San Diego CA)
+695,16,Dec 23 2005,Fri,Kansas,42,N,Houston,13,Fort Worth Bowl (Fort Worth TX)
+696,16,Dec 24 2005,Sat,Nevada,49,N,Central Florida,48,Hawaii Bowl (Honolulu HI)
+697,16,Dec 26 2005,Mon,Memphis,38,N,Akron,31,Motor City Bowl (Detroit MI)
 698,16,Dec 27 2005,Tue,Arizona State,45,,Rutgers,40,Insight Bowl (Phoenix AZ)
-699,16,Dec 27 2005,Tue,(23) Clemson,19,,Colorado,10,Champs Sports Bowl (Orlando FL)
+699,16,Dec 27 2005,Tue,(23) Clemson,19,N,Colorado,10,Champs Sports Bowl (Orlando FL)
 700,16,Dec 28 2005,Wed,(19) Boston College,27,@,Boise State,21,MPC Computers Bowl (Boise ID)
-701,16,Dec 28 2005,Wed,Nebraska,32,,(20) Michigan,28,Alamo Bowl (San Antonio TX)
-702,16,Dec 29 2005,Thu,Oklahoma,17,,(6) Oregon,14,Holiday Bowl (San Diego CA)
-703,16,Dec 29 2005,Thu,Utah,38,,(24) Georgia Tech,10,Emerald Bowl (San Francisco CA)
-704,16,Dec 30 2005,Fri,(10) Louisiana State,40,,(9) Miami (FL),3,Peach Bowl (Atlanta GA)
-705,16,Dec 30 2005,Fri,Missouri,38,,South Carolina,31,Independence Bowl (Shreveport LA)
-706,16,Dec 30 2005,Fri,(17) UCLA,50,,Northwestern,38,Sun Bowl (El Paso TX)
-707,16,Dec 30 2005,Fri,Virginia,34,,Minnesota,31,Music City Bowl (Nashville TN)
-708,16,Dec 31 2005,Sat,North Carolina State,14,,South Florida,0,Meineke Car Care Bowl (Charlotte NC)
-709,16,Dec 31 2005,Sat,(14) Texas Christian,27,,Iowa State,24,Houston Bowl (Houston TX)
-710,16,Dec 31 2005,Sat,Tulsa,31,,Fresno State,24,Liberty Bowl (Memphis TN)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-711,17,Jan 2 2006,Mon,(13) Alabama,13,,(18) Texas Tech,10,Cotton Bowl (Dallas TX)
-712,17,Jan 2 2006,Mon,(16) Florida,31,,(25) Iowa,24,Outback Bowl (Tampa FL)
-713,17,Jan 2 2006,Mon,(4) Ohio State,34,,(5) Notre Dame,20,Fiesta Bowl (Tempe AZ)
-714,17,Jan 2 2006,Mon,(12) Virginia Tech,35,,(15) Louisville,24,Gator Bowl (Jacksonville FL)
-715,17,Jan 2 2006,Mon,(11) West Virginia,38,,(8) Georgia,35,Sugar Bowl (Atlanta GA)
-716,17,Jan 2 2006,Mon,(21) Wisconsin,24,,(7) Auburn,10,Capital One Bowl (Orlando FL)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-717,18,Jan 3 2006,Tue,(3) Penn State,26,,(22) Florida State,23,Orange Bowl (Miami FL)
+701,16,Dec 28 2005,Wed,Nebraska,32,N,(20) Michigan,28,Alamo Bowl (San Antonio TX)
+702,16,Dec 29 2005,Thu,Oklahoma,17,N,(6) Oregon,14,Holiday Bowl (San Diego CA)
+703,16,Dec 29 2005,Thu,Utah,38,N,(24) Georgia Tech,10,Emerald Bowl (San Francisco CA)
+704,16,Dec 30 2005,Fri,(10) Louisiana State,40,N,(9) Miami (FL),3,Peach Bowl (Atlanta GA)
+705,16,Dec 30 2005,Fri,Missouri,38,N,South Carolina,31,Independence Bowl (Shreveport LA)
+706,16,Dec 30 2005,Fri,(17) UCLA,50,N,Northwestern,38,Sun Bowl (El Paso TX)
+707,16,Dec 30 2005,Fri,Virginia,34,N,Minnesota,31,Music City Bowl (Nashville TN)
+708,16,Dec 31 2005,Sat,North Carolina State,14,N,South Florida,0,Meineke Car Care Bowl (Charlotte NC)
+709,16,Dec 31 2005,Sat,(14) Texas Christian,27,N,Iowa State,24,Houston Bowl (Houston TX)
+710,16,Dec 31 2005,Sat,Tulsa,31,N,Fresno State,24,Liberty Bowl (Memphis TN)
+711,17,Jan 2 2006,Mon,(13) Alabama,13,N,(18) Texas Tech,10,Cotton Bowl (Dallas TX)
+712,17,Jan 2 2006,Mon,(16) Florida,31,N,(25) Iowa,24,Outback Bowl (Tampa FL)
+713,17,Jan 2 2006,Mon,(4) Ohio State,34,N,(5) Notre Dame,20,Fiesta Bowl (Tempe AZ)
+714,17,Jan 2 2006,Mon,(12) Virginia Tech,35,N,(15) Louisville,24,Gator Bowl (Jacksonville FL)
+715,17,Jan 2 2006,Mon,(11) West Virginia,38,N,(8) Georgia,35,Sugar Bowl (Atlanta GA)
+716,17,Jan 2 2006,Mon,(21) Wisconsin,24,N,(7) Auburn,10,Capital One Bowl (Orlando FL)
+717,18,Jan 3 2006,Tue,(3) Penn State,26,N,(22) Florida State,23,Orange Bowl (Miami FL)
 718,18,Jan 4 2006,Wed,(2) Texas,41,@,(1) Southern California,38,Rose Bowl (Pasadena CA)

@@ -1,8 +1,7 @@
-
 Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-1,1,Aug 24 1996,Sat,Brigham Young,41,,(13) Texas A&amp;M,37,
-2,1,Aug 25 1996,Sun,(11) Penn State,24,,(7) Southern California,7,
-3,2,Aug 29 1996,Thu,Central Florida,39,,William &amp; Mary,33,
+1,1,Aug 24 1996,Sat,Brigham Young,41,,(13) Texas A&M,37,
+2,1,Aug 25 1996,Sun,(11) Penn State,24,N,(7) Southern California,7,
+3,2,Aug 29 1996,Thu,Central Florida,39,,William & Mary,33,
 4,2,Aug 29 1996,Thu,Eastern Illinois,28,@,Western Michigan,20,
 5,2,Aug 29 1996,Thu,(25) Kansas,35,,Ball State,10,
 6,2,Aug 29 1996,Thu,Louisiana-Monroe,14,,Nicholls State,12,
@@ -19,7 +18,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 17,2,Aug 31 1996,Sat,Central Michigan,42,@,Boise State,21,
 18,2,Aug 31 1996,Sat,(5) Colorado,37,,Washington State,19,
 19,2,Aug 31 1996,Sat,Colorado State,61,,Chattanooga,19,
-20,2,Aug 31 1996,Sat,(4) Florida,55,,Louisiana-Lafayette,21,
+20,2,Aug 31 1996,Sat,(4) Florida,55,,Louisiana,21,
 21,2,Aug 31 1996,Sat,Houston,43,,Sam Houston State,25,
 22,2,Aug 31 1996,Sat,(21) Kansas State,21,,Texas Tech,14,
 23,2,Aug 31 1996,Sat,Louisiana Tech,20,,Middle Tennessee State,0,
@@ -117,8 +116,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 115,4,Sep 14 1996,Sat,(24) Kansas,52,@,Texas Christian,17,
 116,4,Sep 14 1996,Sat,(17) Kansas State,35,,Cincinnati,0,
 117,4,Sep 14 1996,Sat,Kent State,28,,Youngstown State,12,
-118,4,Sep 14 1996,Sat,Louisiana Tech,38,@,Central Michigan,37,
-119,4,Sep 14 1996,Sat,Louisiana-Lafayette,29,,(25) Texas A&amp;M,22,
+118,4,Sep 14 1996,Sat,Louisiana,29,,(25) Texas A&M,22,
+119,4,Sep 14 1996,Sat,Louisiana Tech,38,@,Central Michigan,37,
 120,4,Sep 14 1996,Sat,Memphis,19,@,Missouri,16,
 121,4,Sep 14 1996,Sat,(11) Michigan,20,@,(5) Colorado,13,
 122,4,Sep 14 1996,Sat,Minnesota,26,,Ball State,23,
@@ -181,12 +180,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 179,5,Sep 21 1996,Sat,(9) Notre Dame,27,@,(6) Texas,24,
 180,5,Sep 21 1996,Sat,(7) Ohio State,72,,Pittsburgh,0,
 181,5,Sep 21 1996,Sat,Oklahoma State,31,,Utah State,17,
-182,5,Sep 21 1996,Sat,(5) Penn State,41,,Temple,0,
+182,5,Sep 21 1996,Sat,(5) Penn State,41,N,Temple,0,
 183,5,Sep 21 1996,Sat,San Diego State,51,,Oklahoma,31,
 184,5,Sep 21 1996,Sat,San Jose State,26,,Texas-El Paso,25,
 185,5,Sep 21 1996,Sat,(15) Southern California,26,@,Houston,9,
-186,5,Sep 21 1996,Sat,Southern Mississippi,52,,Louisiana-Lafayette,27,
-187,5,Sep 21 1996,Sat,Texas A&amp;M,55,,North Texas,0,
+186,5,Sep 21 1996,Sat,Southern Mississippi,52,,Louisiana,27,
+187,5,Sep 21 1996,Sat,Texas A&M,55,,North Texas,0,
 188,5,Sep 21 1996,Sat,Toledo,24,@,Eastern Michigan,7,
 189,5,Sep 21 1996,Sat,Tulsa,27,,(19) Iowa,20,
 190,5,Sep 21 1996,Sat,Utah,45,,Fresno State,17,
@@ -209,14 +208,14 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 207,6,Sep 28 1996,Sat,California,48,,Oregon State,42,
 208,6,Sep 28 1996,Sat,Cincinnati,30,,Miami (OH),23,
 209,6,Sep 28 1996,Sat,Clemson,21,,Wake Forest,10,
-210,6,Sep 28 1996,Sat,(12) Colorado,24,@,Texas A&amp;M,10,
+210,6,Sep 28 1996,Sat,(12) Colorado,24,@,Texas A&M,10,
 211,6,Sep 28 1996,Sat,East Carolina,28,,Central Florida,7,
 212,6,Sep 28 1996,Sat,(1) Florida,65,,Kentucky,0,
 213,6,Sep 28 1996,Sat,(2) Florida State,13,,(11) North Carolina,0,
 214,6,Sep 28 1996,Sat,Fresno State,20,,Hawaii,0,
 215,6,Sep 28 1996,Sat,Iowa State,45,,Missouri,31,
-216,6,Sep 28 1996,Sat,(17) Louisiana State,63,,New Mexico State,7,
-217,6,Sep 28 1996,Sat,Louisiana-Lafayette,37,@,Louisiana Tech,31,
+216,6,Sep 28 1996,Sat,Louisiana,37,@,Louisiana Tech,31,
+217,6,Sep 28 1996,Sat,(17) Louisiana State,63,,New Mexico State,7,
 218,6,Sep 28 1996,Sat,(10) Miami (FL),45,,Pittsburgh,0,
 219,6,Sep 28 1996,Sat,(7) Michigan,38,,UCLA,9,
 220,6,Sep 28 1996,Sat,Michigan State,47,,Eastern Michigan,0,
@@ -241,7 +240,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 239,6,Sep 28 1996,Sat,Washington State,52,,San Jose State,16,
 240,6,Sep 28 1996,Sat,(23) West Virginia,13,,Maryland,0,
 241,6,Sep 28 1996,Sat,Wyoming,33,@,Nevada-Las Vegas,21,
-242,7,Oct 3 1996,Thu,(9) Tennessee,41,,Mississippi,3,
+242,7,Oct 3 1996,Thu,(9) Tennessee,41,N,Mississippi,3,
 243,7,Oct 4 1996,Fri,(21) Brigham Young,45,@,Utah State,17,
 244,7,Oct 5 1996,Sat,(13) Alabama,35,,Kentucky,7,
 245,7,Oct 5 1996,Sat,Alabama-Birmingham,24,,Western Kentucky,0,
@@ -257,7 +256,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 255,7,Oct 5 1996,Sat,(2) Florida State,34,,Clemson,3,
 256,7,Oct 5 1996,Sat,Georgia,38,@,Mississippi State,19,
 257,7,Oct 5 1996,Sat,Georgia Tech,13,,(12) Virginia,7,
-258,7,Oct 5 1996,Sat,Houston,31,@,Louisiana-Lafayette,24,
+258,7,Oct 5 1996,Sat,Houston,31,@,Louisiana,24,
 259,7,Oct 5 1996,Sat,Idaho,38,,Cal Poly,33,
 260,7,Oct 5 1996,Sat,Illinois,46,,Indiana,43,
 261,7,Oct 5 1996,Sat,Iowa,37,,Michigan State,30,
@@ -282,7 +281,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 280,7,Oct 5 1996,Sat,Rice,38,,New Mexico,21,
 281,7,Oct 5 1996,Sat,Syracuse,42,,Rutgers,0,
 282,7,Oct 5 1996,Sat,(23) Texas,71,,Oklahoma State,14,
-283,7,Oct 5 1996,Sat,Texas A&amp;M,63,,Louisiana Tech,13,
+283,7,Oct 5 1996,Sat,Texas A&M,63,,Louisiana Tech,13,
 284,7,Oct 5 1996,Sat,Texas Tech,45,,Baylor,24,
 285,7,Oct 5 1996,Sat,Toledo,24,,Bowling Green State,16,
 286,7,Oct 5 1996,Sat,Tulane,35,,Texas Christian,7,
@@ -296,7 +295,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 294,8,Oct 12 1996,Sat,(8) Alabama,24,@,North Carolina State,19,
 295,8,Oct 12 1996,Sat,(4) Arizona State,42,@,UCLA,34,
 296,8,Oct 12 1996,Sat,Arkansas,38,,Louisiana Tech,21,
-297,8,Oct 12 1996,Sat,Army,42,,Rutgers,21,
+297,8,Oct 12 1996,Sat,Army,42,N,Rutgers,21,
 298,8,Oct 12 1996,Sat,(18) Auburn,49,@,Mississippi State,15,
 299,8,Oct 12 1996,Sat,Ball State,30,,Ohio,27,
 300,8,Oct 12 1996,Sat,Boston College,24,@,Cincinnati,17,
@@ -312,7 +311,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 310,8,Oct 12 1996,Sat,Houston,37,,Memphis,20,
 311,8,Oct 12 1996,Sat,Iowa,31,@,Indiana,10,
 312,8,Oct 12 1996,Sat,(22) Kansas State,35,@,Missouri,10,
-313,8,Oct 12 1996,Sat,Louisiana-Lafayette,42,,Arkansas State,31,
+313,8,Oct 12 1996,Sat,Louisiana,42,,Arkansas State,31,
 314,8,Oct 12 1996,Sat,Louisville,23,@,Tulane,20,
 315,8,Oct 12 1996,Sat,Miami (OH),35,@,Eastern Michigan,25,
 316,8,Oct 12 1996,Sat,Michigan State,42,,Illinois,14,
@@ -323,14 +322,14 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 321,8,Oct 12 1996,Sat,(15) Northwestern,26,,Minnesota,24,
 322,8,Oct 12 1996,Sat,(11) Notre Dame,54,,(16) Washington,20,
 323,8,Oct 12 1996,Sat,(2) Ohio State,17,,Wisconsin,14,
-324,8,Oct 12 1996,Sat,Oklahoma,30,,(25) Texas,27,
+324,8,Oct 12 1996,Sat,Oklahoma,30,N,(25) Texas,27,
 325,8,Oct 12 1996,Sat,(10) Penn State,31,,Purdue,14,
 326,8,Oct 12 1996,Sat,South Carolina,25,@,Kentucky,14,
 327,8,Oct 12 1996,Sat,Southern California,14,,Arizona,7,
 328,8,Oct 12 1996,Sat,Stanford,27,,Oregon,24,
 329,8,Oct 12 1996,Sat,Syracuse,55,,Pittsburgh,7,
 330,8,Oct 12 1996,Sat,(7) Tennessee,29,@,Georgia,17,
-331,8,Oct 12 1996,Sat,Texas A&amp;M,24,@,Iowa State,21,
+331,8,Oct 12 1996,Sat,Texas A&M,24,@,Iowa State,21,
 332,8,Oct 12 1996,Sat,Texas Christian,18,,Texas-El Paso,0,
 333,8,Oct 12 1996,Sat,Texas Tech,30,@,Kansas,17,
 334,8,Oct 12 1996,Sat,Tulsa,20,,Colorado State,14,
@@ -342,7 +341,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 340,9,Oct 19 1996,Sat,Air Force,20,@,(8) Notre Dame,17,
 341,9,Oct 19 1996,Sat,Akron,10,,Miami (OH),7,
 342,9,Oct 19 1996,Sat,(7) Alabama,37,,Mississippi,0,
-343,9,Oct 19 1996,Sat,Alabama-Birmingham,39,,Louisiana-Lafayette,29,
+343,9,Oct 19 1996,Sat,Alabama-Birmingham,39,,Louisiana,29,
 344,9,Oct 19 1996,Sat,(4) Arizona State,48,,Southern California,35,
 345,9,Oct 19 1996,Sat,Arkansas State,38,,Southeast Missouri State,9,
 346,9,Oct 19 1996,Sat,Army,34,,Tulane,10,
@@ -360,7 +359,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 358,9,Oct 19 1996,Sat,Hawaii,38,,Nevada-Las Vegas,28,
 359,9,Oct 19 1996,Sat,Idaho,24,,Nevada,15,
 360,9,Oct 19 1996,Sat,Iowa,21,@,(10) Penn State,20,
-361,9,Oct 19 1996,Sat,(21) Kansas State,23,@,Texas A&amp;M,20,
+361,9,Oct 19 1996,Sat,(21) Kansas State,23,@,Texas A&M,20,
 362,9,Oct 19 1996,Sat,(17) Louisiana State,41,,Kentucky,14,
 363,9,Oct 19 1996,Sat,Louisiana Tech,61,,Toledo,20,
 364,9,Oct 19 1996,Sat,Louisiana-Monroe,39,@,Central Florida,38,
@@ -404,9 +403,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 402,10,Oct 26 1996,Sat,Georgia Tech,27,,Central Florida,20,
 403,10,Oct 26 1996,Sat,(16) Kansas State,42,,Oklahoma,35,
 404,10,Oct 26 1996,Sat,Kentucky,24,,Georgia,17,
-405,10,Oct 26 1996,Sat,(13) Louisiana State,28,,Mississippi State,20,
-406,10,Oct 26 1996,Sat,Louisiana Tech,35,,Alabama-Birmingham,31,
-407,10,Oct 26 1996,Sat,Louisiana-Lafayette,13,,Memphis,9,
+405,10,Oct 26 1996,Sat,Louisiana,13,,Memphis,9,
+406,10,Oct 26 1996,Sat,(13) Louisiana State,28,,Mississippi State,20,
+407,10,Oct 26 1996,Sat,Louisiana Tech,35,,Alabama-Birmingham,31,
 408,10,Oct 26 1996,Sat,Maryland,22,@,Duke,19,
 409,10,Oct 26 1996,Sat,(25) Miami (FL),10,@,(12) West Virginia,7,
 410,10,Oct 26 1996,Sat,(10) Michigan,44,@,Minnesota,10,
@@ -430,7 +429,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 428,10,Oct 26 1996,Sat,(24) Southern Mississippi,31,@,Tulane,28,
 429,10,Oct 26 1996,Sat,Syracuse,45,@,Boston College,17,
 430,10,Oct 26 1996,Sat,(6) Tennessee,20,,(7) Alabama,13,
-431,10,Oct 26 1996,Sat,Texas Tech,13,@,Texas A&amp;M,10,
+431,10,Oct 26 1996,Sat,Texas Tech,13,@,Texas A&M,10,
 432,10,Oct 26 1996,Sat,Toledo,10,,Western Michigan,7,
 433,10,Oct 26 1996,Sat,UCLA,38,@,California,29,
 434,10,Oct 26 1996,Sat,(21) Utah,45,,Tulsa,19,
@@ -451,7 +450,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 449,11,Nov 2 1996,Sat,(7) Colorado,41,@,Missouri,13,
 450,11,Nov 2 1996,Sat,Colorado State,42,@,Air Force,41,
 451,11,Nov 2 1996,Sat,East Carolina,34,,Arkansas State,16,
-452,11,Nov 2 1996,Sat,(1) Florida,47,,Georgia,7,
+452,11,Nov 2 1996,Sat,(1) Florida,47,N,Georgia,7,
 453,11,Nov 2 1996,Sat,(3) Florida State,49,@,Georgia Tech,3,
 454,11,Nov 2 1996,Sat,Fresno State,41,,Boise State,7,
 455,11,Nov 2 1996,Sat,Houston,20,@,Tulane,17,
@@ -468,7 +467,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 466,11,Nov 2 1996,Sat,Nevada,63,,New Mexico State,14,
 467,11,Nov 2 1996,Sat,New Mexico,34,@,Tulsa,23,
 468,11,Nov 2 1996,Sat,(8) North Carolina,52,,North Carolina State,20,
-469,11,Nov 2 1996,Sat,(19) Notre Dame,54,,Navy,27,
+469,11,Nov 2 1996,Sat,(19) Notre Dame,54,N,Navy,27,
 470,11,Nov 2 1996,Sat,Ohio,38,@,Western Michigan,0,
 471,11,Nov 2 1996,Sat,(2) Ohio State,45,,Minnesota,0,
 472,11,Nov 2 1996,Sat,(15) Penn State,34,,(11) Northwestern,9,
@@ -479,12 +478,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 477,11,Nov 2 1996,Sat,Syracuse,30,@,(18) West Virginia,7,
 478,11,Nov 2 1996,Sat,(6) Tennessee,31,@,South Carolina,14,
 479,11,Nov 2 1996,Sat,Texas,28,,Baylor,23,
-480,11,Nov 2 1996,Sat,Texas A&amp;M,38,@,Oklahoma State,19,
+480,11,Nov 2 1996,Sat,Texas A&M,38,@,Oklahoma State,19,
 481,11,Nov 2 1996,Sat,Texas Christian,42,,Nevada-Las Vegas,34,
 482,11,Nov 2 1996,Sat,Utah State,21,,North Texas,13,
 483,11,Nov 2 1996,Sat,Vanderbilt,31,,Alabama-Birmingham,15,
 484,11,Nov 2 1996,Sat,(16) Virginia,27,@,Duke,3,
-485,11,Nov 2 1996,Sat,Virginia Tech,47,,Louisiana-Lafayette,16,
+485,11,Nov 2 1996,Sat,Virginia Tech,47,,Louisiana,16,
 486,11,Nov 2 1996,Sat,(21) Washington,21,@,Southern California,10,
 487,11,Nov 2 1996,Sat,Wisconsin,33,,Purdue,25,
 488,11,Nov 2 1996,Sat,(17) Wyoming,59,,Southern Methodist,17,
@@ -508,7 +507,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 506,12,Nov 9 1996,Sat,Idaho,34,,New Mexico State,19,
 507,12,Nov 9 1996,Sat,(13) Kansas State,38,@,Kansas,12,
 508,12,Nov 9 1996,Sat,Kentucky,24,,Mississippi State,21,
-509,12,Nov 9 1996,Sat,Louisiana-Lafayette,45,,Northern Illinois,31,
+509,12,Nov 9 1996,Sat,Louisiana,45,,Northern Illinois,31,
 510,12,Nov 9 1996,Sat,Memphis,21,,(6) Tennessee,17,
 511,12,Nov 9 1996,Sat,Miami (OH),24,,Ohio,8,
 512,12,Nov 9 1996,Sat,Michigan State,38,,Indiana,15,
@@ -529,7 +528,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 527,12,Nov 9 1996,Sat,Stanford,24,,Southern California,20,
 528,12,Nov 9 1996,Sat,(24) Syracuse,31,@,Tulane,7,
 529,12,Nov 9 1996,Sat,Texas,38,@,Texas Tech,32,
-530,12,Nov 9 1996,Sat,Texas A&amp;M,24,@,Baylor,7,
+530,12,Nov 9 1996,Sat,Texas A&M,24,@,Baylor,7,
 531,12,Nov 9 1996,Sat,Texas Christian,31,@,Tulsa,24,
 532,12,Nov 9 1996,Sat,Toledo,23,,Central Michigan,20,
 533,12,Nov 9 1996,Sat,UCLA,38,,Washington State,14,
@@ -578,8 +577,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 576,13,Nov 16 1996,Sat,(19) Syracuse,42,,(22) Army,17,
 577,13,Nov 16 1996,Sat,(12) Tennessee,55,,Arkansas,14,
 578,13,Nov 16 1996,Sat,Texas,38,@,Kansas,17,
-579,13,Nov 16 1996,Sat,Texas A&amp;M,33,,Oklahoma,16,
-580,13,Nov 16 1996,Sat,Texas Tech,56,,Louisiana-Lafayette,21,
+579,13,Nov 16 1996,Sat,Texas A&M,33,,Oklahoma,16,
+580,13,Nov 16 1996,Sat,Texas Tech,56,,Louisiana,21,
 581,13,Nov 16 1996,Sat,Tulsa,38,@,Texas-El Paso,21,
 582,13,Nov 16 1996,Sat,(24) Virginia,20,,(6) North Carolina,17,
 583,13,Nov 16 1996,Sat,(21) Virginia Tech,21,@,(18) Miami (FL),7,
@@ -629,9 +628,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 627,15,Nov 28 1996,Thu,San Diego State,28,,Air Force,23,
 628,15,Nov 29 1996,Fri,(19) Louisiana State,17,@,Arkansas,7,
 629,15,Nov 29 1996,Fri,(4) Nebraska,17,,(5) Colorado,12,
-630,15,Nov 29 1996,Fri,Texas,51,,Texas A&amp;M,15,
+630,15,Nov 29 1996,Fri,Texas,51,,Texas A&M,15,
 631,15,Nov 29 1996,Fri,(17) Virginia Tech,26,,(20) Virginia,9,
-632,15,Nov 30 1996,Sat,East Carolina,50,,North Carolina State,29,
+632,15,Nov 30 1996,Sat,East Carolina,50,N,North Carolina State,29,
 633,15,Nov 30 1996,Sat,(2) Florida State,24,,(1) Florida,21,
 634,15,Nov 30 1996,Sat,Georgia,19,,Georgia Tech,10,
 635,15,Nov 30 1996,Sat,(23) Miami (FL),38,@,(16) Syracuse,31,
@@ -640,25 +639,25 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 638,15,Nov 30 1996,Sat,Southern California,27,,(10) Notre Dame,20,
 639,15,Nov 30 1996,Sat,(9) Tennessee,14,@,Vanderbilt,7,
 640,15,Nov 30 1996,Sat,Wisconsin,59,@,Hawaii,10,
-641,16,Dec 7 1996,Sat,(23) Army,28,,Navy,24,
-642,16,Dec 7 1996,Sat,(6) Brigham Young,28,,(20) Wyoming,25,
-643,16,Dec 7 1996,Sat,(4) Florida,45,,(11) Alabama,30,
-644,16,Dec 7 1996,Sat,Texas,37,,(3) Nebraska,27,
-645,17,Dec 19 1996,Thu,Nevada,18,,Ball State,15,Las Vegas NV
-646,18,Dec 25 1996,Wed,Navy,42,,California,38,Honolulu HI
-647,18,Dec 27 1996,Fri,(19) Miami (FL),31,,Virginia,21,Miami FL
-648,18,Dec 27 1996,Fri,(23) Syracuse,30,,Houston,17,Memphis TN
-649,18,Dec 27 1996,Fri,Wisconsin,38,,Utah,10,Tucson AZ
-650,18,Dec 28 1996,Sat,(17) Louisiana State,10,,Clemson,7,Atlanta GA
-651,18,Dec 29 1996,Sun,(21) Iowa,27,,Texas Tech,0,San Antonio TX
-652,19,Dec 30 1996,Mon,(8) Colorado,33,,(13) Washington,21,San Diego CA
-653,20,Dec 31 1996,Tue,Auburn,32,,(24) Army,29,Shreveport LA
-654,20,Dec 31 1996,Tue,(6) Nebraska,41,,(10) Virginia Tech,21,Miami FL
-655,20,Dec 31 1996,Tue,Stanford,38,,Michigan State,0,El Paso TX
-656,20,Jan 1 1997,Wed,(16) Alabama,17,,(15) Michigan,14,Tampa FL
-657,20,Jan 1 1997,Wed,(5) Brigham Young,19,,(14) Kansas State,15,Dallas TX
-658,20,Jan 1 1997,Wed,(12) North Carolina,20,,(25) West Virginia,13,Jacksonville FL
-659,20,Jan 1 1997,Wed,(4) Ohio State,20,,(2) Arizona State,17,Pasadena CA
-660,20,Jan 1 1997,Wed,(7) Penn State,38,,(20) Texas,15,Tempe AZ
-661,20,Jan 1 1997,Wed,(9) Tennessee,48,,(11) Northwestern,28,Orlando FL
-662,20,Jan 2 1997,Thu,(3) Florida,52,,(1) Florida State,20,New Orleans LA
+641,15,Dec 7 1996,Sat,(23) Army,28,N,Navy,24,
+642,16,Dec 7 1996,Sat,(6) Brigham Young,28,N,(20) Wyoming,25,WAC Championship (Las Vegas NV)
+643,16,Dec 7 1996,Sat,(4) Florida,45,N,(11) Alabama,30,SEC Championship (Atlanta GA)
+644,16,Dec 7 1996,Sat,Texas,37,N,(3) Nebraska,27,Big 12 Championship (St. Louis MO)
+645,16,Dec 19 1996,Thu,Nevada,18,N,Ball State,15,Las Vegas Bowl (Las Vegas NV)
+646,16,Dec 25 1996,Wed,Navy,42,N,California,38,Aloha Bowl (Honolulu HI)
+647,16,Dec 27 1996,Fri,(19) Miami (FL),31,,Virginia,21,Carquest Bowl (Miami FL)
+648,16,Dec 27 1996,Fri,(23) Syracuse,30,N,Houston,17,Liberty Bowl (Memphis TN)
+649,16,Dec 27 1996,Fri,Wisconsin,38,N,Utah,10,Copper Bowl (Tucson AZ)
+650,16,Dec 28 1996,Sat,(17) Louisiana State,10,N,Clemson,7,Peach Bowl (Atlanta GA)
+651,16,Dec 29 1996,Sun,(21) Iowa,27,N,Texas Tech,0,Alamo Bowl (San Antonio TX)
+652,16,Dec 30 1996,Mon,(8) Colorado,33,N,(13) Washington,21,Holiday Bowl (San Diego CA)
+653,16,Dec 31 1996,Tue,Auburn,32,N,(24) Army,29,Independence Bowl (Shreveport LA)
+654,16,Dec 31 1996,Tue,(6) Nebraska,41,N,(10) Virginia Tech,21,Orange Bowl (Miami FL)
+655,16,Dec 31 1996,Tue,Stanford,38,N,Michigan State,0,Sun Bowl (El Paso TX)
+656,16,Jan 1 1997,Wed,(16) Alabama,17,N,(15) Michigan,14,Outback Bowl (Tampa FL)
+657,16,Jan 1 1997,Wed,(5) Brigham Young,19,N,(14) Kansas State,15,Cotton Bowl (Dallas TX)
+658,16,Jan 1 1997,Wed,(12) North Carolina,20,N,(25) West Virginia,13,Gator Bowl (Jacksonville FL)
+659,16,Jan 1 1997,Wed,(4) Ohio State,20,N,(2) Arizona State,17,Rose Bowl (Pasadena CA)
+660,16,Jan 1 1997,Wed,(7) Penn State,38,N,(20) Texas,15,Fiesta Bowl (Tempe AZ)
+661,16,Jan 1 1997,Wed,(9) Tennessee,48,N,(11) Northwestern,28,Citrus Bowl (Orlando FL)
+662,16,Jan 2 1997,Thu,(3) Florida,52,N,(1) Florida State,20,Sugar Bowl (New Orleans LA)

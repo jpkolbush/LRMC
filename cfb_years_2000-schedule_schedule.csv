@@ -1,11 +1,9 @@
-
 Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-1,1,Aug 26 2000,Sat,(2) Florida State,29,,Brigham Young,3,Pigskin Classic (Jacksonville FL)
-2,1,Aug 26 2000,Sat,(8) Kansas State,27,,Iowa,7,Eddie Robinson Classic (Kansas City MO)
+1,1,Aug 26 2000,Sat,(2) Florida State,29,,Brigham Young,3,
+2,1,Aug 26 2000,Sat,(8) Kansas State,27,,Iowa,7,
 3,1,Aug 26 2000,Sat,Louisiana Tech,63,,Mississippi Valley State,10,
-4,1,Aug 26 2000,Sat,Texas Tech,24,,New Mexico,3,Hispanic Coaches Classic (Lubbock TX)
-5,1,Aug 27 2000,Sun,(12) Southern California,29,,Penn State,5,Kick-off Classic (East Rutherford NJ)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
+4,1,Aug 26 2000,Sat,Texas Tech,24,,New Mexico,3,
+5,1,Aug 27 2000,Sun,(15) Southern California,29,N,(22) Penn State,5,
 6,2,Aug 31 2000,Thu,Appalachian State,20,@,Wake Forest,16,
 7,2,Aug 31 2000,Thu,Arizona State,10,@,San Diego State,7,
 8,2,Aug 31 2000,Thu,Auburn,35,,Wyoming,21,
@@ -16,11 +14,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 13,2,Aug 31 2000,Thu,(4) Wisconsin,19,,Western Michigan,7,
 14,2,Sep 2 2000,Sat,Air Force,55,,Cal State Northridge,6,
 15,2,Sep 2 2000,Sat,Arizona,17,@,Utah,3,
-16,2,Sep 2 2000,Sat,Arkansas,38,,Missouri State,0,Little Rock AR
+16,2,Sep 2 2000,Sat,Arkansas,38,,Missouri State,0,
 17,2,Sep 2 2000,Sat,Boise State,31,@,New Mexico,14,
 18,2,Sep 2 2000,Sat,Brigham Young,38,@,Virginia,35,
 19,2,Sep 2 2000,Sat,(17) Clemson,38,,Citadel,0,
-20,2,Sep 2 2000,Sat,Colorado State,28,,(23) Colorado,24,Denver CO
+20,2,Sep 2 2000,Sat,Colorado State,28,N,(23) Colorado,24,
 21,2,Sep 2 2000,Sat,East Carolina,38,@,Duke,0,
 22,2,Sep 2 2000,Sat,Eastern Michigan,32,,Connecticut,25,
 23,2,Sep 2 2000,Sat,(9) Florida,40,,Ball State,19,
@@ -40,7 +38,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 37,2,Sep 2 2000,Sat,(1) Nebraska,49,,San Jose State,13,
 38,2,Sep 2 2000,Sat,North Carolina,30,,Tulsa,9,
 39,2,Sep 2 2000,Sat,North Carolina State,38,,Arkansas State,31,
-40,2,Sep 2 2000,Sat,Notre Dame,24,,(25) Texas A&amp;M,10,
+40,2,Sep 2 2000,Sat,Notre Dame,24,,(25) Texas A&M,10,
 41,2,Sep 2 2000,Sat,(16) Ohio State,43,,Fresno State,10,
 42,2,Sep 2 2000,Sat,(19) Oklahoma,55,,Texas-El Paso,14,
 43,2,Sep 2 2000,Sat,Oregon,36,,Nevada,7,
@@ -49,7 +47,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 46,2,Sep 2 2000,Sat,(15) Purdue,48,,Central Michigan,0,
 47,2,Sep 2 2000,Sat,Rice,30,,Houston,27,
 48,2,Sep 2 2000,Sat,Rutgers,34,,Villanova,21,
-49,2,Sep 2 2000,Sat,Sam Houston State,21,@,Louisiana-Lafayette,14,
+49,2,Sep 2 2000,Sat,Sam Houston State,21,@,Louisiana,14,
 50,2,Sep 2 2000,Sat,South Carolina,31,,New Mexico State,0,
 51,2,Sep 2 2000,Sat,South Florida,40,,Jacksonville State,0,
 52,2,Sep 2 2000,Sat,Southern Methodist,31,,Kansas,17,
@@ -64,11 +62,10 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 61,2,Sep 2 2000,Sat,(14) Washington,44,,Idaho,20,
 62,2,Sep 2 2000,Sat,West Virginia,34,,Boston College,14,
 63,2,Sep 4 2000,Mon,Cincinnati,23,,Army,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 64,3,Sep 7 2000,Thu,Alabama-Birmingham,20,,Chattanooga,15,
 65,3,Sep 7 2000,Thu,(10) Virginia Tech,45,@,East Carolina,28,
 66,3,Sep 9 2000,Sat,Air Force,31,,Brigham Young,23,
-67,3,Sep 9 2000,Sat,(13) Alabama,28,,Vanderbilt,10,Birmingham AL
+67,3,Sep 9 2000,Sat,(13) Alabama,28,,Vanderbilt,10,
 68,3,Sep 9 2000,Sat,Auburn,35,@,(19) Mississippi,27,
 69,3,Sep 9 2000,Sat,Boise State,42,,Northern Iowa,17,
 70,3,Sep 9 2000,Sat,Boston College,55,@,Army,17,
@@ -91,7 +88,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 87,3,Sep 9 2000,Sat,Miami (OH),34,@,Eastern Michigan,17,
 88,3,Sep 9 2000,Sat,(3) Michigan,38,,Rice,7,
 89,3,Sep 9 2000,Sat,(24) Michigan State,34,,Marshall,24,
-90,3,Sep 9 2000,Sat,Montana,45,@,Idaho,38,Pullman WA
+90,3,Sep 9 2000,Sat,Montana,45,@,Idaho,38,
 91,3,Sep 9 2000,Sat,(1) Nebraska,27,@,(23) Notre Dame,24,
 92,3,Sep 9 2000,Sat,North Carolina,35,@,Wake Forest,14,
 93,3,Sep 9 2000,Sat,North Carolina State,41,@,Indiana,38,
@@ -110,8 +107,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 106,3,Sep 9 2000,Sat,San Jose State,40,@,Stanford,27,
 107,3,Sep 9 2000,Sat,South Carolina,21,,(9) Georgia,10,
 108,3,Sep 9 2000,Sat,(11) Southern California,17,,Colorado,14,
-109,3,Sep 9 2000,Sat,(6) Texas,52,,Louisiana-Lafayette,10,
-110,3,Sep 9 2000,Sat,Texas A&amp;M,51,,Wyoming,3,
+109,3,Sep 9 2000,Sat,(6) Texas,52,,Louisiana,10,
+110,3,Sep 9 2000,Sat,Texas A&M,51,,Wyoming,3,
 111,3,Sep 9 2000,Sat,(22) Texas Christian,41,@,Nevada,10,
 112,3,Sep 9 2000,Sat,Texas Tech,13,,North Texas,7,
 113,3,Sep 9 2000,Sat,Texas-El Paso,37,,Southern Methodist,20,
@@ -123,12 +120,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 119,3,Sep 9 2000,Sat,Western Illinois,24,@,Ball State,14,
 120,3,Sep 9 2000,Sat,Western Michigan,27,@,Iowa,21,
 121,3,Sep 9 2000,Sat,(5) Wisconsin,27,,Oregon,23,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 122,4,Sep 14 2000,Thu,Mississippi State,44,@,Brigham Young,28,
 123,4,Sep 16 2000,Sat,Akron,35,,Central Florida,24,
 124,4,Sep 16 2000,Sat,Arizona,17,,San Diego State,3,
 125,4,Sep 16 2000,Sat,Arizona State,13,,Colorado State,10,
-126,4,Sep 16 2000,Sat,Arkansas,38,,Boise State,31,Little Rock AR
+126,4,Sep 16 2000,Sat,Arkansas,38,,Boise State,31,
 127,4,Sep 16 2000,Sat,(24) Auburn,34,,Louisiana State,17,
 128,4,Sep 16 2000,Sat,(16) Clemson,55,,Wake Forest,7,
 129,4,Sep 16 2000,Sat,Connecticut,24,@,Buffalo,21,
@@ -160,13 +156,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 155,4,Sep 16 2000,Sat,San Jose State,47,,Southern Utah,7,
 156,4,Sep 16 2000,Sat,South Carolina,41,,Eastern Michigan,6,
 157,4,Sep 16 2000,Sat,South Florida,26,,James Madison,7,
-158,4,Sep 16 2000,Sat,(25) Southern Mississippi,21,@,(15) Alabama,0,Birmingham AL
+158,4,Sep 16 2000,Sat,(25) Southern Mississippi,21,@,(15) Alabama,0,
 159,4,Sep 16 2000,Sat,Stanford,27,,(5) Texas,24,
 160,4,Sep 16 2000,Sat,Stephen F. Austin,34,@,Louisiana Tech,31,
 161,4,Sep 16 2000,Sat,Temple,31,,Bowling Green State,14,
-162,4,Sep 16 2000,Sat,Texas A&amp;M,45,,Texas-El Paso,17,
+162,4,Sep 16 2000,Sat,Texas A&M,45,,Texas-El Paso,17,
 163,4,Sep 16 2000,Sat,(20) Texas Christian,41,,Northwestern,14,
-164,4,Sep 16 2000,Sat,Texas Tech,26,,Louisiana-Lafayette,0,
+164,4,Sep 16 2000,Sat,Texas Tech,26,,Louisiana,0,
 165,4,Sep 16 2000,Sat,Toledo,31,,Eastern Illinois,26,
 166,4,Sep 16 2000,Sat,Tulsa,23,@,Rice,16,
 167,4,Sep 16 2000,Sat,(14) UCLA,23,,(3) Michigan,20,
@@ -179,7 +175,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 174,4,Sep 16 2000,Sat,(4) Wisconsin,28,,Cincinnati,25,
 175,4,Sep 16 2000,Sat,Wyoming,31,,Central Michigan,10,
 176,4,Sep 16 2000,Sat,Youngstown State,26,@,Kent State,20,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 177,5,Sep 21 2000,Thu,North Carolina State,30,,Georgia Tech,23,
 178,5,Sep 23 2000,Sat,Air Force,23,@,Utah,14,
 179,5,Sep 23 2000,Sat,Akron,23,@,Ohio,20,
@@ -192,7 +187,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 186,5,Sep 23 2000,Sat,Boston College,48,,Navy,7,
 187,5,Sep 23 2000,Sat,Brigham Young,10,,Nevada-Las Vegas,7,
 188,5,Sep 23 2000,Sat,Buffalo,20,,Bowling Green State,17,
-189,5,Sep 23 2000,Sat,Central Florida,52,,William &amp; Mary,7,
+189,5,Sep 23 2000,Sat,Central Florida,52,,William & Mary,7,
 190,5,Sep 23 2000,Sat,(11) Clemson,31,@,Virginia,10,
 191,5,Sep 23 2000,Sat,East Carolina,34,,Syracuse,17,
 192,5,Sep 23 2000,Sat,(3) Florida,59,,Kentucky,31,
@@ -215,7 +210,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 209,5,Sep 23 2000,Sat,North Carolina,20,,Marshall,15,
 210,5,Sep 23 2000,Sat,Northeastern,35,@,Connecticut,27,
 211,5,Sep 23 2000,Sat,Northwestern,47,@,(7) Wisconsin,44,
-212,5,Sep 23 2000,Sat,Northwestern State,23,@,Louisiana-Lafayette,21,
+212,5,Sep 23 2000,Sat,Northwestern State,23,@,Louisiana,21,
 213,5,Sep 23 2000,Sat,(14) Ohio State,45,,Penn State,6,
 214,5,Sep 23 2000,Sat,(17) Oklahoma,42,,Rice,14,
 215,5,Sep 23 2000,Sat,Oregon,29,,(6) UCLA,10,
@@ -234,12 +229,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 228,5,Sep 23 2000,Sat,Tulsa,22,,Louisiana Tech,10,
 229,5,Sep 23 2000,Sat,Vanderbilt,26,,Duke,7,
 230,5,Sep 23 2000,Sat,Western Michigan,21,,Toledo,14,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 231,6,Sep 28 2000,Thu,(2) Florida State,59,@,Maryland,7,
 232,6,Sep 28 2000,Thu,West Virginia,29,@,Temple,24,
 233,6,Sep 30 2000,Sat,Akron,37,,Miami (OH),20,
 234,6,Sep 30 2000,Sat,Alabama,27,,(23) South Carolina,17,
-235,6,Sep 30 2000,Sat,Alabama-Birmingham,47,,Louisiana-Lafayette,2,
+235,6,Sep 30 2000,Sat,Alabama-Birmingham,47,,Louisiana,2,
 236,6,Sep 30 2000,Sat,Arizona,27,@,Stanford,3,
 237,6,Sep 30 2000,Sat,(19) Auburn,33,,Vanderbilt,0,
 238,6,Sep 30 2000,Sat,Bowling Green State,18,@,Kent State,11,
@@ -249,7 +243,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 242,6,Sep 30 2000,Sat,(25) Georgia,38,@,Arkansas,7,
 243,6,Sep 30 2000,Sat,Georgia Tech,42,@,North Carolina,28,
 244,6,Sep 30 2000,Sat,Houston,17,,Southern Methodist,15,
-245,6,Sep 30 2000,Sat,Idaho,56,,Montana State,7,Pullman WA
+245,6,Sep 30 2000,Sat,Idaho,56,,Montana State,7,
 246,6,Sep 30 2000,Sat,Indiana,45,,Iowa,33,
 247,6,Sep 30 2000,Sat,Iowa State,31,@,Baylor,17,
 248,6,Sep 30 2000,Sat,(5) Kansas State,44,@,Colorado,21,
@@ -276,7 +270,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 269,6,Sep 30 2000,Sat,(21) Southern Mississippi,24,,Memphis,3,
 270,6,Sep 30 2000,Sat,Syracuse,42,,Brigham Young,14,
 271,6,Sep 30 2000,Sat,(13) Texas,42,,Oklahoma State,7,
-272,6,Sep 30 2000,Sat,Texas A&amp;M,33,,Texas Tech,15,
+272,6,Sep 30 2000,Sat,Texas A&M,33,,Texas Tech,15,
 273,6,Sep 30 2000,Sat,(16) Texas Christian,24,@,Navy,0,
 274,6,Sep 30 2000,Sat,Texas State,27,@,Louisiana-Monroe,7,
 275,6,Sep 30 2000,Sat,Texas-El Paso,41,,New Mexico State,31,
@@ -289,7 +283,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 282,6,Sep 30 2000,Sat,(4) Virginia Tech,48,@,Boston College,34,
 283,6,Sep 30 2000,Sat,Washington State,21,@,California,17,
 284,6,Sep 30 2000,Sat,Western Michigan,23,,Ohio,10,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 285,7,Oct 5 2000,Thu,Fresno State,27,@,Rice,24,
 286,7,Oct 5 2000,Thu,North Texas,41,,Samford,6,
 287,7,Oct 5 2000,Thu,Western Michigan,30,@,Marshall,10,
@@ -303,7 +296,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 295,7,Oct 7 2000,Sat,Boston College,55,,Connecticut,3,
 296,7,Oct 7 2000,Sat,Cincinnati,48,,Houston,31,
 297,7,Oct 7 2000,Sat,(5) Clemson,34,,North Carolina State,27,
-298,7,Oct 7 2000,Sat,Colorado,26,@,Texas A&amp;M,19,
+298,7,Oct 7 2000,Sat,Colorado,26,@,Texas A&M,19,
 299,7,Oct 7 2000,Sat,Colorado State,17,,New Mexico,14,
 300,7,Oct 7 2000,Sat,(12) Florida,41,,Louisiana State,9,
 301,7,Oct 7 2000,Sat,(19) Georgia,21,,(21) Tennessee,10,
@@ -326,7 +319,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 318,7,Oct 7 2000,Sat,(25) Notre Dame,20,,Stanford,14,
 319,7,Oct 7 2000,Sat,Ohio,42,,Buffalo,20,
 320,7,Oct 7 2000,Sat,(8) Ohio State,23,@,(24) Wisconsin,7,
-321,7,Oct 7 2000,Sat,(10) Oklahoma,63,,(11) Texas,14,Dallas TX
+321,7,Oct 7 2000,Sat,(10) Oklahoma,63,N,(11) Texas,14,
 322,7,Oct 7 2000,Sat,Purdue,32,,(6) Michigan,31,
 323,7,Oct 7 2000,Sat,San Diego State,34,@,Wyoming,0,
 324,7,Oct 7 2000,Sat,San Jose State,35,@,Southern Methodist,10,
@@ -337,14 +330,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 329,7,Oct 7 2000,Sat,Texas Tech,28,,Baylor,0,
 330,7,Oct 7 2000,Sat,Texas-El Paso,40,@,Tulsa,7,
 331,7,Oct 7 2000,Sat,Toledo,42,@,Eastern Michigan,14,
-332,7,Oct 7 2000,Sat,Tulane,38,@,Louisiana-Lafayette,37,
+332,7,Oct 7 2000,Sat,Tulane,38,@,Louisiana,37,
 333,7,Oct 7 2000,Sat,Vanderbilt,17,@,Wake Forest,10,
 334,7,Oct 7 2000,Sat,Virginia,31,,Maryland,23,
 335,7,Oct 7 2000,Sat,(3) Virginia Tech,35,,Temple,13,
 336,7,Oct 7 2000,Sat,(13) Washington,33,,(23) Oregon State,30,
 337,7,Oct 7 2000,Sat,Washington State,42,,Boise State,35,
 338,7,Oct 7 2000,Sat,West Virginia,28,,Idaho,16,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 339,8,Oct 12 2000,Thu,(3) Virginia Tech,48,,West Virginia,20,
 340,8,Oct 14 2000,Sat,Air Force,51,@,Wyoming,34,
 341,8,Oct 14 2000,Sat,Alabama,45,,Mississippi,7,
@@ -369,7 +361,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 360,8,Oct 14 2000,Sat,Iowa State,33,@,Oklahoma State,26,
 361,8,Oct 14 2000,Sat,Kansas,38,@,Missouri,17,
 362,8,Oct 14 2000,Sat,Louisiana State,34,,Kentucky,0,
-363,8,Oct 14 2000,Sat,Louisiana Tech,48,,Louisiana-Lafayette,14,
+363,8,Oct 14 2000,Sat,Louisiana Tech,48,,Louisiana,14,
 364,8,Oct 14 2000,Sat,Louisville,38,,Cincinnati,24,
 365,8,Oct 14 2000,Sat,Miami (OH),24,,Bowling Green State,10,
 366,8,Oct 14 2000,Sat,(18) Michigan,58,,Indiana,0,
@@ -379,7 +371,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 370,8,Oct 14 2000,Sat,New Mexico State,42,,Tulsa,28,
 371,8,Oct 14 2000,Sat,North Carolina State,38,@,North Carolina,20,
 372,8,Oct 14 2000,Sat,Northern Illinois,52,@,Akron,35,
-373,8,Oct 14 2000,Sat,(20) Notre Dame,45,,Navy,14,Orlando FL
+373,8,Oct 14 2000,Sat,(20) Notre Dame,45,N,Navy,14,
 374,8,Oct 14 2000,Sat,Ohio,44,@,Kent State,7,
 375,8,Oct 14 2000,Sat,(8) Oklahoma,41,@,(2) Kansas State,31,
 376,8,Oct 14 2000,Sat,(9) Oregon,28,@,Southern California,17,
@@ -389,14 +381,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 380,8,Oct 14 2000,Sat,(16) Southern Mississippi,56,@,Tulane,24,
 381,8,Oct 14 2000,Sat,Temple,48,@,Rutgers,14,
 382,8,Oct 14 2000,Sat,(25) Texas,28,@,Colorado,14,
-383,8,Oct 14 2000,Sat,Texas A&amp;M,24,@,Baylor,0,
+383,8,Oct 14 2000,Sat,Texas A&M,24,@,Baylor,0,
 384,8,Oct 14 2000,Sat,Texas-El Paso,47,@,San Jose State,30,
 385,8,Oct 14 2000,Sat,Toledo,42,,Marshall,0,
 386,8,Oct 14 2000,Sat,Utah,21,@,San Diego State,7,
 387,8,Oct 14 2000,Sat,Utah State,17,@,North Texas,12,
 388,8,Oct 14 2000,Sat,(11) Washington,21,@,Arizona State,15,
 389,8,Oct 14 2000,Sat,Wisconsin,17,@,Michigan State,10,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 390,9,Oct 19 2000,Thu,East Carolina,28,@,Louisville,25,
 391,9,Oct 21 2000,Sat,Alabama-Birmingham,14,,Middle Tennessee State,9,
 392,9,Oct 21 2000,Sat,Arizona State,23,@,Washington State,20,
@@ -442,14 +433,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 432,9,Oct 21 2000,Sat,Stanford,32,,Southern California,30,
 433,9,Oct 21 2000,Sat,Tennessee,20,,Alabama,10,
 434,9,Oct 21 2000,Sat,Texas,46,,Missouri,12,
-435,9,Oct 21 2000,Sat,Texas A&amp;M,30,@,Iowa State,7,
+435,9,Oct 21 2000,Sat,Texas A&M,30,@,Iowa State,7,
 436,9,Oct 21 2000,Sat,(11) Texas Christian,17,@,Tulsa,3,
 437,9,Oct 21 2000,Sat,Texas-El Paso,23,,Fresno State,13,
 438,9,Oct 21 2000,Sat,Utah State,31,,Idaho,14,
 439,9,Oct 21 2000,Sat,(2) Virginia Tech,22,@,Syracuse,14,
 440,9,Oct 21 2000,Sat,(9) Washington,36,,California,24,
 441,9,Oct 21 2000,Sat,Western Michigan,52,,Northern Illinois,22,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 442,10,Oct 26 2000,Thu,Brigham Young,19,,Wyoming,7,
 443,10,Oct 28 2000,Sat,Alabama-Birmingham,16,@,East Carolina,13,
 444,10,Oct 28 2000,Sat,(25) Auburn,21,,Arkansas,19,
@@ -461,7 +451,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 450,10,Oct 28 2000,Sat,Cincinnati,45,,Miami (OH),15,
 451,10,Oct 28 2000,Sat,Colorado,37,,Oklahoma State,21,
 452,10,Oct 28 2000,Sat,Colorado State,34,@,San Diego State,22,
-453,10,Oct 28 2000,Sat,(8) Florida,34,,(13) Georgia,23,Jacksonville FL
+453,10,Oct 28 2000,Sat,(8) Florida,34,N,(13) Georgia,23,
 454,10,Oct 28 2000,Sat,(6) Florida State,58,@,(21) North Carolina State,14,
 455,10,Oct 28 2000,Sat,Fresno State,34,,Tulsa,12,
 456,10,Oct 28 2000,Sat,Georgia Tech,31,@,(5) Clemson,28,
@@ -474,14 +464,14 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 463,10,Oct 28 2000,Sat,Mississippi,43,,Nevada-Las Vegas,40,
 464,10,Oct 28 2000,Sat,(20) Mississippi State,61,,Middle Tennessee State,35,
 465,10,Oct 28 2000,Sat,New Mexico,10,,Utah,3,
-466,10,Oct 28 2000,Sat,North Texas,13,@,Louisiana-Lafayette,0,
+466,10,Oct 28 2000,Sat,North Texas,13,@,Louisiana,0,
 467,10,Oct 28 2000,Sat,Northern Illinois,73,,Buffalo,10,
 468,10,Oct 28 2000,Sat,(23) Northwestern,41,@,Minnesota,35,
 469,10,Oct 28 2000,Sat,(19) Notre Dame,34,,Air Force,31,
 470,10,Oct 28 2000,Sat,(3) Oklahoma,31,,(1) Nebraska,14,
 471,10,Oct 28 2000,Sat,(7) Oregon,56,@,Arizona State,55,
 472,10,Oct 28 2000,Sat,(18) Oregon State,38,,Washington State,9,
-473,10,Oct 28 2000,Sat,Penn State,27,@,Indiana,24,Indianapolis IN
+473,10,Oct 28 2000,Sat,Penn State,27,@,Indiana,24,
 474,10,Oct 28 2000,Sat,(16) Purdue,31,,(12) Ohio State,27,
 475,10,Oct 28 2000,Sat,San Jose State,57,@,Hawaii,48,
 476,10,Oct 28 2000,Sat,South Florida,21,@,Connecticut,13,
@@ -489,7 +479,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 478,10,Oct 28 2000,Sat,(14) Southern Mississippi,6,@,Houston,3,
 479,10,Oct 28 2000,Sat,Tennessee,17,@,(17) South Carolina,14,
 480,10,Oct 28 2000,Sat,(22) Texas,48,,Baylor,14,
-481,10,Oct 28 2000,Sat,Texas A&amp;M,26,,(10) Kansas State,10,
+481,10,Oct 28 2000,Sat,Texas A&M,26,,(10) Kansas State,10,
 482,10,Oct 28 2000,Sat,(11) Texas Christian,37,,Rice,0,
 483,10,Oct 28 2000,Sat,Texas Tech,45,@,Kansas,39,
 484,10,Oct 28 2000,Sat,Toledo,35,@,Navy,14,
@@ -500,7 +490,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 489,10,Oct 28 2000,Sat,(9) Washington,31,@,Stanford,28,
 490,10,Oct 28 2000,Sat,Western Michigan,42,@,Kent State,0,
 491,10,Oct 28 2000,Sat,Wisconsin,13,@,Iowa,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 492,11,Nov 2 2000,Thu,Colorado State,45,,Brigham Young,21,
 493,11,Nov 4 2000,Sat,Air Force,41,@,Army,27,
 494,11,Nov 4 2000,Sat,Boise State,42,@,Arkansas State,14,
@@ -517,8 +506,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 505,11,Nov 4 2000,Sat,Illinois,42,,Indiana,35,
 506,11,Nov 4 2000,Sat,Iowa,26,@,Penn State,23,
 507,11,Nov 4 2000,Sat,(19) Kansas State,56,,Iowa State,10,
-508,11,Nov 4 2000,Sat,Louisiana State,30,,Alabama,28,
-509,11,Nov 4 2000,Sat,Louisiana-Lafayette,21,@,Louisiana-Monroe,18,
+508,11,Nov 4 2000,Sat,Louisiana,21,@,Louisiana-Monroe,18,
+509,11,Nov 4 2000,Sat,Louisiana State,30,,Alabama,28,
 510,11,Nov 4 2000,Sat,Louisville,49,@,(13) Southern Mississippi,28,
 511,11,Nov 4 2000,Sat,Marshall,20,@,Bowling Green State,13,
 512,11,Nov 4 2000,Sat,Maryland,35,,North Carolina State,28,
@@ -542,7 +531,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 530,11,Nov 4 2000,Sat,Syracuse,31,@,West Virginia,27,
 531,11,Nov 4 2000,Sat,Tennessee,19,@,Memphis,17,
 532,11,Nov 4 2000,Sat,(20) Texas,29,@,Texas Tech,17,
-533,11,Nov 4 2000,Sat,(24) Texas A&amp;M,21,@,Oklahoma State,16,
+533,11,Nov 4 2000,Sat,(24) Texas A&M,21,@,Oklahoma State,16,
 534,11,Nov 4 2000,Sat,Texas-El Paso,45,@,Nevada,22,
 535,11,Nov 4 2000,Sat,Toledo,38,@,Northern Illinois,24,
 536,11,Nov 4 2000,Sat,Tulane,41,,Houston,23,
@@ -553,7 +542,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 541,11,Nov 4 2000,Sat,(8) Washington,35,,Arizona,32,
 542,11,Nov 4 2000,Sat,Western Michigan,42,@,Ball State,3,
 543,11,Nov 4 2000,Sat,Wisconsin,41,,Minnesota,20,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 544,12,Nov 9 2000,Thu,(24) Georgia Tech,35,,Virginia,0,
 545,12,Nov 11 2000,Sat,Air Force,44,,Colorado State,40,
 546,12,Nov 11 2000,Sat,Akron,49,,Buffalo,14,
@@ -570,7 +558,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 557,12,Nov 11 2000,Sat,Idaho,44,,New Mexico State,41,
 558,12,Nov 11 2000,Sat,Iowa,27,,(12) Northwestern,17,
 559,12,Nov 11 2000,Sat,Iowa State,35,@,Colorado,27,
-560,12,Nov 11 2000,Sat,Jacksonville State,28,@,Louisiana-Lafayette,14,
+560,12,Nov 11 2000,Sat,Jacksonville State,28,@,Louisiana,14,
 561,12,Nov 11 2000,Sat,(16) Kansas State,29,,(4) Nebraska,28,
 562,12,Nov 11 2000,Sat,Louisiana State,20,@,Mississippi,9,
 563,12,Nov 11 2000,Sat,Louisiana Tech,42,@,Louisiana-Monroe,19,
@@ -588,7 +576,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 575,12,Nov 11 2000,Sat,(11) Notre Dame,28,,Boston College,16,
 576,12,Nov 11 2000,Sat,Ohio,23,@,Bowling Green State,21,
 577,12,Nov 11 2000,Sat,(13) Ohio State,24,@,Illinois,21,
-578,12,Nov 11 2000,Sat,(1) Oklahoma,35,@,(23) Texas A&amp;M,31,
+578,12,Nov 11 2000,Sat,(1) Oklahoma,35,@,(23) Texas A&M,31,
 579,12,Nov 11 2000,Sat,(6) Oregon,25,,California,17,
 580,12,Nov 11 2000,Sat,(10) Oregon State,33,@,Arizona,9,
 581,12,Nov 11 2000,Sat,Rhode Island,26,@,Connecticut,21,
@@ -610,7 +598,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 597,12,Nov 11 2000,Sat,Washington State,33,@,Southern California,27,
 598,12,Nov 11 2000,Sat,West Virginia,31,@,Rutgers,24,
 599,12,Nov 11 2000,Sat,Wisconsin,43,@,Indiana,22,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 600,13,Nov 16 2000,Thu,Colorado State,37,,Wyoming,13,
 601,13,Nov 18 2000,Sat,Air Force,45,,San Diego State,24,
 602,13,Nov 18 2000,Sat,Akron,34,@,Kent State,6,
@@ -634,7 +621,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 620,13,Nov 18 2000,Sat,(2) Miami (FL),26,@,Syracuse,0,
 621,13,Nov 18 2000,Sat,Miami (OH),17,@,Buffalo,16,
 622,13,Nov 18 2000,Sat,(19) Michigan,38,@,(12) Ohio State,26,
-623,13,Nov 18 2000,Sat,Middle Tennessee State,41,,Louisiana-Lafayette,38,
+623,13,Nov 18 2000,Sat,Middle Tennessee State,41,,Louisiana,38,
 624,13,Nov 18 2000,Sat,Minnesota,27,,Iowa,24,
 625,13,Nov 18 2000,Sat,Nevada,34,,Rice,28,
 626,13,Nov 18 2000,Sat,North Carolina,59,@,Duke,21,
@@ -662,16 +649,15 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 648,13,Nov 18 2000,Sat,West Virginia,42,,East Carolina,24,
 649,13,Nov 18 2000,Sat,Western Michigan,28,,Eastern Michigan,0,
 650,13,Nov 18 2000,Sat,Wofford,24,@,Louisiana-Monroe,6,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 651,14,Nov 22 2000,Wed,Toledo,51,,Bowling Green State,17,
 652,14,Nov 23 2000,Thu,Mississippi,45,,(23) Mississippi State,30,
 653,14,Nov 24 2000,Fri,Arizona State,30,@,Arizona,17,
-654,14,Nov 24 2000,Fri,Arkansas,14,,(24) Louisiana State,3,Little Rock AR
+654,14,Nov 24 2000,Fri,Arkansas,14,,(24) Louisiana State,3,
 655,14,Nov 24 2000,Fri,Brigham Young,34,@,Utah,27,
 656,14,Nov 24 2000,Fri,East Carolina,14,@,Southern Mississippi,9,
 657,14,Nov 24 2000,Fri,(9) Nebraska,34,,Colorado,32,
 658,14,Nov 24 2000,Fri,Pittsburgh,38,,West Virginia,28,
-659,14,Nov 24 2000,Fri,(12) Texas,43,,(22) Texas A&amp;M,17,
+659,14,Nov 24 2000,Fri,(12) Texas,43,,(22) Texas A&M,17,
 660,14,Nov 24 2000,Fri,(13) Texas Christian,62,@,Southern Methodist,7,
 661,14,Nov 25 2000,Sat,Fresno State,37,@,San Jose State,6,
 662,14,Nov 25 2000,Sat,(18) Georgia Tech,27,@,(19) Georgia,15,
@@ -681,42 +667,37 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 666,14,Nov 25 2000,Sat,(11) Notre Dame,38,@,Southern California,21,
 667,14,Nov 25 2000,Sat,(1) Oklahoma,12,@,Oklahoma State,7,
 668,14,Nov 25 2000,Sat,Syracuse,49,,Rutgers,21,
-669,14,Nov 25 2000,Sat,(25) Tennessee,28,@,Vanderbilt,26,Nashville TN
+669,14,Nov 25 2000,Sat,(25) Tennessee,28,@,Vanderbilt,26,
 670,14,Nov 25 2000,Sat,Tulsa,38,,Nevada,3,
 671,14,Nov 25 2000,Sat,(6) Virginia Tech,42,,Virginia,21,
 672,14,Nov 25 2000,Sat,Wisconsin,34,@,Hawaii,18,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-673,15,Dec 2 2000,Sat,(7) Florida,28,,(18) Auburn,6,SEC Championship (Atlanta GA)
+673,15,Dec 2 2000,Sat,(7) Florida,28,N,(18) Auburn,6,SEC Championship (Atlanta GA)
 674,15,Dec 2 2000,Sat,Marshall,19,,Western Michigan,14,MAC Championship (Huntington WV)
-675,15,Dec 2 2000,Sat,Navy,30,,Army,28,Baltimore MD
-676,15,Dec 2 2000,Sat,Nevada-Las Vegas,34,@,Hawaii,32,
-677,15,Dec 2 2000,Sat,(1) Oklahoma,27,,(8) Kansas State,24,Big 12 Championship (Kansas City MO)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-678,16,Dec 20 2000,Wed,Southern Mississippi,28,,(13) Texas Christian,21,Mobile Alabama Bowl (Mobile AL)
+675,15,Dec 2 2000,Sat,Navy,30,,Army,28,
+676,16,Dec 2 2000,Sat,Nevada-Las Vegas,34,@,Hawaii,32,
+677,16,Dec 2 2000,Sat,(1) Oklahoma,27,N,(8) Kansas State,24,Big 12 Championship (Kansas City MO)
+678,16,Dec 20 2000,Wed,Southern Mississippi,28,N,(13) Texas Christian,21,Mobile Alabama Bowl (Mobile AL)
 679,16,Dec 21 2000,Thu,Nevada-Las Vegas,31,,Arkansas,14,Las Vegas Bowl (Las Vegas NV)
-680,16,Dec 24 2000,Sun,(24) Georgia,37,,Virginia,14,Oahu Classic (Honolulu HI)
-681,16,Dec 25 2000,Mon,Boston College,31,,Arizona State,17,Aloha Classic (Honolulu HI)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-682,17,Dec 27 2000,Wed,East Carolina,40,,Texas Tech,27,Gallery Furniture Bowl (Houston TX)
-683,17,Dec 27 2000,Wed,Marshall,25,,Cincinnati,14,Motor City Bowl (Detroit MI)
+680,16,Dec 24 2000,Sun,(24) Georgia,37,N,Virginia,14,Oahu Classic (Honolulu HI)
+681,16,Dec 25 2000,Mon,Boston College,31,N,Arizona State,17,Aloha Classic (Honolulu HI)
+682,17,Dec 27 2000,Wed,East Carolina,40,N,Texas Tech,27,Gallery Furniture Bowl (Houston TX)
+683,17,Dec 27 2000,Wed,Marshall,25,N,Cincinnati,14,Motor City Bowl (Detroit MI)
 684,17,Dec 28 2000,Thu,Boise State,38,,Texas-El Paso,23,Humanitarian Bowl (Boise ID)
-685,17,Dec 28 2000,Thu,Iowa State,37,,Pittsburgh,29,Insight Bowl (Phoenix AZ)
-686,17,Dec 28 2000,Thu,North Carolina State,38,,Minnesota,30,Micron PC Bowl (Miami FL)
-687,17,Dec 28 2000,Thu,West Virginia,49,,Mississippi,38,Music City Bowl (Nashville TN)
-688,17,Dec 29 2000,Fri,(23) Colorado State,22,,(22) Louisville,17,Liberty Bowl (Memphis TN)
+685,17,Dec 28 2000,Thu,Iowa State,37,N,Pittsburgh,29,Insight Bowl (Phoenix AZ)
+686,17,Dec 28 2000,Thu,North Carolina State,38,N,Minnesota,30,Micron PC Bowl (Miami FL)
+687,17,Dec 28 2000,Thu,West Virginia,49,N,Mississippi,38,Music City Bowl (Nashville TN)
+688,17,Dec 29 2000,Fri,(23) Colorado State,22,N,(22) Louisville,17,Liberty Bowl (Memphis TN)
 689,17,Dec 29 2000,Fri,Louisiana State,28,@,(15) Georgia Tech,14,Peach Bowl (Atlanta GA)
-690,17,Dec 29 2000,Fri,(8) Oregon,35,,(12) Texas,30,Holiday Bowl (San Diego CA)
-691,17,Dec 29 2000,Fri,Wisconsin,21,,UCLA,20,Sun Bowl (El Paso TX)
-692,17,Dec 30 2000,Sat,(9) Nebraska,66,,(18) Northwestern,17,Alamo Bowl (San Antonio TX)
-693,17,Dec 31 2000,Sun,Air Force,37,,Fresno State,34,Silicon Valley Bowl (San Jose CA)
-694,17,Dec 31 2000,Sun,Mississippi State,43,,Texas A&amp;M,41,Independence Bowl (Shreveport LA)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-695,18,Jan 1 2001,Mon,(11) Kansas State,35,,(21) Tennessee,21,Cotton Bowl (Dallas TX)
-696,18,Jan 1 2001,Mon,(17) Michigan,31,,(20) Auburn,28,Citrus Bowl (Orlando FL)
-697,18,Jan 1 2001,Mon,(5) Oregon State,41,,(10) Notre Dame,9,Fiesta Bowl (Tempe AZ)
-698,18,Jan 1 2001,Mon,South Carolina,24,,(19) Ohio State,7,Outback Bowl (Tampa FL)
-699,18,Jan 1 2001,Mon,(6) Virginia Tech,41,,(16) Clemson,20,Gator Bowl (Jacksonville FL)
-700,18,Jan 1 2001,Mon,(4) Washington,34,,(14) Purdue,24,Rose Bowl (Pasadena CA)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-701,19,Jan 2 2001,Tue,(2) Miami (FL),37,,(7) Florida,20,Sugar Bowl (New Orleans LA)
-702,19,Jan 3 2001,Wed,(1) Oklahoma,13,,(3) Florida State,2,Orange Bowl (Miami FL)
+690,17,Dec 29 2000,Fri,(8) Oregon,35,N,(12) Texas,30,Holiday Bowl (San Diego CA)
+691,17,Dec 29 2000,Fri,Wisconsin,21,N,UCLA,20,Sun Bowl (El Paso TX)
+692,17,Dec 30 2000,Sat,(9) Nebraska,66,N,(18) Northwestern,17,Alamo Bowl (San Antonio TX)
+693,17,Dec 31 2000,Sun,Air Force,37,N,Fresno State,34,Silicon Valley Bowl (San Jose CA)
+694,17,Dec 31 2000,Sun,Mississippi State,43,N,Texas A&M,41,Independence Bowl (Shreveport LA)
+695,18,Jan 1 2001,Mon,(11) Kansas State,35,N,(21) Tennessee,21,Cotton Bowl (Dallas TX)
+696,18,Jan 1 2001,Mon,(17) Michigan,31,N,(20) Auburn,28,Citrus Bowl (Orlando FL)
+697,18,Jan 1 2001,Mon,(5) Oregon State,41,N,(10) Notre Dame,9,Fiesta Bowl (Tempe AZ)
+698,18,Jan 1 2001,Mon,South Carolina,24,N,(19) Ohio State,7,Outback Bowl (Tampa FL)
+699,18,Jan 1 2001,Mon,(6) Virginia Tech,41,N,(16) Clemson,20,Gator Bowl (Jacksonville FL)
+700,18,Jan 1 2001,Mon,(4) Washington,34,N,(14) Purdue,24,Rose Bowl (Pasadena CA)
+701,19,Jan 2 2001,Tue,(2) Miami (FL),37,N,(7) Florida,20,Sugar Bowl (New Orleans LA)
+702,19,Jan 3 2001,Wed,(1) Oklahoma,13,N,(3) Florida State,2,Orange Bowl (Miami FL)

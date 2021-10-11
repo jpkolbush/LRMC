@@ -1,17 +1,15 @@
-
 Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-1,1,Aug 23 2001,Thu,Louisville,45,,New Mexico State,24,John Thompson Classic (Louisville KY)
-2,1,Aug 25 2001,Sat,Brigham Young,70,,Tulane,35,BCA Classic (Provo UT)
-3,1,Aug 25 2001,Sat,(4) Nebraska,21,,Texas Christian,7,Pigskin Classic (Lincoln NE)
-4,1,Aug 25 2001,Sat,(3) Oklahoma,41,,North Carolina,27,Hispanic Coaches Classic (Norman OK)
-5,1,Aug 25 2001,Sat,(22) Wisconsin,26,,Virginia,17,Eddie Robinson Classic (Madison WI)
-6,1,Aug 26 2001,Sun,Fresno State,24,@,Colorado,22,Jim Thorpe Classic (Boulder CO)
-7,1,Aug 26 2001,Sun,(11) Georgia Tech,13,,Syracuse,7,Kick-off Classic (East Rutherford NJ)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
+1,1,Aug 23 2001,Thu,Louisville,45,,New Mexico State,24,
+2,1,Aug 25 2001,Sat,Brigham Young,70,,Tulane,35,
+3,1,Aug 25 2001,Sat,(4) Nebraska,21,,Texas Christian,7,
+4,1,Aug 25 2001,Sat,(3) Oklahoma,41,,North Carolina,27,
+5,1,Aug 25 2001,Sat,(22) Wisconsin,26,,Virginia,17,
+6,1,Aug 26 2001,Sun,Fresno State,24,@,Colorado,22,
+7,1,Aug 26 2001,Sun,(10) Georgia Tech,13,N,Syracuse,7,
 8,2,Aug 30 2001,Thu,Akron,31,,Ohio,29,
 9,2,Aug 30 2001,Thu,Alabama-Birmingham,41,,Montana State,13,
 10,2,Aug 30 2001,Thu,Arizona,23,@,San Diego State,10,
-11,2,Aug 30 2001,Thu,Arkansas,14,,Nevada-Las Vegas,10,Little Rock AR
+11,2,Aug 30 2001,Thu,Arkansas,14,,Nevada-Las Vegas,10,
 12,2,Aug 30 2001,Thu,Central Michigan,42,,Eastern Kentucky,28,
 13,2,Aug 30 2001,Thu,Middle Tennessee State,37,@,Vanderbilt,28,
 14,2,Aug 30 2001,Thu,Northern Illinois,20,,South Florida,17,
@@ -26,7 +24,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 23,2,Sep 1 2001,Sat,Bowling Green State,20,@,Missouri,13,
 24,2,Sep 1 2001,Sat,Brigham Young,52,,Nevada,7,
 25,2,Sep 1 2001,Sat,(19) Clemson,21,,Central Florida,13,
-26,2,Sep 1 2001,Sat,Colorado,41,,(24) Colorado State,14,Denver CO
+26,2,Sep 1 2001,Sat,Colorado,41,N,(24) Colorado State,14,
 27,2,Sep 1 2001,Sat,Eastern Michigan,16,,Southeast Missouri State,12,
 28,2,Sep 1 2001,Sat,(1) Florida,49,,Marshall,14,
 29,2,Sep 1 2001,Sat,(6) Florida State,55,@,Duke,13,
@@ -35,9 +33,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 32,2,Sep 1 2001,Sat,Illinois,44,@,California,17,
 33,2,Sep 1 2001,Sat,Iowa,51,,Kent State,0,
 34,2,Sep 1 2001,Sat,Kansas,24,,Missouri State,10,
-35,2,Sep 1 2001,Sat,(14) Louisiana State,48,,Tulane,17,
-36,2,Sep 1 2001,Sat,Louisiana Tech,36,,Southern Methodist,6,Shreveport LA
-37,2,Sep 1 2001,Sat,Louisiana-Lafayette,20,,Nicholls State,0,
+35,2,Sep 1 2001,Sat,Louisiana,20,,Nicholls State,0,
+36,2,Sep 1 2001,Sat,(14) Louisiana State,48,,Tulane,17,
+37,2,Sep 1 2001,Sat,Louisiana Tech,36,,Southern Methodist,6,
 38,2,Sep 1 2001,Sat,Louisville,36,@,Kentucky,10,
 39,2,Sep 1 2001,Sat,Maryland,23,,North Carolina,7,
 40,2,Sep 1 2001,Sat,(2) Miami (FL),33,@,Penn State,7,
@@ -55,7 +53,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 52,2,Sep 1 2001,Sat,Southern Mississippi,17,,Oklahoma State,9,
 53,2,Sep 1 2001,Sat,(8) Tennessee,33,,Syracuse,9,
 54,2,Sep 1 2001,Sat,(5) Texas,41,,New Mexico State,7,
-55,2,Sep 1 2001,Sat,Texas A&amp;M,38,,McNeese State,24,
+55,2,Sep 1 2001,Sat,Texas A&M,38,,McNeese State,24,
 56,2,Sep 1 2001,Sat,Texas Christian,19,@,North Texas,5,
 57,2,Sep 1 2001,Sat,(17) UCLA,20,@,(25) Alabama,17,
 58,2,Sep 1 2001,Sat,Utah,23,,Utah State,19,
@@ -63,12 +61,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 60,2,Sep 1 2001,Sat,(9) Virginia Tech,52,,Connecticut,10,
 61,2,Sep 1 2001,Sat,Wake Forest,21,@,East Carolina,19,
 62,2,Sep 1 2001,Sat,Wyoming,20,,Furman,14,
-63,2,Sep 2 2001,Sun,(19) Fresno State,44,,(22) Oregon State,24,
+63,2,Sep 2 2001,Sun,Fresno State,44,,(10) Oregon State,24,
 64,2,Sep 2 2001,Sun,Purdue,19,@,Cincinnati,14,
 65,2,Sep 3 2001,Mon,(18) Mississippi State,30,,Memphis,10,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 66,3,Sep 6 2001,Thu,North Carolina State,35,,Indiana,14,
-67,3,Sep 6 2001,Thu,Texas A&amp;M,28,@,Wyoming,20,
+67,3,Sep 6 2001,Thu,Texas A&M,28,@,Wyoming,20,
 68,3,Sep 7 2001,Fri,(16) Northwestern,37,@,Nevada-Las Vegas,28,
 69,3,Sep 8 2001,Sat,Air Force,42,,Tennessee Tech,0,
 70,3,Sep 8 2001,Sat,Alabama,12,@,Vanderbilt,9,
@@ -88,7 +85,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 84,3,Sep 8 2001,Sat,(6) Florida State,29,,Alabama-Birmingham,7,
 85,3,Sep 8 2001,Sat,(19) Fresno State,32,@,(23) Wisconsin,20,
 86,3,Sep 8 2001,Sat,(10) Georgia Tech,70,@,Navy,7,
-87,3,Sep 8 2001,Sat,Hawaii,30,,Montana,12,Wailuku HI
+87,3,Sep 8 2001,Sat,Hawaii,30,,Montana,12,
 88,3,Sep 8 2001,Sat,Illinois,17,,Northern Illinois,12,
 89,3,Sep 8 2001,Sat,Iowa,44,,Miami (OH),19,
 90,3,Sep 8 2001,Sat,Iowa State,45,,Northern Iowa,0,
@@ -103,7 +100,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 99,3,Sep 8 2001,Sat,(1) Miami (FL),61,,Rutgers,0,
 100,3,Sep 8 2001,Sat,Michigan State,35,,Central Michigan,21,
 101,3,Sep 8 2001,Sat,Middle Tennessee State,54,,Troy,17,
-102,3,Sep 8 2001,Sat,Minnesota,44,,Louisiana-Lafayette,14,
+102,3,Sep 8 2001,Sat,Minnesota,44,,Louisiana,14,
 103,3,Sep 8 2001,Sat,Missouri,40,,Texas State,6,
 104,3,Sep 8 2001,Sat,(5) Nebraska,27,,(17) Notre Dame,10,
 105,3,Sep 8 2001,Sat,(24) Ohio State,28,,Akron,14,
@@ -128,7 +125,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 124,3,Sep 8 2001,Sat,(15) Washington,23,,(11) Michigan,18,
 125,3,Sep 8 2001,Sat,Washington State,41,@,Boise State,20,
 126,3,Sep 8 2001,Sat,West Virginia,20,,Ohio,3,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 127,4,Sep 20 2001,Thu,(4) Nebraska,48,,Rice,3,
 128,4,Sep 20 2001,Thu,(18) South Carolina,16,@,(17) Mississippi State,14,
 129,4,Sep 22 2001,Sat,Alabama,31,,Arkansas,10,
@@ -141,7 +137,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 136,4,Sep 22 2001,Sat,Buffalo,37,@,Connecticut,20,
 137,4,Sep 22 2001,Sat,Central Florida,36,@,Tulane,29,
 138,4,Sep 22 2001,Sat,Colorado,27,,Kansas,16,
-139,4,Sep 22 2001,Sat,East Carolina,38,,William &amp; Mary,23,
+139,4,Sep 22 2001,Sat,East Carolina,38,,William & Mary,23,
 140,4,Sep 22 2001,Sat,(2) Florida,44,@,Kentucky,10,
 141,4,Sep 22 2001,Sat,(11) Fresno State,37,@,Tulsa,18,
 142,4,Sep 22 2001,Sat,Illinois,34,,(25) Louisville,10,
@@ -165,12 +161,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 160,4,Sep 22 2001,Sat,(7) Oregon,24,,Southern California,22,
 161,4,Sep 22 2001,Sat,Purdue,33,,Akron,14,
 162,4,Sep 22 2001,Sat,San Diego State,14,@,Colorado State,7,
-163,4,Sep 22 2001,Sat,Southern Mississippi,35,@,Louisiana-Lafayette,10,
+163,4,Sep 22 2001,Sat,Southern Mississippi,35,@,Louisiana,10,
 164,4,Sep 22 2001,Sat,Stanford,51,,Arizona State,28,
 165,4,Sep 22 2001,Sat,Syracuse,31,,Auburn,14,
 166,4,Sep 22 2001,Sat,(5) Texas,53,@,Houston,26,
-167,4,Sep 22 2001,Sat,Texas A&amp;M,21,,Oklahoma State,7,
-168,4,Sep 22 2001,Sat,Texas Tech,42,@,North Texas,14,Irving TX
+167,4,Sep 22 2001,Sat,Texas A&M,21,,Oklahoma State,7,
+168,4,Sep 22 2001,Sat,Texas Tech,42,@,North Texas,14,
 169,4,Sep 22 2001,Sat,Toledo,52,@,Central Michigan,28,
 170,4,Sep 22 2001,Sat,Troy,26,,Nicholls State,0,
 171,4,Sep 22 2001,Sat,(14) UCLA,13,,(21) Ohio State,6,
@@ -183,13 +179,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 178,4,Sep 22 2001,Sat,West Virginia,34,,Kent State,14,
 179,4,Sep 22 2001,Sat,Wisconsin,18,@,Penn State,6,
 180,4,Sep 22 2001,Sat,Wyoming,43,@,Utah State,42,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 181,5,Sep 27 2001,Thu,(1) Miami (FL),43,@,Pittsburgh,21,
 182,5,Sep 29 2001,Sat,Air Force,45,@,San Diego State,21,
 183,5,Sep 29 2001,Sat,Akron,14,,Kent State,10,
 184,5,Sep 29 2001,Sat,Arizona State,53,,San Jose State,15,
 185,5,Sep 29 2001,Sat,Auburn,24,@,Vanderbilt,21,
-186,5,Sep 29 2001,Sat,Boise State,45,@,Idaho,13,Pullman WA
+186,5,Sep 29 2001,Sat,Boise State,45,@,Idaho,13,
 187,5,Sep 29 2001,Sat,Boston College,31,,Army,10,
 188,5,Sep 29 2001,Sat,(20) Brigham Young,35,@,Nevada-Las Vegas,31,
 189,5,Sep 29 2001,Sat,Central Michigan,16,@,Buffalo,8,
@@ -207,7 +202,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 201,5,Sep 29 2001,Sat,Maryland,32,,West Virginia,20,
 202,5,Sep 29 2001,Sat,Miami (OH),28,@,Ball State,20,
 203,5,Sep 29 2001,Sat,(17) Michigan,45,,(22) Illinois,20,
-204,5,Sep 29 2001,Sat,Middle Tennessee State,26,@,Louisiana-Lafayette,9,
+204,5,Sep 29 2001,Sat,Middle Tennessee State,26,@,Louisiana,9,
 205,5,Sep 29 2001,Sat,Mississippi,42,@,Kentucky,31,
 206,5,Sep 29 2001,Sat,(4) Nebraska,36,@,Missouri,3,
 207,5,Sep 29 2001,Sat,New Mexico State,31,@,Louisiana-Monroe,0,
@@ -226,7 +221,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 220,5,Sep 29 2001,Sat,Syracuse,44,,East Carolina,30,
 221,5,Sep 29 2001,Sat,(7) Tennessee,26,,(14) Louisiana State,18,
 222,5,Sep 29 2001,Sat,(5) Texas,42,,Texas Tech,7,
-223,5,Sep 29 2001,Sat,Texas A&amp;M,24,,Notre Dame,3,
+223,5,Sep 29 2001,Sat,Texas A&M,24,,Notre Dame,3,
 224,5,Sep 29 2001,Sat,Texas Christian,34,@,Houston,17,
 225,5,Sep 29 2001,Sat,Texas-El Paso,26,,Tulsa,10,
 226,5,Sep 29 2001,Sat,(25) Toledo,41,,Northern Illinois,20,
@@ -239,12 +234,11 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 233,5,Sep 29 2001,Sat,Washington State,48,@,Arizona,21,
 234,5,Sep 29 2001,Sat,Western Michigan,31,@,Eastern Michigan,10,
 235,5,Sep 29 2001,Sat,Wisconsin,24,,Western Kentucky,6,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 236,6,Oct 4 2001,Thu,Louisville,7,,Colorado State,2,
 237,6,Oct 5 2001,Fri,(20) Brigham Young,54,,Utah State,34,
-238,6,Oct 6 2001,Sat,Air Force,24,@,Navy,18,Landover MD
-239,6,Oct 6 2001,Sat,Alabama,56,,Texas-El Paso,7,Birmingham AL
-240,6,Oct 6 2001,Sat,Arizona State,63,,Louisiana-Lafayette,27,
+238,6,Oct 6 2001,Sat,Air Force,24,@,Navy,18,
+239,6,Oct 6 2001,Sat,Alabama,56,,Texas-El Paso,7,
+240,6,Oct 6 2001,Sat,Arizona State,63,,Louisiana,27,
 241,6,Oct 6 2001,Sat,Arkansas,42,,Weber State,19,
 242,6,Oct 6 2001,Sat,Army,28,,Houston,14,
 243,6,Oct 6 2001,Sat,Auburn,16,,Mississippi State,14,
@@ -280,25 +274,24 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 273,6,Oct 6 2001,Sat,North Carolina State,17,@,Wake Forest,14,
 274,6,Oct 6 2001,Sat,Notre Dame,24,,Pittsburgh,7,
 275,6,Oct 6 2001,Sat,Ohio State,38,,(14) Northwestern,20,
-276,6,Oct 6 2001,Sat,(3) Oklahoma,14,,(5) Texas,3,Dallas TX
+276,6,Oct 6 2001,Sat,(3) Oklahoma,14,N,(5) Texas,3,
 277,6,Oct 6 2001,Sat,(7) Oregon,63,@,Arizona,28,
 278,6,Oct 6 2001,Sat,(21) Purdue,23,,Iowa,14,
 279,6,Oct 6 2001,Sat,Rice,45,,Boise State,14,
 280,6,Oct 6 2001,Sat,San Diego State,40,,Eastern Illinois,7,
 281,6,Oct 6 2001,Sat,(13) South Carolina,42,,Kentucky,6,
 282,6,Oct 6 2001,Sat,Syracuse,24,@,Rutgers,17,
-283,6,Oct 6 2001,Sat,(24) Texas A&amp;M,16,,Baylor,10,
+283,6,Oct 6 2001,Sat,(24) Texas A&M,16,,Baylor,10,
 284,6,Oct 6 2001,Sat,(23) Toledo,48,@,Ohio,41,
 285,6,Oct 6 2001,Sat,Utah,52,,South Florida,21,
 286,6,Oct 6 2001,Sat,(8) Virginia Tech,35,@,West Virginia,0,
 287,6,Oct 6 2001,Sat,(11) Washington,27,,Southern California,24,
 288,6,Oct 6 2001,Sat,Washington State,34,,Oregon State,27,
 289,6,Oct 6 2001,Sat,Western Michigan,31,,Akron,14,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 290,7,Oct 11 2001,Thu,(22) Maryland,20,@,(15) Georgia Tech,17,
 291,7,Oct 13 2001,Sat,Air Force,24,,Wyoming,13,
-292,7,Oct 13 2001,Sat,Arkansas,10,,(9) South Carolina,7,Little Rock AR
-293,7,Oct 13 2001,Sat,Arkansas State,26,,Louisiana-Lafayette,20,
+292,7,Oct 13 2001,Sat,Arkansas,10,,(9) South Carolina,7,
+293,7,Oct 13 2001,Sat,Arkansas State,26,,Louisiana,20,
 294,7,Oct 13 2001,Sat,Auburn,23,,(1) Florida,20,
 295,7,Oct 13 2001,Sat,Ball State,35,@,Eastern Michigan,14,
 296,7,Oct 13 2001,Sat,Boise State,41,,Tulsa,10,
@@ -306,7 +299,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 298,7,Oct 13 2001,Sat,Central Florida,63,,Liberty,0,
 299,7,Oct 13 2001,Sat,Cincinnati,31,@,Alabama-Birmingham,17,
 300,7,Oct 13 2001,Sat,(16) Clemson,45,@,North Carolina State,37,
-301,7,Oct 13 2001,Sat,(20) Colorado,31,,(25) Texas A&amp;M,21,
+301,7,Oct 13 2001,Sat,(20) Colorado,31,,(25) Texas A&M,21,
 302,7,Oct 13 2001,Sat,East Carolina,49,@,Army,26,
 303,7,Oct 13 2001,Sat,(8) Fresno State,25,@,Colorado State,22,
 304,7,Oct 13 2001,Sat,(19) Georgia,30,@,Vanderbilt,14,
@@ -350,7 +343,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 342,7,Oct 13 2001,Sat,Washington State,45,@,(23) Stanford,39,
 343,7,Oct 13 2001,Sat,Western Michigan,37,,Bowling Green State,28,
 344,7,Oct 13 2001,Sat,Wisconsin,20,@,(21) Ohio State,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 345,8,Oct 16 2001,Tue,Louisville,24,,Southern Mississippi,14,
 346,8,Oct 18 2001,Thu,(19) Washington State,53,,Montana State,28,
 347,8,Oct 19 2001,Fri,Boise State,35,@,(8) Fresno State,30,
@@ -373,8 +365,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 364,8,Oct 20 2001,Sat,Iowa,42,,Indiana,28,
 365,8,Oct 20 2001,Sat,Iowa State,28,,Oklahoma State,14,
 366,8,Oct 20 2001,Sat,Kent State,35,,Buffalo,13,
-367,8,Oct 20 2001,Sat,Louisiana State,42,@,Mississippi State,0,
-368,8,Oct 20 2001,Sat,Louisiana-Lafayette,54,@,Idaho,37,Pullman WA
+367,8,Oct 20 2001,Sat,Louisiana,54,@,Idaho,37,
+368,8,Oct 20 2001,Sat,Louisiana State,42,@,Mississippi State,0,
 369,8,Oct 20 2001,Sat,Marshall,42,,Central Michigan,21,
 370,8,Oct 20 2001,Sat,(12) Maryland,59,,Duke,17,
 371,8,Oct 20 2001,Sat,Miami (OH),36,@,Ohio,24,
@@ -398,14 +390,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 389,8,Oct 20 2001,Sat,Syracuse,45,,Temple,3,
 390,8,Oct 20 2001,Sat,(11) Tennessee,35,@,Alabama,24,
 391,8,Oct 20 2001,Sat,(9) Texas,41,,(14) Colorado,7,
-392,8,Oct 20 2001,Sat,Texas A&amp;M,31,@,Kansas State,24,
+392,8,Oct 20 2001,Sat,Texas A&M,31,@,Kansas State,24,
 393,8,Oct 20 2001,Sat,Texas Christian,38,,Army,20,
 394,8,Oct 20 2001,Sat,Troy,44,,Cal State Northridge,31,
 395,8,Oct 20 2001,Sat,(4) UCLA,56,,California,17,
 396,8,Oct 20 2001,Sat,Utah,35,,Wyoming,0,
 397,8,Oct 20 2001,Sat,Utah State,28,,Idaho State,27,
 398,8,Oct 20 2001,Sat,(15) Washington,31,,Arizona,28,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 399,9,Oct 25 2001,Thu,(1) Miami (FL),45,,West Virginia,3,
 400,9,Oct 26 2001,Fri,Hawaii,38,,(18) Fresno State,34,
 401,9,Oct 27 2001,Sat,Alabama-Birmingham,17,@,Memphis,14,
@@ -420,12 +411,12 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 410,9,Oct 27 2001,Sat,(25) Colorado,22,@,Oklahoma State,19,
 411,9,Oct 27 2001,Sat,Colorado State,19,,Utah,17,
 412,9,Oct 27 2001,Sat,Eastern Michigan,24,,Buffalo,20,
-413,9,Oct 27 2001,Sat,(6) Florida,24,,(15) Georgia,10,Jacksonville FL
+413,9,Oct 27 2001,Sat,(6) Florida,24,N,(15) Georgia,10,
 414,9,Oct 27 2001,Sat,(19) Florida State,52,,(10) Maryland,31,
 415,9,Oct 27 2001,Sat,Kansas State,40,,Kansas,6,
 416,9,Oct 27 2001,Sat,Kent State,24,@,Ohio,14,
-417,9,Oct 27 2001,Sat,Louisiana Tech,41,,Rice,38,
-418,9,Oct 27 2001,Sat,Louisiana-Lafayette,17,,Louisiana-Monroe,12,
+417,9,Oct 27 2001,Sat,Louisiana,17,,Louisiana-Monroe,12,
+418,9,Oct 27 2001,Sat,Louisiana Tech,41,,Rice,38,
 419,9,Oct 27 2001,Sat,Louisville,28,@,Cincinnati,13,
 420,9,Oct 27 2001,Sat,Marshall,50,,Akron,33,
 421,9,Oct 27 2001,Sat,Miami (OH),25,,Western Michigan,11,
@@ -453,14 +444,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 443,9,Oct 27 2001,Sat,Syracuse,22,@,(5) Virginia Tech,14,
 444,9,Oct 27 2001,Sat,(9) Tennessee,17,,(12) South Carolina,10,
 445,9,Oct 27 2001,Sat,(7) Texas,35,@,Missouri,16,
-446,9,Oct 27 2001,Sat,Texas A&amp;M,24,,Iowa State,21,
+446,9,Oct 27 2001,Sat,Texas A&M,24,,Iowa State,21,
 447,9,Oct 27 2001,Sat,Texas Tech,63,@,Baylor,19,
 448,9,Oct 27 2001,Sat,Toledo,21,,Navy,20,
 449,9,Oct 27 2001,Sat,Troy,20,,Southern Utah,17,
 450,9,Oct 27 2001,Sat,Utah State,30,,Central Florida,27,
 451,9,Oct 27 2001,Sat,Vanderbilt,42,@,Duke,28,
 452,9,Oct 27 2001,Sat,(13) Washington,33,@,Arizona State,31,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 453,10,Oct 30 2001,Tue,East Carolina,37,@,Texas Christian,30,
 454,10,Nov 1 2001,Thu,(13) Brigham Young,56,,Colorado State,34,
 455,10,Nov 1 2001,Thu,(23) Georgia Tech,28,,(22) North Carolina,21,
@@ -506,14 +496,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 495,10,Nov 3 2001,Sat,Southern California,16,,Oregon State,13,
 496,10,Nov 3 2001,Sat,(7) Tennessee,28,@,Notre Dame,18,
 497,10,Nov 3 2001,Sat,(5) Texas,49,@,Baylor,10,
-498,10,Nov 3 2001,Sat,Texas Tech,12,,(24) Texas A&amp;M,0,
+498,10,Nov 3 2001,Sat,Texas Tech,12,,(24) Texas A&M,0,
 499,10,Nov 3 2001,Sat,Utah,42,@,Nevada-Las Vegas,14,
 500,10,Nov 3 2001,Sat,Wake Forest,34,@,Virginia,30,
 501,10,Nov 3 2001,Sat,(11) Washington,42,,(10) Stanford,28,
 502,10,Nov 3 2001,Sat,(16) Washington State,20,,(9) UCLA,14,
 503,10,Nov 3 2001,Sat,West Virginia,80,,Rutgers,7,
 504,10,Nov 3 2001,Sat,Wisconsin,34,,Iowa,28,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 505,11,Nov 6 2001,Tue,Toledo,41,,Western Michigan,35,
 506,11,Nov 8 2001,Thu,Colorado State,28,,Air Force,21,
 507,11,Nov 10 2001,Sat,Alabama,24,,Mississippi State,17,
@@ -546,9 +535,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 534,11,Nov 10 2001,Sat,New Mexico,27,,Nevada-Las Vegas,17,
 535,11,Nov 10 2001,Sat,New Mexico State,28,,Arkansas State,17,
 536,11,Nov 10 2001,Sat,North Carolina State,34,@,(10) Florida State,28,
-537,11,Nov 10 2001,Sat,North Texas,42,,Louisiana-Lafayette,17,
+537,11,Nov 10 2001,Sat,North Texas,42,,Louisiana,17,
 538,11,Nov 10 2001,Sat,Ohio State,35,,Purdue,9,
-539,11,Nov 10 2001,Sat,(3) Oklahoma,31,,Texas A&amp;M,10,
+539,11,Nov 10 2001,Sat,(3) Oklahoma,31,,Texas A&M,10,
 540,11,Nov 10 2001,Sat,(7) Oregon,21,@,(17) UCLA,20,
 541,11,Nov 10 2001,Sat,Oregon State,49,,(8) Washington,24,
 542,11,Nov 10 2001,Sat,Pittsburgh,42,@,Rutgers,0,
@@ -569,7 +558,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 557,11,Nov 10 2001,Sat,(23) Virginia Tech,35,@,Temple,0,
 558,11,Nov 10 2001,Sat,Wake Forest,32,@,North Carolina,31,
 559,11,Nov 10 2001,Sat,(11) Washington State,28,@,Arizona State,16,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 560,12,Nov 15 2001,Thu,(19) Louisville,39,@,East Carolina,34,
 561,12,Nov 17 2001,Sat,Akron,41,@,Buffalo,14,
 562,12,Nov 17 2001,Sat,Alabama,31,@,(17) Auburn,7,
@@ -597,7 +585,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 584,12,Nov 17 2001,Sat,(11) Michigan,20,@,Wisconsin,17,
 585,12,Nov 17 2001,Sat,Middle Tennessee State,38,,Connecticut,14,
 586,12,Nov 17 2001,Sat,Nevada-Las Vegas,34,@,Air Force,10,
-587,12,Nov 17 2001,Sat,New Mexico State,49,@,Louisiana-Lafayette,46,
+587,12,Nov 17 2001,Sat,New Mexico State,49,@,Louisiana,46,
 588,12,Nov 17 2001,Sat,North Carolina,52,,Duke,17,
 589,12,Nov 17 2001,Sat,North Texas,50,@,Idaho,27,
 590,12,Nov 17 2001,Sat,Northern Illinois,33,,Ball State,29,
@@ -622,7 +610,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 609,12,Nov 17 2001,Sat,(18) Virginia Tech,31,@,Virginia,17,
 610,12,Nov 17 2001,Sat,(16) Washington,26,,(9) Washington State,14,
 611,12,Nov 17 2001,Sat,Western Michigan,20,,Central Michigan,17,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 612,13,Nov 22 2001,Thu,(10) Illinois,34,,Northwestern,28,
 613,13,Nov 22 2001,Thu,Mississippi State,36,,Mississippi,28,
 614,13,Nov 22 2001,Thu,Nicholls State,28,@,Arkansas State,22,
@@ -633,13 +620,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 619,13,Nov 23 2001,Fri,(23) Fresno State,40,,San Jose State,21,
 620,13,Nov 23 2001,Fri,Louisiana State,41,,(24) Arkansas,38,
 621,13,Nov 23 2001,Fri,Southern Mississippi,28,@,East Carolina,21,
-622,13,Nov 23 2001,Fri,(5) Texas,21,@,Texas A&amp;M,7,
+622,13,Nov 23 2001,Fri,(5) Texas,21,@,Texas A&M,7,
 623,13,Nov 23 2001,Fri,Texas Christian,37,,(17) Louisville,22,
 624,13,Nov 24 2001,Sat,Akron,65,,Eastern Michigan,62,
 625,13,Nov 24 2001,Sat,Ball State,35,@,Western Michigan,31,
 626,13,Nov 24 2001,Sat,Baylor,56,,Southern Illinois,12,
 627,13,Nov 24 2001,Sat,Boise State,26,,Central Michigan,10,
-628,13,Nov 24 2001,Sat,Central Florida,31,,Louisiana-Lafayette,0,
+628,13,Nov 24 2001,Sat,Central Florida,31,,Louisiana,0,
 629,13,Nov 24 2001,Sat,Cincinnati,36,@,Memphis,34,
 630,13,Nov 24 2001,Sat,(19) Georgia,31,@,(21) Georgia Tech,17,
 631,13,Nov 24 2001,Sat,Hawaii,52,,Air Force,30,
@@ -668,62 +655,56 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 654,13,Nov 24 2001,Sat,(7) Tennessee,38,,Vanderbilt,0,
 655,13,Nov 24 2001,Sat,Texas Tech,58,,Stephen F. Austin,3,
 656,13,Nov 24 2001,Sat,Wake Forest,38,,Northern Illinois,35,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-657,14,Nov 29 2001,Thu,Alabama,28,,Southern Mississippi,15,Birmingham AL
+657,14,Nov 29 2001,Thu,Alabama,28,,Southern Mississippi,15,
 658,14,Nov 30 2001,Fri,Toledo,41,,(20) Marshall,36,MAC Championship (Toledo OH)
 659,14,Dec 1 2001,Sat,Air Force,38,,Utah,37,
-660,14,Dec 1 2001,Sat,Army,26,,Navy,17,Philadelphia PA
-661,14,Dec 1 2001,Sat,(10) Brigham Young,41,@,Mississippi State,38,
-662,14,Dec 1 2001,Sat,Cincinnati,42,,Louisiana-Monroe,10,
-663,14,Dec 1 2001,Sat,Clemson,59,,Duke,31,
-664,14,Dec 1 2001,Sat,(9) Colorado,39,,(3) Texas,37,Big 12 Championship (Dallas TX)
-665,14,Dec 1 2001,Sat,Florida State,28,,Georgia Tech,17,
-666,14,Dec 1 2001,Sat,(21) Fresno State,70,,Utah State,21,
-667,14,Dec 1 2001,Sat,(16) Georgia,35,,Houston,7,
-668,14,Dec 1 2001,Sat,Indiana,26,,Kentucky,15,
-669,14,Dec 1 2001,Sat,(22) Louisiana State,27,,(25) Auburn,14,
-670,14,Dec 1 2001,Sat,(1) Miami (FL),26,@,(14) Virginia Tech,24,
-671,14,Dec 1 2001,Sat,Michigan State,55,,Missouri,7,
-672,14,Dec 1 2001,Sat,Mississippi,38,,Vanderbilt,27,
-673,14,Dec 1 2001,Sat,North Carolina,19,,Southern Methodist,10,
-674,14,Dec 1 2001,Sat,Notre Dame,24,@,Purdue,18,
-675,14,Dec 1 2001,Sat,(4) Oregon,17,,Oregon State,14,
-676,14,Dec 1 2001,Sat,Pittsburgh,24,,Alabama-Birmingham,6,
-677,14,Dec 1 2001,Sat,(12) Stanford,41,@,San Jose State,14,
-678,14,Dec 1 2001,Sat,(5) Tennessee,34,@,(2) Florida,32,
-679,14,Dec 1 2001,Sat,Troy,18,,North Texas,16,
-680,14,Dec 1 2001,Sat,UCLA,52,,Arizona State,42,
-681,14,Dec 1 2001,Sat,Virginia,20,,Penn State,14,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-682,15,Dec 7 2001,Fri,Texas Christian,14,@,Southern Mississippi,12,
-683,15,Dec 8 2001,Sat,Hawaii,72,,(9) Brigham Young,45,
-684,15,Dec 8 2001,Sat,(21) Louisiana State,31,,(2) Tennessee,20,SEC Championship (Atlanta GA)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-685,16,Dec 18 2001,Tue,Colorado State,45,,North Texas,20,New Orleans Bowl (New Orleans LA)
-686,16,Dec 19 2001,Wed,Marshall,64,,East Carolina,61,GMAC Bowl (Mobile AL)
-687,16,Dec 20 2001,Thu,Pittsburgh,34,,North Carolina State,19,Tangerine Bowl II (Orlando FL)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-688,17,Dec 25 2001,Tue,Utah,10,,Southern California,6,Las Vegas Bowl (Las Vegas NV)
-689,17,Dec 27 2001,Thu,Alabama,14,,Iowa State,13,Independence Bowl (Shreveport LA)
-690,17,Dec 27 2001,Thu,Georgia Tech,24,,(11) Stanford,14,Seattle Bowl (Seattle WA)
-691,17,Dec 28 2001,Fri,Boston College,20,,(16) Georgia,16,Music City Bowl (Nashville TN)
-692,17,Dec 28 2001,Fri,(9) Texas,47,,(21) Washington,43,Holiday Bowl (San Diego CA)
-693,17,Dec 28 2001,Fri,Texas A&amp;M,28,,Texas Christian,9,Gallery Furniture Bowl (Houston TX)
-694,17,Dec 29 2001,Sat,Iowa,19,,Texas Tech,16,Alamo Bowl (San Antonio TX)
-695,17,Dec 29 2001,Sat,(18) Syracuse,26,,Kansas State,3,Insight Bowl (Phoenix AZ)
-696,17,Dec 29 2001,Sat,(25) Toledo,23,,Cincinnati,16,Motor City Bowl (Pontiac MI)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-697,18,Dec 31 2001,Mon,Clemson,49,,Louisiana Tech,24,Humanitarian Bowl (Boise ID)
-698,18,Dec 31 2001,Mon,(23) Louisville,28,,(19) Brigham Young,10,Liberty Bowl (Memphis TN)
-699,18,Dec 31 2001,Mon,Michigan State,44,,(20) Fresno State,35,Silicon Valley Bowl (San Jose CA)
-700,18,Dec 31 2001,Mon,North Carolina,16,,Auburn,10,Peach Bowl (Atlanta GA)
-701,18,Dec 31 2001,Mon,(13) Washington State,33,,Purdue,27,Sun Bowl (El Paso TX)
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-702,19,Jan 1 2002,Tue,(24) Florida State,30,,(15) Virginia Tech,17,Gator Bowl (Jacksonville FL)
-703,19,Jan 1 2002,Tue,(12) Louisiana State,47,,(7) Illinois,34,Sugar Bowl (New Orleans LA)
-704,19,Jan 1 2002,Tue,(10) Oklahoma,10,,Arkansas,3,Cotton Bowl (Dallas TX)
-705,19,Jan 1 2002,Tue,(2) Oregon,38,,(3) Colorado,16,Fiesta Bowl (Tempe AZ)
-706,19,Jan 1 2002,Tue,(14) South Carolina,31,,(22) Ohio State,28,Outback Bowl (Tampa FL)
-707,19,Jan 1 2002,Tue,(8) Tennessee,45,,(17) Michigan,17,Citrus Bowl (Orlando FL)
-708,19,Jan 2 2002,Wed,(5) Florida,56,,(6) Maryland,23,Orange Bowl (Miami FL)
-709,19,Jan 3 2002,Thu,(1) Miami (FL),37,,(4) Nebraska,14,Rose Bowl (Pasadena CA)
+660,14,Dec 1 2001,Sat,Army,26,N,Navy,17,
+661,16,Dec 1 2001,Sat,(10) Brigham Young,41,@,Mississippi State,38,
+662,16,Dec 1 2001,Sat,Cincinnati,42,,Louisiana-Monroe,10,
+663,16,Dec 1 2001,Sat,Clemson,59,,Duke,31,
+664,16,Dec 1 2001,Sat,(9) Colorado,39,N,(3) Texas,37,Big 12 Championship (Dallas TX)
+665,16,Dec 1 2001,Sat,Florida State,28,,Georgia Tech,17,
+666,16,Dec 1 2001,Sat,(21) Fresno State,70,,Utah State,21,
+667,16,Dec 1 2001,Sat,(16) Georgia,35,,Houston,7,
+668,16,Dec 1 2001,Sat,Indiana,26,,Kentucky,15,
+669,16,Dec 1 2001,Sat,(22) Louisiana State,27,,(25) Auburn,14,
+670,16,Dec 1 2001,Sat,(1) Miami (FL),26,@,(14) Virginia Tech,24,
+671,16,Dec 1 2001,Sat,Michigan State,55,,Missouri,7,
+672,16,Dec 1 2001,Sat,Mississippi,38,,Vanderbilt,27,
+673,16,Dec 1 2001,Sat,North Carolina,19,,Southern Methodist,10,
+674,16,Dec 1 2001,Sat,Notre Dame,24,@,Purdue,18,
+675,16,Dec 1 2001,Sat,(4) Oregon,17,,Oregon State,14,
+676,16,Dec 1 2001,Sat,Pittsburgh,24,,Alabama-Birmingham,6,
+677,16,Dec 1 2001,Sat,(12) Stanford,41,@,San Jose State,14,
+678,16,Dec 1 2001,Sat,(5) Tennessee,34,@,(2) Florida,32,
+679,16,Dec 1 2001,Sat,Troy,18,,North Texas,16,
+680,16,Dec 1 2001,Sat,UCLA,52,,Arizona State,42,
+681,16,Dec 1 2001,Sat,Virginia,20,,Penn State,14,
+682,16,Dec 7 2001,Fri,Texas Christian,14,@,Southern Mississippi,12,
+683,16,Dec 8 2001,Sat,Hawaii,72,,(9) Brigham Young,45,
+684,16,Dec 8 2001,Sat,(21) Louisiana State,31,N,(2) Tennessee,20,SEC Championship (Atlanta GA)
+685,16,Dec 18 2001,Tue,Colorado State,45,N,North Texas,20,New Orleans Bowl (New Orleans LA)
+686,16,Dec 19 2001,Wed,Marshall,64,N,East Carolina,61,GMAC Bowl (Mobile AL)
+687,16,Dec 20 2001,Thu,Pittsburgh,34,N,North Carolina State,19,Tangerine Bowl II (Orlando FL)
+688,17,Dec 25 2001,Tue,Utah,10,N,Southern California,6,Las Vegas Bowl (Las Vegas NV)
+689,17,Dec 27 2001,Thu,Alabama,14,N,Iowa State,13,Independence Bowl (Shreveport LA)
+690,17,Dec 27 2001,Thu,Georgia Tech,24,N,(11) Stanford,14,Seattle Bowl (Seattle WA)
+691,17,Dec 28 2001,Fri,Boston College,20,N,(16) Georgia,16,Music City Bowl (Nashville TN)
+692,17,Dec 28 2001,Fri,(9) Texas,47,N,(21) Washington,43,Holiday Bowl (San Diego CA)
+693,17,Dec 28 2001,Fri,Texas A&M,28,N,Texas Christian,9,Gallery Furniture Bowl (Houston TX)
+694,17,Dec 29 2001,Sat,Iowa,19,N,Texas Tech,16,Alamo Bowl (San Antonio TX)
+695,17,Dec 29 2001,Sat,(18) Syracuse,26,N,Kansas State,3,Insight Bowl (Phoenix AZ)
+696,17,Dec 29 2001,Sat,(25) Toledo,23,N,Cincinnati,16,Motor City Bowl (Pontiac MI)
+697,18,Dec 31 2001,Mon,Clemson,49,N,Louisiana Tech,24,Humanitarian Bowl (Boise ID)
+698,18,Dec 31 2001,Mon,(23) Louisville,28,N,(19) Brigham Young,10,Liberty Bowl (Memphis TN)
+699,18,Dec 31 2001,Mon,Michigan State,44,N,(20) Fresno State,35,Silicon Valley Bowl (San Jose CA)
+700,18,Dec 31 2001,Mon,North Carolina,16,N,Auburn,10,Peach Bowl (Atlanta GA)
+701,18,Dec 31 2001,Mon,(13) Washington State,33,N,Purdue,27,Sun Bowl (El Paso TX)
+702,19,Jan 1 2002,Tue,(24) Florida State,30,N,(15) Virginia Tech,17,Gator Bowl (Jacksonville FL)
+703,19,Jan 1 2002,Tue,(12) Louisiana State,47,N,(7) Illinois,34,Sugar Bowl (New Orleans LA)
+704,19,Jan 1 2002,Tue,(10) Oklahoma,10,N,Arkansas,3,Cotton Bowl (Dallas TX)
+705,19,Jan 1 2002,Tue,(2) Oregon,38,N,(3) Colorado,16,Fiesta Bowl (Tempe AZ)
+706,19,Jan 1 2002,Tue,(14) South Carolina,31,N,(22) Ohio State,28,Outback Bowl (Tampa FL)
+707,19,Jan 1 2002,Tue,(8) Tennessee,45,N,(17) Michigan,17,Citrus Bowl (Orlando FL)
+708,19,Jan 2 2002,Wed,(5) Florida,56,N,(6) Maryland,23,Orange Bowl (Miami FL)
+709,19,Jan 3 2002,Thu,(1) Miami (FL),37,N,(4) Nebraska,14,Rose Bowl (Pasadena CA)

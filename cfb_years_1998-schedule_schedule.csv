@@ -1,10 +1,8 @@
-
 Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 1,1,Aug 29 1998,Sat,(15) Colorado State,23,@,(23) Michigan State,16,
 2,1,Aug 29 1998,Sat,(4) Nebraska,56,,Louisiana Tech,27,
 3,1,Aug 30 1998,Sun,Southern California,27,,Purdue,17,
-4,1,Aug 31 1998,Mon,(2) Florida State,23,,(14) Texas A&amp;M,14,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
+4,1,Aug 31 1998,Mon,(2) Florida State,23,N,(14) Texas A&M,14,
 5,2,Sep 3 1998,Thu,(24) Arizona,27,@,Hawaii,6,
 6,2,Sep 3 1998,Thu,North Carolina State,34,,Ohio,31,
 7,2,Sep 3 1998,Thu,Northern Iowa,13,@,Eastern Michigan,10,
@@ -12,13 +10,13 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 9,2,Sep 3 1998,Thu,Western Michigan,37,,Northern Illinois,23,
 10,2,Sep 5 1998,Sat,Air Force,42,,Wake Forest,0,
 11,2,Sep 5 1998,Sat,Alabama,38,,Brigham Young,31,
-12,2,Sep 5 1998,Sat,Arkansas,38,,Louisiana-Lafayette,17,
+12,2,Sep 5 1998,Sat,Arkansas,38,,Louisiana,17,
 13,2,Sep 5 1998,Sat,Boise State,26,,Cal State Northridge,13,
 14,2,Sep 5 1998,Sat,Boston College,41,@,Georgia Tech,31,
 15,2,Sep 5 1998,Sat,California,14,,Houston,10,
 16,2,Sep 5 1998,Sat,Central Florida,64,@,Louisiana Tech,30,
 17,2,Sep 5 1998,Sat,Clemson,33,,Furman,0,
-18,2,Sep 5 1998,Sat,Colorado,42,,(15) Colorado State,14,
+18,2,Sep 5 1998,Sat,Colorado,42,N,(15) Colorado State,14,
 19,2,Sep 5 1998,Sat,Duke,24,,Western Carolina,10,
 20,2,Sep 5 1998,Sat,(3) Florida,49,,Citadel,10,
 21,2,Sep 5 1998,Sat,(19) Georgia,56,,Kent State,3,
@@ -62,7 +60,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 59,2,Sep 5 1998,Sat,(18) Washington,42,@,(8) Arizona State,38,
 60,2,Sep 5 1998,Sat,Washington State,20,,Illinois,13,
 61,2,Sep 5 1998,Sat,(20) Wisconsin,26,@,San Diego State,14,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 62,3,Sep 10 1998,Thu,Wake Forest,26,,Navy,14,
 63,3,Sep 12 1998,Sat,Air Force,52,@,Nevada-Las Vegas,10,
 64,3,Sep 12 1998,Sat,Akron,35,@,Temple,28,
@@ -98,7 +95,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 94,3,Sep 12 1998,Sat,(4) Nebraska,24,@,California,3,
 95,3,Sep 12 1998,Sat,New Mexico,39,,Utah State,36,
 96,3,Sep 12 1998,Sat,North Carolina State,24,,(2) Florida State,7,
-97,3,Sep 12 1998,Sat,Northwestern State,24,@,Louisiana-Lafayette,22,
+97,3,Sep 12 1998,Sat,Northwestern State,24,@,Louisiana,22,
 98,3,Sep 12 1998,Sat,(1) Ohio State,49,,Toledo,0,
 99,3,Sep 12 1998,Sat,Oklahoma,10,@,Texas Christian,9,
 100,3,Sep 12 1998,Sat,(24) Oregon,33,@,Texas-El Paso,26,
@@ -107,7 +104,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 103,3,Sep 12 1998,Sat,Purdue,21,,Rice,19,
 104,3,Sep 12 1998,Sat,(22) Southern California,35,,San Diego State,6,
 105,3,Sep 12 1998,Sat,(19) Syracuse,38,@,(13) Michigan,28,
-106,3,Sep 12 1998,Sat,(18) Texas A&amp;M,28,,Louisiana Tech,7,
+106,3,Sep 12 1998,Sat,(18) Texas A&M,28,,Louisiana Tech,7,
 107,3,Sep 12 1998,Sat,Texas Tech,30,@,North Texas,0,
 108,3,Sep 12 1998,Sat,Tulane,31,@,Southern Methodist,21,
 109,3,Sep 12 1998,Sat,Tulsa,35,,Oklahoma State,20,
@@ -119,7 +116,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 115,3,Sep 12 1998,Sat,(17) Wisconsin,45,,Ohio,0,
 116,3,Sep 12 1998,Sat,Wyoming,17,,Montana State,9,
 117,3,Sep 12 1998,Sat,Youngstown State,24,@,Kent State,10,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 118,4,Sep 17 1998,Thu,Air Force,30,,Colorado State,27,
 119,4,Sep 19 1998,Sat,Alabama-Birmingham,38,,Tennessee Tech,6,
 120,4,Sep 19 1998,Sat,(16) Arizona,35,,Iowa,11,
@@ -141,7 +137,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 136,4,Sep 19 1998,Sat,(5) Kansas State,48,,Texas,7,
 137,4,Sep 19 1998,Sat,Kentucky,31,,Indiana,27,
 138,4,Sep 19 1998,Sat,(7) Louisiana State,31,@,Auburn,19,
-139,4,Sep 19 1998,Sat,Louisiana Tech,77,,Louisiana-Lafayette,14,
+139,4,Sep 19 1998,Sat,Louisiana Tech,77,,Louisiana,14,
 140,4,Sep 19 1998,Sat,Louisiana-Monroe,21,,Stephen F. Austin,10,
 141,4,Sep 19 1998,Sat,Louisville,35,@,Illinois,9,
 142,4,Sep 19 1998,Sat,Marshall,24,@,South Carolina,21,
@@ -160,7 +156,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 155,4,Sep 19 1998,Sat,Stanford,37,,North Carolina,34,
 156,4,Sep 19 1998,Sat,(13) Syracuse,70,,Rutgers,14,
 157,4,Sep 19 1998,Sat,(6) Tennessee,20,,(2) Florida,17,
-158,4,Sep 19 1998,Sat,(17) Texas A&amp;M,24,@,Southern Mississippi,6,
+158,4,Sep 19 1998,Sat,(17) Texas A&M,24,@,Southern Mississippi,6,
 159,4,Sep 19 1998,Sat,Texas Tech,34,,Fresno State,28,
 160,4,Sep 19 1998,Sat,Toledo,35,,Western Michigan,7,
 161,4,Sep 19 1998,Sat,(4) UCLA,42,@,Houston,24,
@@ -171,7 +167,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 166,4,Sep 19 1998,Sat,Washington State,24,,Idaho,16,
 167,4,Sep 19 1998,Sat,(19) West Virginia,42,,Maryland,20,
 168,4,Sep 19 1998,Sat,(14) Wisconsin,52,,Nevada-Las Vegas,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 169,5,Sep 24 1998,Thu,(16) Arizona,35,@,San Diego State,16,
 170,5,Sep 26 1998,Sat,Akron,52,,Ball State,14,
 171,5,Sep 26 1998,Sat,Arizona State,24,,Oregon State,3,
@@ -207,10 +202,10 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 201,5,Sep 26 1998,Sat,(20) Oregon,63,,Stanford,28,
 202,5,Sep 26 1998,Sat,Rutgers,27,,Army,15,
 203,5,Sep 26 1998,Sat,San Jose State,37,,New Mexico,20,
-204,5,Sep 26 1998,Sat,Southern Mississippi,55,,Louisiana-Lafayette,0,
+204,5,Sep 26 1998,Sat,Southern Mississippi,55,,Louisiana,0,
 205,5,Sep 26 1998,Sat,(4) Tennessee,42,,Houston,7,
 206,5,Sep 26 1998,Sat,Texas,59,,Rice,21,
-207,5,Sep 26 1998,Sat,(17) Texas A&amp;M,28,,North Texas,9,
+207,5,Sep 26 1998,Sat,(17) Texas A&M,28,,North Texas,9,
 208,5,Sep 26 1998,Sat,Texas Christian,35,,(23) Air Force,34,
 209,5,Sep 26 1998,Sat,Texas Tech,31,@,Iowa State,24,
 210,5,Sep 26 1998,Sat,Tulane,42,,Navy,24,
@@ -221,10 +216,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 215,5,Sep 26 1998,Sat,(19) West Virginia,44,,Tulsa,21,
 216,5,Sep 26 1998,Sat,(14) Wisconsin,38,,Northwestern,7,
 217,5,Sep 26 1998,Sat,Wyoming,31,,Louisiana Tech,19,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 218,6,Oct 1 1998,Thu,North Carolina State,38,,(11) Syracuse,17,
 219,6,Oct 3 1998,Sat,Air Force,56,,New Mexico,14,
-220,6,Oct 3 1998,Sat,Alabama-Birmingham,24,,Louisiana-Lafayette,13,
+220,6,Oct 3 1998,Sat,Alabama-Birmingham,24,,Louisiana,13,
 221,6,Oct 3 1998,Sat,Appalachian State,30,@,Wake Forest,27,
 222,6,Oct 3 1998,Sat,(14) Arizona,31,@,(20) Washington,28,
 223,6,Oct 3 1998,Sat,(22) Arkansas,27,,Kentucky,20,
@@ -252,7 +246,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 245,6,Oct 3 1998,Sat,Michigan State,38,,Central Michigan,7,
 246,6,Oct 3 1998,Sat,Mississippi,30,,South Carolina,28,
 247,6,Oct 3 1998,Sat,(23) Missouri,35,,Northwestern State,14,
-248,6,Oct 3 1998,Sat,(2) Nebraska,24,,Oklahoma State,17,
+248,6,Oct 3 1998,Sat,(2) Nebraska,24,N,Oklahoma State,17,
 249,6,Oct 3 1998,Sat,Nevada,31,@,Nevada-Las Vegas,20,
 250,6,Oct 3 1998,Sat,North Carolina,21,,Clemson,14,
 251,6,Oct 3 1998,Sat,(23) Notre Dame,35,,Stanford,17,
@@ -265,7 +259,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 258,6,Oct 3 1998,Sat,Southern Methodist,28,@,Hawaii,0,
 259,6,Oct 3 1998,Sat,(3) Tennessee,17,@,Auburn,9,
 260,6,Oct 3 1998,Sat,Texas,54,,Iowa State,33,
-261,6,Oct 3 1998,Sat,(18) Texas A&amp;M,24,@,Kansas,21,
+261,6,Oct 3 1998,Sat,(18) Texas A&M,24,@,Kansas,21,
 262,6,Oct 3 1998,Sat,Texas Christian,19,,Vanderbilt,16,
 263,6,Oct 3 1998,Sat,Texas Tech,31,,Baylor,29,
 264,6,Oct 3 1998,Sat,Tulane,21,,Southern Mississippi,7,
@@ -273,10 +267,9 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 266,6,Oct 3 1998,Sat,(10) Virginia,52,,San Jose State,14,
 267,6,Oct 3 1998,Sat,(16) West Virginia,45,@,Navy,24,
 268,6,Oct 3 1998,Sat,Western Michigan,27,,Louisiana-Monroe,14,
-269,6,Oct 3 1998,Sat,William &amp; Mary,45,@,Temple,38,
+269,6,Oct 3 1998,Sat,William & Mary,45,@,Temple,38,
 270,6,Oct 3 1998,Sat,(13) Wisconsin,24,@,Indiana,20,
 271,6,Oct 3 1998,Sat,Wyoming,27,,Utah,24,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 272,7,Oct 8 1998,Thu,(17) Virginia Tech,17,@,Boston College,0,
 273,7,Oct 9 1998,Fri,San Diego State,35,,Hawaii,13,
 274,7,Oct 10 1998,Sat,Air Force,49,,Navy,7,
@@ -318,8 +311,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 310,7,Oct 10 1998,Sat,Southern Mississippi,56,,Louisville,21,
 311,7,Oct 10 1998,Sat,(24) Syracuse,63,,Cincinnati,21,
 312,7,Oct 10 1998,Sat,(4) Tennessee,22,@,(7) Georgia,3,
-313,7,Oct 10 1998,Sat,Texas,34,,Oklahoma,3,
-314,7,Oct 10 1998,Sat,(18) Texas A&amp;M,28,,(2) Nebraska,21,
+313,7,Oct 10 1998,Sat,Texas,34,N,Oklahoma,3,
+314,7,Oct 10 1998,Sat,(18) Texas A&M,28,,(2) Nebraska,21,
 315,7,Oct 10 1998,Sat,Texas Christian,21,,Fresno State,10,
 316,7,Oct 10 1998,Sat,Texas Tech,24,,Oklahoma State,17,
 317,7,Oct 10 1998,Sat,Texas-El Paso,22,@,New Mexico,19,
@@ -330,7 +323,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 322,7,Oct 10 1998,Sat,Western Michigan,27,@,Vanderbilt,24,
 323,7,Oct 10 1998,Sat,(12) Wisconsin,31,,Purdue,24,
 324,7,Oct 10 1998,Sat,Wyoming,12,,Southern Methodist,7,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 325,8,Oct 17 1998,Sat,Alabama,23,,East Carolina,22,
 326,8,Oct 17 1998,Sat,(16) Arizona,28,@,Oregon State,7,
 327,8,Oct 17 1998,Sat,(17) Arkansas,41,@,South Carolina,28,
@@ -346,8 +338,8 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 337,8,Oct 17 1998,Sat,Indiana,14,,Iowa,7,
 338,8,Oct 17 1998,Sat,(4) Kansas State,52,,Oklahoma State,20,
 339,8,Oct 17 1998,Sat,Kentucky,39,@,(21) Louisiana State,36,
-340,8,Oct 17 1998,Sat,Louisiana Tech,54,,Alabama-Birmingham,23,
-341,8,Oct 17 1998,Sat,Louisiana-Lafayette,21,,Arkansas State,19,
+340,8,Oct 17 1998,Sat,Louisiana,21,,Arkansas State,19,
+341,8,Oct 17 1998,Sat,Louisiana Tech,54,,Alabama-Birmingham,23,
 342,8,Oct 17 1998,Sat,Marshall,42,,Kent State,7,
 343,8,Oct 17 1998,Sat,Memphis,41,,Cincinnati,23,
 344,8,Oct 17 1998,Sat,Miami (OH),28,@,Ball State,17,
@@ -370,7 +362,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 361,8,Oct 17 1998,Sat,Southern Mississippi,37,@,Army,13,
 362,8,Oct 17 1998,Sat,(23) Syracuse,42,@,Boston College,25,
 363,8,Oct 17 1998,Sat,Temple,28,@,(14) Virginia Tech,24,
-364,8,Oct 17 1998,Sat,(10) Texas A&amp;M,35,@,Baylor,14,
+364,8,Oct 17 1998,Sat,(10) Texas A&M,35,@,Baylor,14,
 365,8,Oct 17 1998,Sat,Texas-El Paso,28,,San Jose State,21,
 366,8,Oct 17 1998,Sat,Toledo,24,,Bowling Green State,16,
 367,8,Oct 17 1998,Sat,(24) Tulane,28,,Louisville,22,
@@ -381,7 +373,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 372,8,Oct 17 1998,Sat,Western Michigan,45,,Eastern Michigan,35,
 373,8,Oct 17 1998,Sat,(9) Wisconsin,37,@,Illinois,3,
 374,8,Oct 17 1998,Sat,Wyoming,28,@,Nevada-Las Vegas,25,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 375,9,Oct 22 1998,Thu,Arizona State,44,,Stanford,38,
 376,9,Oct 24 1998,Sat,Air Force,42,@,Tulsa,21,
 377,9,Oct 24 1998,Sat,(14) Arizona,45,,Louisiana-Monroe,7,
@@ -389,7 +380,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 379,9,Oct 24 1998,Sat,Boise State,30,,Utah State,16,
 380,9,Oct 24 1998,Sat,Bowling Green State,42,,Kent State,21,
 381,9,Oct 24 1998,Sat,Brigham Young,46,,San Jose State,43,
-382,9,Oct 24 1998,Sat,Central Florida,42,@,Louisiana-Lafayette,10,
+382,9,Oct 24 1998,Sat,Central Florida,42,@,Louisiana,10,
 383,9,Oct 24 1998,Sat,Central Michigan,26,,Western Michigan,24,
 384,9,Oct 24 1998,Sat,Colorado State,42,,Texas Christian,21,
 385,9,Oct 24 1998,Sat,Duke,28,,Clemson,23,
@@ -423,7 +414,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 413,9,Oct 24 1998,Sat,Southern Mississippi,41,,East Carolina,7,
 414,9,Oct 24 1998,Sat,(3) Tennessee,35,,Alabama,18,
 415,9,Oct 24 1998,Sat,Texas,30,,Baylor,20,
-416,9,Oct 24 1998,Sat,(8) Texas A&amp;M,17,,(25) Texas Tech,10,
+416,9,Oct 24 1998,Sat,(8) Texas A&M,17,,(25) Texas Tech,10,
 417,9,Oct 24 1998,Sat,Toledo,24,@,Akron,17,
 418,9,Oct 24 1998,Sat,(22) Tulane,52,@,Rutgers,24,
 419,9,Oct 24 1998,Sat,(2) UCLA,28,@,California,16,
@@ -433,7 +424,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 423,9,Oct 24 1998,Sat,Washington,35,,Oregon State,34,
 424,9,Oct 24 1998,Sat,(9) Wisconsin,31,@,Iowa,0,
 425,9,Oct 24 1998,Sat,Wyoming,34,,Rice,24,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 426,10,Oct 29 1998,Thu,Brigham Young,13,,San Diego State,0,
 427,10,Oct 31 1998,Sat,Air Force,31,,Southern Methodist,7,
 428,10,Oct 31 1998,Sat,Alabama,30,,Southern Mississippi,20,
@@ -444,7 +434,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 433,10,Oct 31 1998,Sat,California,20,@,Oregon State,19,
 434,10,Oct 31 1998,Sat,Central Florida,44,,Youngstown State,32,
 435,10,Oct 31 1998,Sat,Central Michigan,28,,Akron,27,
-436,10,Oct 31 1998,Sat,(6) Florida,38,,(11) Georgia,7,
+436,10,Oct 31 1998,Sat,(6) Florida,38,N,(11) Georgia,7,
 437,10,Oct 31 1998,Sat,(5) Florida State,39,,North Carolina,13,
 438,10,Oct 31 1998,Sat,Fresno State,28,@,New Mexico,20,
 439,10,Oct 31 1998,Sat,(23) Georgia Tech,31,@,Maryland,14,
@@ -474,10 +464,10 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 463,10,Oct 31 1998,Sat,(17) Syracuse,45,,Pittsburgh,28,
 464,10,Oct 31 1998,Sat,(3) Tennessee,49,@,South Carolina,14,
 465,10,Oct 31 1998,Sat,Texas,20,@,(7) Nebraska,16,
-466,10,Oct 31 1998,Sat,(8) Texas A&amp;M,17,@,Oklahoma State,6,
+466,10,Oct 31 1998,Sat,(8) Texas A&M,17,@,Oklahoma State,6,
 467,10,Oct 31 1998,Sat,Texas-El Paso,30,,Hawaii,13,
 468,10,Oct 31 1998,Sat,Toledo,16,@,Northern Illinois,3,
-469,10,Oct 31 1998,Sat,(19) Tulane,72,,Louisiana-Lafayette,20,
+469,10,Oct 31 1998,Sat,(19) Tulane,72,,Louisiana,20,
 470,10,Oct 31 1998,Sat,Tulsa,20,@,Nevada-Las Vegas,16,
 471,10,Oct 31 1998,Sat,(2) UCLA,28,,Stanford,24,
 472,10,Oct 31 1998,Sat,Utah,49,@,San Jose State,17,
@@ -487,7 +477,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 476,10,Oct 31 1998,Sat,(20) Virginia Tech,27,,(21) West Virginia,13,
 477,10,Oct 31 1998,Sat,Western Michigan,48,@,Kent State,23,
 478,10,Oct 31 1998,Sat,Wyoming,34,@,Texas Christian,27,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 479,11,Nov 5 1998,Thu,East Carolina,24,@,Cincinnati,21,
 480,11,Nov 7 1998,Sat,(25) Air Force,35,@,Army,7,
 481,11,Nov 7 1998,Sat,Alabama,22,@,Louisiana State,16,
@@ -505,7 +494,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 493,11,Nov 7 1998,Sat,(4) Kansas State,49,@,Baylor,6,
 494,11,Nov 7 1998,Sat,Kentucky,37,,Mississippi State,35,
 495,11,Nov 7 1998,Sat,Louisiana Tech,69,@,Arkansas State,21,
-496,11,Nov 7 1998,Sat,Louisiana-Monroe,34,,Louisiana-Lafayette,24,
+496,11,Nov 7 1998,Sat,Louisiana-Monroe,34,,Louisiana,24,
 497,11,Nov 7 1998,Sat,Marshall,28,,Central Michigan,0,
 498,11,Nov 7 1998,Sat,Miami (OH),41,@,Northern Illinois,10,
 499,11,Nov 7 1998,Sat,(22) Michigan,27,,(9) Penn State,0,
@@ -529,7 +518,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 517,11,Nov 7 1998,Sat,Temple,34,@,Pittsburgh,33,
 518,11,Nov 7 1998,Sat,(2) Tennessee,37,,Alabama-Birmingham,13,
 519,11,Nov 7 1998,Sat,(20) Texas,37,,Oklahoma State,34,
-520,11,Nov 7 1998,Sat,(7) Texas A&amp;M,29,,Oklahoma,0,
+520,11,Nov 7 1998,Sat,(7) Texas A&M,29,,Oklahoma,0,
 521,11,Nov 7 1998,Sat,(15) Tulane,41,@,Memphis,31,
 522,11,Nov 7 1998,Sat,(3) UCLA,41,@,Oregon State,34,
 523,11,Nov 7 1998,Sat,Utah,34,,Texas-El Paso,27,
@@ -537,7 +526,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 525,11,Nov 7 1998,Sat,Western Michigan,24,@,Ball State,23,
 526,11,Nov 7 1998,Sat,(8) Wisconsin,26,,Minnesota,7,
 527,11,Nov 7 1998,Sat,Wyoming,27,@,Colorado State,19,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 528,12,Nov 12 1998,Thu,(22) Georgia Tech,24,@,Clemson,21,
 529,12,Nov 14 1998,Sat,(23) Air Force,10,@,(25) Wyoming,3,
 530,12,Nov 14 1998,Sat,Akron,24,,Eastern Michigan,21,
@@ -569,7 +557,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 556,12,Nov 14 1998,Sat,Ohio,28,,Northern Illinois,12,
 557,12,Nov 14 1998,Sat,(7) Ohio State,45,@,Iowa,14,
 558,12,Nov 14 1998,Sat,Oklahoma,28,@,Baylor,16,
-559,12,Nov 14 1998,Sat,Oklahoma State,44,,Louisiana-Lafayette,20,
+559,12,Nov 14 1998,Sat,Oklahoma State,44,,Louisiana,20,
 560,12,Nov 14 1998,Sat,(20) Oregon,51,,Arizona State,19,
 561,12,Nov 14 1998,Sat,(19) Penn State,41,,Northwestern,10,
 562,12,Nov 14 1998,Sat,Purdue,25,@,Michigan State,24,
@@ -579,7 +567,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 566,12,Nov 14 1998,Sat,Stanford,38,,Washington State,28,
 567,12,Nov 14 1998,Sat,Syracuse,28,,(16) Virginia Tech,26,
 568,12,Nov 14 1998,Sat,(1) Tennessee,28,,(10) Arkansas,24,
-569,12,Nov 14 1998,Sat,(6) Texas A&amp;M,17,,(13) Missouri,14,
+569,12,Nov 14 1998,Sat,(6) Texas A&M,17,,(13) Missouri,14,
 570,12,Nov 14 1998,Sat,Texas Christian,17,@,Tulsa,7,
 571,12,Nov 14 1998,Sat,Texas Tech,42,,(18) Texas,35,
 572,12,Nov 14 1998,Sat,Toledo,17,,Central Michigan,14,
@@ -590,7 +578,6 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 577,12,Nov 14 1998,Sat,(21) Virginia,30,,North Carolina,13,
 578,12,Nov 14 1998,Sat,West Virginia,28,@,Rutgers,14,
 579,12,Nov 14 1998,Sat,Western Michigan,56,,Bowling Green State,27,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 580,13,Nov 19 1998,Thu,(22) Miami (FL),38,,Pittsburgh,10,
 581,13,Nov 21 1998,Sat,(20) Air Force,22,,Rice,16,
 582,13,Nov 21 1998,Sat,Alabama,31,,Auburn,17,
@@ -610,7 +597,7 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 596,13,Nov 21 1998,Sat,Idaho,36,@,Boise State,35,
 597,13,Nov 21 1998,Sat,Iowa State,23,,Kansas,20,
 598,13,Nov 21 1998,Sat,(2) Kansas State,31,@,(19) Missouri,25,
-599,13,Nov 21 1998,Sat,Louisiana-Lafayette,38,,Western Kentucky,24,
+599,13,Nov 21 1998,Sat,Louisiana,38,,Western Kentucky,24,
 600,13,Nov 21 1998,Sat,Louisiana-Monroe,43,,Portland State,27,
 601,13,Nov 21 1998,Sat,Louisville,35,,Army,23,
 602,13,Nov 21 1998,Sat,Marshall,29,,Wofford,27,
@@ -643,52 +630,46 @@ Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 629,13,Nov 21 1998,Sat,Washington,16,@,Washington State,9,
 630,13,Nov 21 1998,Sat,West Virginia,35,,Boston College,10,
 631,13,Nov 21 1998,Sat,(13) Wisconsin,24,,(16) Penn State,3,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
 632,14,Nov 26 1998,Thu,(25) Mississippi State,28,@,Mississippi,6,
 633,14,Nov 26 1998,Thu,(11) Tulane,63,,Louisiana Tech,30,
 634,14,Nov 27 1998,Fri,(7) Arizona,50,,Arizona State,42,
 635,14,Nov 27 1998,Fri,(13) Arkansas,41,,Louisiana State,14,
 636,14,Nov 27 1998,Fri,(14) Nebraska,16,,Colorado,14,
-637,14,Nov 27 1998,Fri,Texas,26,,(6) Texas A&amp;M,24,
+637,14,Nov 27 1998,Fri,Texas,26,,(6) Texas A&M,24,
 638,14,Nov 27 1998,Fri,West Virginia,52,@,Pittsburgh,14,
 639,14,Nov 28 1998,Sat,(17) Georgia Tech,21,@,(12) Georgia,19,
 640,14,Nov 28 1998,Sat,(15) Michigan,48,@,Hawaii,17,
-641,14,Nov 28 1998,Sat,North Carolina,37,,North Carolina State,34,
+641,14,Nov 28 1998,Sat,North Carolina,37,N,North Carolina State,34,
 642,14,Nov 28 1998,Sat,(23) Penn State,51,,Michigan State,28,
 643,14,Nov 28 1998,Sat,Southern California,10,,(9) Notre Dame,0,
 644,14,Nov 28 1998,Sat,(21) Syracuse,66,,(19) Miami (FL),13,
 645,14,Nov 28 1998,Sat,(1) Tennessee,41,@,Vanderbilt,0,
 646,14,Nov 28 1998,Sat,(16) Virginia,36,@,(20) Virginia Tech,32,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-647,15,Dec 4 1998,Fri,Marshall,23,,Toledo,17,
-648,15,Dec 5 1998,Sat,(17) Air Force,20,,Brigham Young,13,
-649,15,Dec 5 1998,Sat,Army,34,,Navy,30,
-650,15,Dec 5 1998,Sat,Miami (FL),49,,(3) UCLA,45,
-651,15,Dec 5 1998,Sat,(1) Tennessee,24,,(23) Mississippi State,14,
-652,15,Dec 5 1998,Sat,(10) Texas A&amp;M,36,,(2) Kansas State,33,
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-653,16,Dec 19 1998,Sat,North Carolina,20,,San Diego State,13,Las Vegas NV
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-654,17,Dec 23 1998,Wed,Marshall,48,,Louisville,29,Pontiac MI
-655,17,Dec 25 1998,Fri,(16) Air Force,45,,Washington,25,Honolulu HI
-656,17,Dec 25 1998,Fri,Colorado,51,,(21) Oregon,43,Honolulu HI
-657,17,Dec 26 1998,Sat,(23) Missouri,34,,West Virginia,31,Tucson AZ
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-658,18,Dec 29 1998,Tue,(24) Miami (FL),46,,North Carolina State,23,Miami FL
-659,18,Dec 29 1998,Tue,Purdue,37,,(4) Kansas State,34,San Antonio TX
-660,18,Dec 29 1998,Tue,Virginia Tech,38,,Alabama,7,Nashville TN
-661,18,Dec 30 1998,Wed,(5) Arizona,23,,(14) Nebraska,20,San Diego CA
-662,18,Dec 30 1998,Wed,Idaho,42,,Southern Mississippi,35,Boise ID
-663,18,Dec 31 1998,Thu,(19) Georgia,35,,(13) Virginia,33,Atlanta GA
-664,18,Dec 31 1998,Thu,Mississippi,35,,Texas Tech,18,Shreveport LA
-665,18,Dec 31 1998,Thu,Texas Christian,28,,Southern California,19,El Paso TX
-666,18,Dec 31 1998,Thu,(10) Tulane,41,,Brigham Young,27,Memphis TN
-667,18,Jan 1 1999,Fri,(12) Georgia Tech,35,,(17) Notre Dame,28,Jacksonville FL
-668,18,Jan 1 1999,Fri,(15) Michigan,45,,(11) Arkansas,31,Orlando FL
-669,18,Jan 1 1999,Fri,(3) Ohio State,24,,(8) Texas A&amp;M,14,New Orleans LA
-670,18,Jan 1 1999,Fri,(22) Penn State,26,,Kentucky,14,Tampa FL
-671,18,Jan 1 1999,Fri,(20) Texas,38,,(25) Mississippi State,11,Dallas TX
-672,18,Jan 1 1999,Fri,(9) Wisconsin,38,@,(6) UCLA,31,Pasadena CA
-673,18,Jan 2 1999,Sat,(7) Florida,31,,(18) Syracuse,10,Miami FL
-Rk,Wk,Date,Day,Winner/Tie,Pts,,Loser/Tie,Pts,Notes
-674,19,Jan 4 1999,Mon,(1) Tennessee,23,,(2) Florida State,16,Tempe AZ
+647,15,Dec 4 1998,Fri,Marshall,23,,Toledo,17,MAC Championship (Huntington WV)
+648,15,Dec 5 1998,Sat,(17) Air Force,20,N,Brigham Young,13,WAC Championship (Las Vegas NV)
+649,15,Dec 5 1998,Sat,Army,34,N,Navy,30,
+650,16,Dec 5 1998,Sat,Miami (FL),49,,(3) UCLA,45,
+651,16,Dec 5 1998,Sat,(1) Tennessee,24,N,(23) Mississippi State,14,SEC Championship (Atlanta GA)
+652,16,Dec 5 1998,Sat,(10) Texas A&M,36,N,(2) Kansas State,33,Big 12 Championship (St. Louis MO)
+653,16,Dec 19 1998,Sat,North Carolina,20,N,San Diego State,13,Las Vegas Bowl (Las Vegas NV)
+654,17,Dec 23 1998,Wed,Marshall,48,N,Louisville,29,Motor City Bowl (Pontiac MI)
+655,17,Dec 25 1998,Fri,(16) Air Force,45,N,Washington,25,Oahu Classic (Honolulu HI)
+656,17,Dec 25 1998,Fri,Colorado,51,N,(21) Oregon,43,Aloha Classic (Honolulu HI)
+657,17,Dec 26 1998,Sat,(23) Missouri,34,N,West Virginia,31,Insight Bowl (Tucson AZ)
+658,18,Dec 29 1998,Tue,(24) Miami (FL),46,,North Carolina State,23,Micron PC Bowl (Miami FL)
+659,18,Dec 29 1998,Tue,Purdue,37,N,(4) Kansas State,34,Alamo Bowl (San Antonio TX)
+660,18,Dec 29 1998,Tue,Virginia Tech,38,N,Alabama,7,Music City Bowl (Nashville TN)
+661,18,Dec 30 1998,Wed,(5) Arizona,23,N,(14) Nebraska,20,Holiday Bowl (San Diego CA)
+662,18,Dec 30 1998,Wed,Idaho,42,N,Southern Mississippi,35,Humanitarian Bowl (Boise ID)
+663,18,Dec 31 1998,Thu,(19) Georgia,35,N,(13) Virginia,33,Peach Bowl (Atlanta GA)
+664,18,Dec 31 1998,Thu,Mississippi,35,N,Texas Tech,18,Independence Bowl (Shreveport LA)
+665,18,Dec 31 1998,Thu,Texas Christian,28,N,Southern California,19,Sun Bowl (El Paso TX)
+666,18,Dec 31 1998,Thu,(10) Tulane,41,N,Brigham Young,27,Liberty Bowl (Memphis TN)
+667,18,Jan 1 1999,Fri,(12) Georgia Tech,35,N,(17) Notre Dame,28,Gator Bowl (Jacksonville FL)
+668,18,Jan 1 1999,Fri,(15) Michigan,45,N,(11) Arkansas,31,Citrus Bowl (Orlando FL)
+669,18,Jan 1 1999,Fri,(3) Ohio State,24,N,(8) Texas A&M,14,Sugar Bowl (New Orleans LA)
+670,18,Jan 1 1999,Fri,(22) Penn State,26,N,Kentucky,14,Outback Bowl (Tampa FL)
+671,18,Jan 1 1999,Fri,(20) Texas,38,N,(25) Mississippi State,11,Cotton Bowl (Dallas TX)
+672,18,Jan 1 1999,Fri,(9) Wisconsin,38,@,(6) UCLA,31,Rose Bowl (Pasadena CA)
+673,18,Jan 2 1999,Sat,(7) Florida,31,N,(18) Syracuse,10,Orange Bowl (Miami FL)
+674,19,Jan 4 1999,Mon,(1) Tennessee,23,N,(2) Florida State,16,Fiesta Bowl (Tempe AZ)

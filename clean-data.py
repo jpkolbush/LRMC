@@ -25,7 +25,24 @@ while j < len(header):
     j += 1
 rows[0] = ",".join(header)
 
-
+Playoffs = False
+i = 1
+while i < len(rows):
+    row = rows[i].split(",")
+    if row[0] == "Pk":
+        rows.pop(i)
+        i-=1
+    else:
+        for j in indecies_to_delete:
+            row.pop(j)
+        if int(row[1]) >= 16 and not Playoffs:
+            row[1] = "15"
+        elif int(row[1]) < 16 and Playoffs:
+            row[1] = "16"
+        if ("Army" in row[4] and "Navy" in row[7]) or ("Army" in row[7] and "Navy" in row[4]):
+            Playoffs = True
+        rows[i] = ",".join(row)
+    i += 1
 
 #Export data
 f = open(fileName,  "w")
