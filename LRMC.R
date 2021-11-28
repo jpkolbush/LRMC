@@ -2,7 +2,7 @@
 multiYearResults <- function() {
     L <- c()
     tot <- 0
-    for (year in 2002:2016) {
+    for (year in 2002:2019) {
         temp <- main(year, 4)
         L[length(L) + 1] <- temp
         tot <- tot + temp
@@ -237,6 +237,19 @@ tMatrix <- function(year, a, b, h) {
 
         i <- i + 1
     }
+    Records <- matrix(rep(0), nrow = length(teamN), ncol = 3)
+    rownames(Records) <- teamN
+    colnames(Records) <- c("Wins", "Losses", "Distribution")
+
+    i <- 1
+    while (i <= NROW(A)) {
+        nameW <- getWinner(A, i)
+        nameL <- getLoser(A, i)
+        Records[nameW, 1] <- Records[nameW, 1] + 1
+        Records[nameL, 2] <- Records[nameL, 2] + 1
+        i <- i + 1
+    }
+
     M <- matrix(rep(0, length(teamN) * length(teamN)), nrow = length(teamN), ncol = length(teamN))
     rownames(M) <- teamN
     colnames(M) <- teamN
@@ -297,9 +310,15 @@ tMatrix <- function(year, a, b, h) {
     for (i in 1:400) {
         P <- P %*% M
     }
-    i <- 1
-    print(sort(P[1, ]))
-    write.table(sort(P[1, ], decreasing = TRUE), file = paste("yearlyRankings/", year, ".csv", sep = ""), sep = ",")
+    for (name in rownames(P)) {
+        Records[name, 3] <- P[1, name]
+    }
+    Records <- Records[order(Records[, 3], decreasing = TRUE), ]
+    Records <- cbind("Team" = rownames(Records), Records)
+    rownames(Records) <- NULL
+    print(Records)
+
+    write.table(Records, file = paste("yearlyRankings/", year, ".csv", sep = ""), sep = ",", row.names = FALSE)
     P
 }
 
