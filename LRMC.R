@@ -408,7 +408,7 @@ getSpreads <- function(year, a, b, h) {
 # param year: the year of the seaons we are generating the CG file for
 # returns: CG table
 genCG <- function(year) {
-    A <- read.csv(file = paste("mhsaa_years_", (year), "-schedule_schedule.csv", sep = ""), head = TRUE, sep = ",")
+    A <- read.csv(file = paste("cfb_years_", (year), "-schedule_schedule.csv", sep = ""), head = TRUE, sep = ",")
     CG <- matrix(rep(0, NROW(A) * 6), nrow = NROW(A), ncol = 6)
     i <- 1
     print(A[i, 2])
@@ -486,8 +486,6 @@ CGsearch2 <- function(A, AnameH, AnameA, CG, I) {
             }
         }
         i <- i + 1
-        print("here")
-        print(A[1, 2])
         if (A[i, 2] == "Wk") {
             i <- i + 1
         }
